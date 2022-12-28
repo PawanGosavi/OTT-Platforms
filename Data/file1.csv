@@ -1,0 +1,101 @@
+,Unnamed: 0,ID,Title,Year,Age,IMDb,Rotten Tomatoes,Netflix,Hulu,Prime Video,Disney+,Type,Directors,Genres,Country,Language,Runtime
+0,0,1,Inception,2010,13+,8.8,87%,1,0,0,0,0,Christopher Nolan,"Action,Adventure,Sci-Fi,Thriller","United States,United Kingdom","English,Japanese,French",148.0
+1,1,2,The Matrix,1999,18+,8.7,87%,1,0,0,0,0,"Lana Wachowski,Lilly Wachowski","Action,Sci-Fi",United States,English,136.0
+2,2,3,Avengers: Infinity War,2018,13+,8.5,84%,1,0,0,0,0,"Anthony Russo,Joe Russo","Action,Adventure,Sci-Fi",United States,English,149.0
+3,3,4,Back to the Future,1985,7+,8.5,96%,1,0,0,0,0,Robert Zemeckis,"Adventure,Comedy,Sci-Fi",United States,English,116.0
+4,4,5,"The Good, the Bad and the Ugly",1966,18+,8.8,97%,1,0,1,0,0,Sergio Leone,Western,"Italy,Spain,West Germany",Italian,161.0
+5,5,6,Spider-Man: Into the Spider-Verse,2018,7+,8.4,97%,1,0,0,0,0,"Bob Persichetti,Peter Ramsey,Rodney Rothman","Animation,Action,Adventure,Family,Sci-Fi",United States,"English,Spanish",117.0
+6,6,7,The Pianist,2002,18+,8.5,95%,1,0,1,0,0,Roman Polanski,"Biography,Drama,Music,War","United Kingdom,France,Poland,Germany","English,German,Russian",150.0
+7,7,8,Django Unchained,2012,18+,8.4,87%,1,0,0,0,0,Quentin Tarantino,"Drama,Western",United States,"English,German,French,Italian",165.0
+8,8,9,Raiders of the Lost Ark,1981,7+,8.4,95%,1,0,0,0,0,Steven Spielberg,"Action,Adventure",United States,"English,German,Hebrew,Spanish,Arabic,Nepali",115.0
+9,9,10,Inglourious Basterds,2009,18+,8.3,89%,1,0,0,0,0,Quentin Tarantino,"Adventure,Drama,War","Germany,United States","English,German,French,Italian",153.0
+10,10,11,Taxi Driver,1976,18+,8.3,95%,1,0,0,0,0,Martin Scorsese,"Crime,Drama",United States,"English,Spanish",114.0
+11,11,12,3 Idiots,2009,13+,8.4,100%,1,0,1,0,0,Rajkumar Hirani,"Comedy,Drama",India,"Hindi,English",170.0
+12,12,13,Pan's Labyrinth,2006,18+,8.2,95%,1,0,0,0,0,Guillermo del Toro,"Drama,Fantasy,War","Mexico,Spain",Spanish,118.0
+13,13,14,Room,2015,18+,8.1,93%,1,0,0,0,0,Lenny Abrahamson,"Drama,Thriller","Ireland,Canada,United Kingdom,United States",English,118.0
+14,14,15,Monty Python and the Holy Grail,1975,7+,8.2,97%,1,0,0,0,0,"Terry Gilliam,Terry Jones","Adventure,Comedy,Fantasy",United Kingdom,"English,French,Latin",91.0
+15,15,16,Once Upon a Time in the West,1968,13+,8.5,95%,1,0,1,0,0,Sergio Leone,Western,"Italy,United States","Italian,English,Spanish",165.0
+16,16,17,Indiana Jones and the Last Crusade,1989,13+,8.2,88%,1,0,0,0,0,Steven Spielberg,"Action,Adventure",United States,"English,German,Greek,Arabic",127.0
+17,17,18,Groundhog Day,1993,7+,8.0,96%,1,0,0,0,0,Harold Ramis,"Comedy,Fantasy,Romance",United States,"English,French,Italian",101.0
+18,18,19,The King's Speech,2010,18+,8.0,95%,1,0,0,0,0,Tom Hooper,"Biography,Drama,History","United Kingdom,United States,Australia",English,118.0
+19,19,20,Her,2013,18+,8.0,95%,1,0,0,0,0,Spike Jonze,"Drama,Romance,Sci-Fi",United States,English,126.0
+20,20,21,There Will Be Blood,2007,18+,8.2,91%,1,0,0,0,0,Paul Thomas Anderson,Drama,United States,"English,American Sign Language",158.0
+21,21,22,The Social Network,2010,13+,7.7,96%,1,0,0,0,0,David Fincher,"Biography,Drama",United States,"English,French",120.0
+22,22,23,Dallas Buyers Club,2013,18+,8.0,93%,1,0,0,0,0,Jean-Marc Vallée,"Biography,Drama",United States,"English,Japanese",117.0
+23,23,24,The Perks of Being a Wallflower,2012,13+,8.0,86%,1,0,0,0,0,Stephen Chbosky,"Drama,Romance",United States,English,103.0
+24,24,25,Life of Brian,1979,18+,8.1,95%,1,0,0,0,0,Terry Jones,Comedy,United Kingdom,"English,Latin",94.0
+25,25,26,Ex Machina,2015,18+,7.7,92%,1,0,0,0,0,Alex Garland,"Drama,Mystery,Sci-Fi,Thriller","United Kingdom,United States",English,108.0
+26,26,27,Silver Linings Playbook,2012,18+,7.7,92%,1,0,0,0,0,David O. Russell,"Comedy,Drama,Romance",United States,English,122.0
+27,27,28,District 9,2009,18+,7.9,90%,1,0,0,0,0,Neill Blomkamp,"Action,Sci-Fi,Thriller","South Africa,United States,New Zealand,Canada","English,Nyanja,Afrikaans,Zulu,Xhosa,Southern Sotho",112.0
+28,28,29,The Irishman,2019,18+,7.9,96%,1,0,0,0,0,Martin Scorsese,"Biography,Crime,Drama",United States,"English,Italian,Latin,Spanish,German",209.0
+29,29,30,Moon,2009,18+,7.9,90%,1,0,0,0,0,Duncan Jones,"Drama,Mystery,Sci-Fi","United Kingdom,United States","English,Spanish",97.0
+30,30,31,Marriage Story,2019,18+,8.0,95%,1,0,0,0,0,Noah Baumbach,"Comedy,Drama,Romance","United Kingdom,United States","English,Spanish",137.0
+31,31,32,Drive,2011,18+,7.8,92%,1,0,1,0,0,Nicolas Winding Refn,"Crime,Drama",United States,"English,Spanish",100.0
+32,32,33,Train to Busan,2016,,7.5,94%,1,0,1,0,0,Sang-ho Yeon,"Action,Horror,Thriller",South Korea,"Korean,Hawaiian",118.0
+33,33,34,Incredibles 2,2018,7+,7.6,94%,1,0,0,0,0,Brad Bird,"Animation,Action,Adventure,Comedy,Family,Sci-Fi",United States,English,118.0
+34,34,35,Dangal,2016,7+,8.4,88%,1,0,0,0,0,Nitesh Tiwari,"Action,Biography,Drama,Sport",India,Hindi,161.0
+35,35,36,Klaus,2019,7+,8.2,94%,1,0,0,0,0,"Sergio Pablos,Carlos Martínez López","Animation,Adventure,Comedy,Family",Spain,"English,Saami",96.0
+36,36,37,Minority Report,2002,13+,7.6,90%,1,0,0,0,0,Steven Spielberg,"Action,Crime,Mystery,Sci-Fi,Thriller",United States,"English,Swedish",145.0
+37,37,38,Mystic River,2003,18+,7.9,88%,1,0,0,0,0,Clint Eastwood,"Crime,Drama,Mystery,Thriller","United States,Australia",English,138.0
+38,38,39,Like Stars on Earth,2007,7+,8.4,91%,1,0,0,0,0,"Aamir Khan,Amole Gupte","Drama,Family",India,"Hindi,English",165.0
+39,39,40,Ferris Bueller's Day Off,1986,13+,7.8,80%,1,0,0,0,0,John Hughes,Comedy,United States,"English,German",103.0
+40,40,41,Despicable Me,2010,7+,7.6,81%,1,0,0,0,0,"Pierre Coffin,Chris Renaud","Animation,Comedy,Family,Fantasy","United States,France",English,95.0
+41,41,42,Hell or High Water,2016,18+,7.6,97%,1,0,0,0,0,David Mackenzie,"Action,Crime,Drama,Thriller,Western",United States,English,102.0
+42,42,43,Sin City,2005,18+,8.0,77%,1,0,0,0,0,"Frank Miller,Robert Rodriguez,Quentin Tarantino","Crime,Thriller",United States,English,124.0
+43,43,44,Ip Man,2008,18+,8.0,85%,1,0,0,0,0,Wilson Yip,"Action,Adventure,Biography,Drama,History","Hong Kong,China","Cantonese,Mandarin,Japanese",106.0
+44,44,45,Indiana Jones and the Temple of Doom,1984,7+,7.6,85%,1,0,0,0,0,Steven Spielberg,"Action,Adventure",United States,"English,Sinhalese,Hindi",118.0
+45,45,46,The Theory of Everything,2014,13+,7.7,79%,1,0,0,0,0,James Marsh,"Biography,Drama,Romance","United Kingdom,Japan,United States","English,French",123.0
+46,46,47,The Pursuit of Happyness,2006,13+,8.0,67%,1,0,0,0,0,Gabriele Muccino,"Biography,Drama",United States,"English,Cantonese",117.0
+47,47,48,Senna,2010,13+,8.5,93%,1,0,0,0,0,Asif Kapadia,"Documentary,Biography,Sport","United Kingdom,France,United States","English,Portuguese,French,Japanese",106.0
+48,48,49,Scott Pilgrim vs. the World,2010,13+,7.5,81%,1,0,0,0,0,Edgar Wright,"Action,Comedy,Fantasy,Romance","United States,United Kingdom,Canada,Japan",English,112.0
+49,49,50,Magnolia,1999,18+,8.0,83%,1,0,0,0,0,Paul Thomas Anderson,Drama,United States,"English,German,French",188.0
+50,50,51,The Hateful Eight,2015,18+,7.8,75%,1,0,0,0,0,Quentin Tarantino,"Crime,Drama,Mystery,Thriller,Western",United States,"English,Spanish,French",168.0
+51,51,52,The Artist,2011,13+,7.9,95%,1,0,0,0,0,Michel Hazanavicius,"Comedy,Drama,Romance","France,Belgium,United States","English,French",100.0
+52,52,53,Moonlight,2016,18+,7.4,98%,1,0,0,0,0,Barry Jenkins,Drama,United States,English,111.0
+53,53,54,Back to the Future Part II,1989,7+,7.8,65%,1,0,0,0,0,Robert Zemeckis,"Adventure,Comedy,Sci-Fi",United States,English,108.0
+54,54,55,Willy Wonka & the Chocolate Factory,1971,all,7.8,91%,1,0,0,0,0,Mel Stuart,"Family,Fantasy,Musical","United States,East Germany,West Germany,Belgium","English,French,German,Italian",100.0
+55,55,56,What's Eating Gilbert Grape,1993,13+,7.8,90%,1,0,1,0,0,Lasse Hallström,Drama,United States,English,118.0
+56,56,57,The Curious Case of Benjamin Button,2008,13+,7.8,71%,1,0,0,0,0,David Fincher,"Drama,Fantasy,Romance",United States,"English,Russian,French",166.0
+57,57,58,A Silent Voice,2016,,8.2,94%,1,0,0,0,0,Naoko Yamada,"Animation,Drama,Family,Romance",Japan,"Japanese,Japanese Sign Language",130.0
+58,58,59,Snowpiercer,2013,18+,7.1,94%,1,0,0,0,0,,"Action,Drama,Sci-Fi,Thriller",United States,English,60.0
+59,59,60,Hugo,2011,7+,7.5,93%,1,0,0,0,0,Martin Scorsese,"Drama,Family,Fantasy,Mystery","United Kingdom,United States,France",English,126.0
+60,60,61,Ant-Man and the Wasp,2018,13+,7.1,88%,1,0,0,0,0,Peyton Reed,"Action,Adventure,Comedy,Sci-Fi",United States,"English,Spanish",118.0
+61,61,62,As Good as It Gets,1997,13+,7.7,85%,1,0,0,0,0,James L. Brooks,"Comedy,Drama,Romance",United States,English,139.0
+62,62,63,Back to the Future Part III,1990,7+,7.4,80%,1,0,0,0,0,Robert Zemeckis,"Adventure,Comedy,Sci-Fi,Western",United States,English,118.0
+63,63,64,Searching for Sugar Man,2012,13+,8.2,95%,1,0,0,0,0,Malik Bendjelloul,"Documentary,Biography,Music","Sweden,United Kingdom,Finland",English,86.0
+64,64,65,Road to Perdition,2002,18+,7.7,81%,1,0,0,0,0,Sam Mendes,"Crime,Drama,Thriller",United States,English,117.0
+65,65,66,To All the Boys I've Loved Before,2020,13+,7.2,97%,1,0,0,0,0,Susan Johnson,"Comedy,Drama,Romance",United States,English,99.0
+66,66,67,Molly's Game,2017,18+,7.4,82%,1,0,0,0,0,Aaron Sorkin,"Biography,Crime,Drama","China,Canada,United States",English,140.0
+67,67,68,Blackfish,2013,13+,8.1,98%,1,1,0,0,0,Gabriela Cowperthwaite,"Documentary,News",United States,"English,Spanish",83.0
+68,68,69,El Camino: A Breaking Bad Movie,2019,18+,7.4,91%,1,0,0,0,0,Vince Gilligan,"Action,Crime,Drama",United States,English,122.0
+69,69,70,The Invisible Guest,2016,18+,8.1,67%,1,0,0,0,0,Oriol Paulo,"Crime,Mystery,Thriller",Spain,Spanish,106.0
+70,70,71,Song of the Sea,2014,7+,8.1,99%,1,0,0,0,0,Tomm Moore,"Animation,Adventure,Drama,Family,Fantasy","Ireland,Denmark,Belgium,Luxembourg,France","English,Irish",93.0
+71,71,72,End of Watch,2012,18+,7.6,85%,1,0,0,0,0,David Ayer,"Action,Crime,Drama,Thriller",United States,"English,Spanish",109.0
+72,72,73,The Evil Dead,1981,18+,7.5,95%,1,0,0,0,0,Sam Raimi,Horror,United States,English,85.0
+73,73,74,About Time,2013,18+,7.8,68%,1,0,0,0,0,Richard Curtis,"Comedy,Drama,Fantasy,Romance,Sci-Fi",United Kingdom,English,123.0
+74,74,75,Kung Fu Hustle,2004,18+,7.7,90%,1,0,0,0,0,Stephen Chow,"Action,Comedy,Fantasy","Hong Kong,China,United States","Cantonese,Mandarin",99.0
+75,75,76,Blue Is the Warmest Color,2013,18+,7.7,89%,1,0,0,0,0,Abdellatif Kechiche,"Drama,Romance","France,Belgium,Spain","French,English",180.0
+76,76,77,Y Tu Mamá También,2001,18+,7.6,92%,1,0,0,0,0,Alfonso Cuarón,Drama,Mexico,Spanish,106.0
+77,77,78,The Naked Gun: From the Files of Police Squad!,1988,13+,7.6,87%,1,0,0,0,0,David Zucker,"Comedy,Crime",United States,English,85.0
+78,78,79,Mud,2013,13+,7.4,97%,1,0,0,0,0,Jeff Nichols,Drama,United States,English,130.0
+79,79,80,The Edge of Seventeen,2016,18+,7.3,94%,1,0,0,0,0,Kelly Fremon Craig,"Comedy,Drama","United States,China",English,104.0
+80,80,81,Philadelphia,1993,13+,7.7,80%,1,0,0,0,0,,Comedy,United States,English,22.0
+81,81,82,Lagaan: Once Upon a Time in India,2001,7+,8.1,95%,1,0,0,0,0,Ashutosh Gowariker,"Adventure,Drama,Musical,Sport",India,"Hindi,English,Awadhi,Urdu",224.0
+82,82,83,Tucker and Dale vs. Evil,2010,18+,7.5,85%,1,0,0,0,0,Eli Craig,"Comedy,Horror","Canada,United States,India",English,89.0
+83,83,84,The Matrix Reloaded,2003,18+,7.2,73%,1,0,0,0,0,"Lana Wachowski,Lilly Wachowski","Action,Sci-Fi",United States,"English,French",138.0
+84,84,85,The Two Popes,2019,13+,7.6,89%,1,0,0,0,0,Fernando Meirelles,"Comedy,Drama","United Kingdom,Italy","English,Spanish,Italian,Latin,Portuguese,French,German",125.0
+85,85,86,The Last Samurai,2003,18+,7.7,66%,1,0,0,0,0,Edward Zwick,"Action,Drama,War","United States,New Zealand,Japan","English,Japanese",154.0
+86,86,87,The Florida Project,2017,18+,7.6,96%,1,0,0,0,0,Sean Baker,Drama,United States,"English,Spanish,Portuguese",111.0
+87,87,88,13th,2016,18+,8.2,96%,1,0,0,0,0,Ava DuVernay,"Documentary,Crime,News",United States,English,100.0
+88,88,89,Bahubali: The Beginning,2015,13+,8.1,88%,1,0,0,0,0,S.S. Rajamouli,"Action,Drama",India,"Telugu,Tamil",159.0
+89,89,90,The Dawn Wall,2018,,8.1,100%,1,0,0,0,0,"Josh Lowell,Peter Mortimer","Documentary,Biography,Sport","Austria,United States",English,100.0
+90,90,91,Dolemite Is My Name,2019,18+,7.3,97%,1,0,0,0,0,Craig Brewer,"Biography,Comedy,Drama",United States,English,118.0
+91,91,92,Tarzan,1999,all,7.3,89%,1,0,0,0,0,David Yates,"Action,Adventure,Drama,Fantasy,Romance","United Kingdom,Canada,United States","English,Lingala,French",110.0
+92,92,93,The Platform,2019,18+,7.0,82%,1,0,0,0,0,Galder Gaztelu-Urrutia,"Horror,Sci-Fi,Thriller",Spain,Spanish,94.0
+93,93,94,Okja,2017,13+,7.3,87%,1,0,0,0,0,Bong Joon Ho,"Action,Adventure,Drama,Sci-Fi","South Korea,United States","English,Korean,Spanish",120.0
+94,94,95,Roma,2018,18+,7.7,96%,1,0,0,0,0,,"Action,Drama,History,Romance,War","United Kingdom,United States",English,52.0
+95,95,96,Saving Mr. Banks,2013,13+,7.5,79%,1,0,0,1,0,John Lee Hancock,"Biography,Comedy,Drama","United States,United Kingdom,Australia",English,125.0
+96,96,97,Icarus,2017,18+,7.9,93%,1,0,0,0,0,Bryan Fogel,"Documentary,Sport,Thriller",United States,"English,Russian",120.0
+97,97,98,Jiro Dreams of Sushi,2011,7+,7.9,99%,1,1,0,0,0,David Gelb,Documentary,United States,Japanese,81.0
+98,98,99,Corpse Bride,2005,7+,7.3,84%,1,0,0,0,0,"Tim Burton,Mike Johnson","Animation,Drama,Family,Fantasy,Musical,Romance","United States,United Kingdom",English,77.0
+99,99,100,Jerry Maguire,1996,18+,7.3,83%,1,0,0,0,0,Cameron Crowe,"Comedy,Drama,Romance,Sport",United States,"English,American Sign Language",139.0

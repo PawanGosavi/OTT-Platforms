@@ -1,0 +1,2651 @@
+ID,Title,Year,Age,IMDb,Rotten Tomatoes,Netflix,Hulu,Prime Video,Disney+,Type,Kind,Seasons Count
+1,Inception,2010,13+,8.8,87%,1,0,0,0,0,movie,NA
+2,The Matrix,1999,18+,8.7,87%,1,0,0,0,0,movie,NA
+3,Avengers: Infinity War,2018,13+,8.5,84%,1,0,0,0,0,movie,NA
+4,Back to the Future,1985,7+,8.5,96%,1,0,0,0,0,movie,NA
+5,"The Good, the Bad and the Ugly",1966,18+,8.8,97%,1,0,1,0,0,movie,NA
+6,Spider-Man: Into the Spider-Verse,2018,7+,8.4,97%,1,0,0,0,0,movie,NA
+7,The Pianist,2002,18+,8.5,95%,1,0,1,0,0,movie,NA
+8,Django Unchained,2012,18+,8.4,87%,1,0,0,0,0,movie,NA
+9,Raiders of the Lost Ark,1981,7+,8.4,95%,1,0,0,0,0,movie,NA
+10,Inglourious Basterds,2009,18+,8.3,89%,1,0,0,0,0,movie,NA
+11,Taxi Driver,1976,18+,8.3,95%,1,0,0,0,0,movie,NA
+12,3 Idiots,2009,13+,8.4,100%,1,0,1,0,0,movie,NA
+13,Pan's Labyrinth,2006,18+,8.2,95%,1,0,0,0,0,movie,NA
+14,Room,2015,18+,8.1,93%,1,0,0,0,0,movie,NA
+15,Monty Python and the Holy Grail,1975,7+,8.2,97%,1,0,0,0,0,movie,NA
+16,Once Upon a Time in the West,1968,13+,8.5,95%,1,0,1,0,0,movie,NA
+17,Indiana Jones and the Last Crusade,1989,13+,8.2,88%,1,0,0,0,0,movie,NA
+18,Groundhog Day,1993,7+,8.0,96%,1,0,0,0,0,movie,NA
+19,The King's Speech,2010,18+,8.0,95%,1,0,0,0,0,movie,NA
+20,Her,2013,18+,8.0,95%,1,0,0,0,0,movie,NA
+21,There Will Be Blood,2007,18+,8.2,91%,1,0,0,0,0,movie,NA
+22,The Social Network,2010,13+,7.7,96%,1,0,0,0,0,movie,NA
+23,Dallas Buyers Club,2013,18+,8.0,93%,1,0,0,0,0,movie,NA
+24,The Perks of Being a Wallflower,2012,13+,8.0,86%,1,0,0,0,0,movie,NA
+25,Life of Brian,1979,18+,8.1,95%,1,0,0,0,0,movie,NA
+26,Ex Machina,2015,18+,7.7,92%,1,0,0,0,0,movie,NA
+27,Silver Linings Playbook,2012,18+,7.7,92%,1,0,0,0,0,movie,NA
+28,District 9,2009,18+,7.9,90%,1,0,0,0,0,movie,NA
+29,The Irishman,2019,18+,7.9,96%,1,0,0,0,0,movie,NA
+30,Moon,2009,18+,7.9,90%,1,0,0,0,0,movie,NA
+31,Marriage Story,2019,18+,8.0,95%,1,0,0,0,0,movie,NA
+32,Drive,2011,18+,7.8,92%,1,0,1,0,0,movie,NA
+33,Train to Busan,2016,,7.5,94%,1,0,1,0,0,movie,NA
+34,Incredibles 2,2018,7+,7.6,94%,1,0,0,0,0,movie,NA
+35,Dangal,2016,7+,8.4,88%,1,0,0,0,0,movie,NA
+36,Klaus,2019,7+,8.2,94%,1,0,0,0,0,movie,NA
+37,Minority Report,2002,13+,7.6,90%,1,0,0,0,0,movie,NA
+38,Mystic River,2003,18+,7.9,88%,1,0,0,0,0,movie,NA
+39,Like Stars on Earth,2007,7+,8.4,91%,1,0,0,0,0,movie,NA
+40,Ferris Bueller's Day Off,1986,13+,7.8,80%,1,0,0,0,0,movie,NA
+41,Despicable Me,2010,7+,7.6,81%,1,0,0,0,0,movie,NA
+42,Hell or High Water,2016,18+,7.6,97%,1,0,0,0,0,movie,NA
+43,Sin City,2005,18+,8.0,77%,1,0,0,0,0,movie,NA
+44,Ip Man,2008,18+,8.0,85%,1,0,0,0,0,movie,NA
+45,Indiana Jones and the Temple of Doom,1984,7+,7.6,85%,1,0,0,0,0,movie,NA
+46,The Theory of Everything,2014,13+,7.7,79%,1,0,0,0,0,movie,NA
+47,The Pursuit of Happyness,2006,13+,8.0,67%,1,0,0,0,0,movie,NA
+48,Senna,2010,13+,8.5,93%,1,0,0,0,0,movie,NA
+49,Scott Pilgrim vs. the World,2010,13+,7.5,81%,1,0,0,0,0,movie,NA
+50,Magnolia,1999,18+,8.0,83%,1,0,0,0,0,movie,NA
+51,The Hateful Eight,2015,18+,7.8,75%,1,0,0,0,0,movie,NA
+52,The Artist,2011,13+,7.9,95%,1,0,0,0,0,movie,NA
+53,Moonlight,2016,18+,7.4,98%,1,0,0,0,0,movie,NA
+54,Back to the Future Part II,1989,7+,7.8,65%,1,0,0,0,0,movie,NA
+55,Willy Wonka & the Chocolate Factory,1971,all,7.8,91%,1,0,0,0,0,movie,NA
+56,What's Eating Gilbert Grape,1993,13+,7.8,90%,1,0,1,0,0,movie,NA
+57,The Curious Case of Benjamin Button,2008,13+,7.8,71%,1,0,0,0,0,movie,NA
+58,A Silent Voice,2016,,8.2,94%,1,0,0,0,0,movie,NA
+59,Snowpiercer,2013,18+,7.1,94%,1,0,0,0,0,tv series,3
+60,Hugo,2011,7+,7.5,93%,1,0,0,0,0,movie,NA
+61,Ant-Man and the Wasp,2018,13+,7.1,88%,1,0,0,0,0,movie,NA
+62,As Good as It Gets,1997,13+,7.7,85%,1,0,0,0,0,movie,NA
+63,Back to the Future Part III,1990,7+,7.4,80%,1,0,0,0,0,movie,NA
+64,Searching for Sugar Man,2012,13+,8.2,95%,1,0,0,0,0,movie,NA
+65,Road to Perdition,2002,18+,7.7,81%,1,0,0,0,0,movie,NA
+66,To All the Boys I've Loved Before,2020,13+,7.2,97%,1,0,0,0,0,movie,NA
+67,Molly's Game,2017,18+,7.4,82%,1,0,0,0,0,movie,NA
+68,Blackfish,2013,13+,8.1,98%,1,1,0,0,0,movie,NA
+69,El Camino: A Breaking Bad Movie,2019,18+,7.4,91%,1,0,0,0,0,movie,NA
+70,The Invisible Guest,2016,18+,8.1,67%,1,0,0,0,0,movie,NA
+71,Song of the Sea,2014,7+,8.1,99%,1,0,0,0,0,movie,NA
+72,End of Watch,2012,18+,7.6,85%,1,0,0,0,0,movie,NA
+73,The Evil Dead,1981,18+,7.5,95%,1,0,0,0,0,movie,NA
+74,About Time,2013,18+,7.8,68%,1,0,0,0,0,movie,NA
+75,Kung Fu Hustle,2004,18+,7.7,90%,1,0,0,0,0,movie,NA
+76,Blue Is the Warmest Color,2013,18+,7.7,89%,1,0,0,0,0,movie,NA
+77,Y Tu Mamá También,2001,18+,7.6,92%,1,0,0,0,0,movie,NA
+78,The Naked Gun: From the Files of Police Squad!,1988,13+,7.6,87%,1,0,0,0,0,movie,NA
+79,Mud,2013,13+,7.4,97%,1,0,0,0,0,movie,NA
+80,The Edge of Seventeen,2016,18+,7.3,94%,1,0,0,0,0,movie,NA
+81,Philadelphia,1993,13+,7.7,80%,1,0,0,0,0,tv series,18
+82,Lagaan: Once Upon a Time in India,2001,7+,8.1,95%,1,0,0,0,0,movie,NA
+83,Tucker and Dale vs. Evil,2010,18+,7.5,85%,1,0,0,0,0,movie,NA
+84,The Matrix Reloaded,2003,18+,7.2,73%,1,0,0,0,0,movie,NA
+85,The Two Popes,2019,13+,7.6,89%,1,0,0,0,0,movie,NA
+86,The Last Samurai,2003,18+,7.7,66%,1,0,0,0,0,movie,NA
+87,The Florida Project,2017,18+,7.6,96%,1,0,0,0,0,movie,NA
+88,13th,2016,18+,8.2,96%,1,0,0,0,0,movie,NA
+89,Bahubali: The Beginning,2015,13+,8.1,88%,1,0,0,0,0,movie,NA
+90,The Dawn Wall,2018,,8.1,100%,1,0,0,0,0,movie,NA
+91,Dolemite Is My Name,2019,18+,7.3,97%,1,0,0,0,0,movie,NA
+92,Tarzan,1999,all,7.3,89%,1,0,0,0,0,movie,NA
+93,The Platform,2019,18+,7.0,82%,1,0,0,0,0,movie,NA
+94,Okja,2017,13+,7.3,87%,1,0,0,0,0,movie,NA
+95,Roma,2018,18+,7.7,96%,1,0,0,0,0,tv series,2
+96,Saving Mr. Banks,2013,13+,7.5,79%,1,0,0,1,0,movie,NA
+97,Icarus,2017,18+,7.9,93%,1,0,0,0,0,movie,NA
+98,Jiro Dreams of Sushi,2011,7+,7.9,99%,1,1,0,0,0,movie,NA
+99,Corpse Bride,2005,7+,7.3,84%,1,0,0,0,0,movie,NA
+100,Jerry Maguire,1996,18+,7.3,83%,1,0,0,0,0,movie,NA
+101,The Death of Stalin,2017,18+,7.2,96%,1,0,0,0,0,movie,NA
+102,GoldenEye,1995,13+,7.2,78%,1,0,0,0,0,movie,NA
+103,The Boy in the Striped Pyjamas,2008,13+,7.8,63%,1,0,0,0,0,movie,NA
+104,Amy,2015,18+,7.8,95%,1,0,1,1,0,tv series,6
+105,Ralph Breaks the Internet,2018,7+,7.1,88%,1,0,0,0,0,movie,NA
+106,Good Time,2017,18+,7.4,92%,1,0,0,0,0,movie,NA
+107,Ip Man 2,2010,18+,7.5,96%,1,0,0,0,0,movie,NA
+108,The Little Prince,2015,7+,7.7,93%,1,0,0,0,0,movie,NA
+109,The Spectacular Now,2013,18+,7.1,91%,1,0,0,0,0,movie,NA
+110,Baahubali 2: The Conclusion,2017,7+,8.2,89%,1,0,0,0,0,movie,NA
+111,Black Mirror: Bandersnatch,2018,,7.2,92%,1,0,0,0,0,tv movie,NA
+112,PK,2014,13+,8.1,76%,1,0,0,0,0,movie,NA
+113,Extraction,2020,18+,6.8,68%,1,0,0,0,0,movie,NA
+114,The Lobster,2015,18+,7.2,87%,1,0,0,0,0,movie,NA
+115,Blue Valentine,2010,18+,7.4,87%,1,0,0,0,0,movie,NA
+116,Zindagi Na Milegi Dobara,2011,7+,8.1,91%,1,0,0,0,0,movie,NA
+117,Green Room,2015,18+,7.0,91%,1,0,0,0,0,movie,NA
+118,Kung Fu Panda 2,2011,7+,7.2,81%,1,0,0,0,0,movie,NA
+119,The Ballad of Buster Scruggs,2018,18+,7.3,91%,1,0,0,0,0,movie,NA
+120,Cloverfield,2008,13+,7.0,77%,1,0,0,0,0,movie,NA
+121,Burning,2018,18+,7.5,95%,1,0,0,0,0,movie,NA
+122,The Adventures of Tintin,2011,7+,7.3,74%,1,0,0,0,0,movie,NA
+123,Bolt,2008,7+,6.8,89%,1,0,0,1,0,movie,NA
+124,Neon Genesis Evangelion: The End of Evangelion,1997,,8.1,88%,1,0,0,0,0,movie,NA
+125,Chasing Amy,1997,18+,7.2,87%,1,0,0,0,0,movie,NA
+126,The Princess and the Frog,2009,all,7.1,85%,1,0,0,1,0,movie,NA
+127,Bad Genius,2017,13+,7.6,100%,1,0,0,0,0,movie,NA
+128,The Wicker Man,1973,18+,7.5,89%,1,0,0,0,0,movie,NA
+129,A Single Man,2009,18+,7.6,85%,1,0,0,0,0,movie,NA
+130,Blow,2001,18+,7.6,55%,1,0,0,0,0,movie,NA
+131,The Squid and the Whale,2005,18+,7.3,92%,1,0,1,0,0,movie,NA
+132,My Life as a Zucchini,2016,13+,7.8,99%,1,0,0,0,0,movie,NA
+133,"Jim & Andy: The Great Beyond- Featuring a Very Special, Contractually Obligated Mention of Tony Clifton",2017,18+,7.7,94%,1,0,0,0,0,movie,NA
+134,Barfi!,2012,all,8.1,86%,1,0,0,0,0,movie,NA
+135,Frances Ha,2013,18+,7.5,92%,1,0,0,0,0,movie,NA
+136,Tootsie,1982,7+,7.4,90%,1,0,0,0,0,movie,NA
+137,Solo: A Star Wars Story,2018,13+,6.9,70%,1,0,0,0,0,movie,NA
+138,Steve Jobs,2015,18+,7.2,85%,1,0,0,0,0,movie,NA
+139,Tremors,1990,13+,7.1,88%,1,0,0,0,0,movie,NA
+140,The Croods,2013,7+,7.2,71%,1,0,0,0,0,movie,NA
+141,Locke,2014,18+,7.1,91%,1,0,0,0,0,movie,NA
+142,Bill Burr: I'm Sorry You Feel That Way,2014,18+,8.4,100%,1,0,0,0,0,movie,NA
+143,Starred Up,2013,18+,7.4,99%,1,0,1,0,0,movie,NA
+144,Mudbound,2017,18+,7.4,97%,1,0,0,0,0,movie,NA
+145,Austin Powers: International Man of Mystery,1997,13+,7.0,71%,1,0,0,0,0,movie,NA
+146,Blue Ruin,2013,18+,7.1,96%,1,0,0,0,0,movie,NA
+147,The Patriot,2000,18+,7.2,61%,1,1,0,0,0,movie,NA
+148,Babel,2006,18+,7.4,69%,1,0,0,0,0,movie,NA
+149,The Square,2013,,8.1,100%,1,1,1,0,0,movie,NA
+150,Gerald's Game,2017,18+,6.6,90%,1,0,0,0,0,movie,NA
+151,Miracle,2004,7+,7.5,81%,1,0,0,1,0,movie,NA
+152,Swades,2004,all,8.2,83%,1,0,0,0,0,movie,NA
+153,Tinker Tailor Soldier Spy,2011,18+,7.1,83%,1,0,0,0,0,movie,NA
+154,The Witch,2015,18+,6.9,90%,1,0,0,0,0,movie,NA
+155,Haider,2014,13+,8.1,86%,1,0,0,0,0,movie,NA
+156,Padman,2018,13+,7.9,100%,1,0,0,0,0,movie,NA
+157,Hush,2016,18+,6.6,91%,1,0,0,0,0,movie,NA
+158,Elizabeth,1998,18+,7.4,82%,1,0,0,0,0,movie,NA
+159,Miss Americana,2020,18+,7.4,93%,1,0,0,0,0,movie,NA
+160,Christopher Robin,2018,7+,7.3,73%,1,0,0,0,0,movie,NA
+161,I Lost My Body,2019,18+,7.6,96%,1,0,0,0,0,movie,NA
+162,I Am Mother,2019,13+,6.7,90%,1,0,0,0,0,movie,NA
+163,Lupin the Third: The Castle of Cagliostro,1979,7+,7.7,94%,1,0,0,0,0,movie,NA
+164,The Autopsy of Jane Doe,2016,18+,6.8,86%,1,0,0,0,0,movie,NA
+165,Virunga,2014,,8.2,100%,1,0,0,0,0,movie,NA
+166,Freedom Writers,2007,13+,7.5,70%,1,0,1,0,0,movie,NA
+167,The Master,2012,18+,7.2,85%,1,0,0,0,0,movie,NA
+168,A Serious Man,2009,18+,7.0,90%,1,0,0,0,0,movie,NA
+169,The King,2019,18+,7.2,70%,1,0,0,0,0,movie,NA
+170,The Breadwinner,2017,13+,7.7,95%,1,0,0,0,0,NA,NA
+171,The Boy Who Harnessed the Wind,2019,7+,7.6,87%,1,0,1,0,0,movie,NA
+172,Article 15,2019,,8.3,89%,1,0,0,0,0,movie,NA
+173,The Killing of a Sacred Deer,2017,18+,7.0,79%,1,0,0,0,0,movie,NA
+174,Lawless,2012,18+,7.3,67%,1,0,0,0,0,movie,NA
+175,Kabhi Khushi Kabhie Gham,2001,all,7.4,100%,1,0,0,0,0,movie,NA
+176,Charlie and the Chocolate Factory,2005,7+,6.6,82%,1,0,0,0,0,movie,NA
+177,Freaks,2019,18+,6.7,87%,1,0,0,0,0,movie,NA
+178,Hannah Gadsby: Nanette,2018,,8.2,100%,1,0,0,0,0,movie,NA
+179,The Mask of Zorro,1998,13+,6.7,82%,1,0,0,0,0,movie,NA
+180,The Natural,1984,7+,7.5,82%,1,0,0,0,0,movie,NA
+181,Equilibrium,2002,18+,7.4,40%,1,0,0,0,0,movie,NA
+182,Arthur Christmas,2011,7+,7.1,92%,1,0,0,0,0,movie,NA
+183,The Rainmaker,1997,13+,7.2,83%,1,0,1,0,0,movie,NA
+184,Winter on Fire: Ukraine's Fight for Freedom,2015,,8.4,88%,1,0,0,0,0,movie,NA
+185,Always Be My Maybe,2019,13+,6.8,89%,1,0,0,0,0,movie,NA
+186,The Crying Game,1992,18+,7.2,94%,1,0,0,0,0,movie,NA
+187,War Horse,2011,13+,7.2,74%,1,0,0,0,0,movie,NA
+188,Shot Caller,2017,18+,7.3,69%,1,0,0,0,0,movie,NA
+189,The Invitation,2015,,6.6,88%,1,0,1,0,0,movie,NA
+190,A Most Violent Year,2014,18+,7.0,89%,1,0,0,0,0,movie,NA
+191,The Other Guys,2010,13+,6.6,78%,1,0,0,0,0,movie,NA
+192,Kapoor & Sons,2016,13+,7.7,100%,1,0,0,0,0,movie,NA
+193,On Body and Soul,2017,,7.6,89%,1,0,0,0,0,movie,NA
+194,The Fundamentals of Caring,2016,18+,7.3,77%,1,0,1,0,0,movie,NA
+195,Insidious,2010,13+,6.8,66%,1,0,0,0,0,movie,NA
+196,Bill Burr: Paper Tiger,2019,18+,8.2,86%,1,0,0,0,0,movie,NA
+197,Bad Boys,1995,18+,6.9,43%,1,0,0,0,0,movie,NA
+198,The Foreigner,2017,18+,7.0,65%,1,0,0,0,0,movie,NA
+199,The Danish Girl,2015,18+,7.1,67%,1,0,0,0,0,movie,NA
+200,The Girl with All the Gifts,2016,18+,6.6,86%,1,0,0,0,0,movie,NA
+201,Bird Box,2018,18+,6.6,63%,1,0,0,0,0,movie,NA
+202,The Ring,2002,13+,7.1,71%,1,0,1,0,0,movie,NA
+203,Hostiles,2017,18+,7.2,72%,1,0,0,0,0,movie,NA
+204,Sairat,2016,,8.3,100%,1,0,0,0,0,movie,NA
+205,Trumbo,2015,18+,7.5,74%,1,0,1,0,0,movie,NA
+206,LA 92,2017,18+,8.2,92%,1,0,0,0,0,movie,NA
+207,20th Century Women,2016,18+,7.3,88%,1,0,0,0,0,movie,NA
+208,Kal Ho Naa Ho,2003,all,8.0,70%,1,0,0,0,0,movie,NA
+209,Swiss Army Man,2016,18+,7.0,71%,1,0,0,0,0,movie,NA
+210,In This Corner of the World,2016,13+,7.8,97%,1,0,0,0,0,movie,NA
+211,A Ghost Story,2017,18+,6.9,91%,1,0,0,0,0,movie,NA
+212,United 93,2006,18+,7.5,90%,1,0,0,0,0,movie,NA
+213,Patriot Games,1992,18+,6.9,72%,1,0,1,0,0,movie,NA
+214,The Secret Life of Pets 2,2019,7+,6.5,60%,1,0,0,0,0,movie,NA
+215,Hitch,2005,13+,6.6,68%,1,1,0,0,0,movie,NA
+216,The Young Offenders,2016,,7.1,100%,1,0,0,0,0,tv series,3
+217,Enemy,2013,18+,6.9,71%,1,0,0,0,0,movie,NA
+218,Mirage,2018,18+,7.4,71%,1,0,1,0,0,movie,NA
+219,Everybody's Everything,2019,18+,7.4,100%,1,0,0,0,0,movie,NA
+220,Indiana Jones and the Kingdom of the Crystal Skull,2008,13+,6.1,78%,1,0,0,0,0,movie,NA
+221,The Guernsey Literary & Potato Peel Pie Society,2018,,7.4,81%,1,0,0,0,0,movie,NA
+222,I Don't Feel at Home in This World Anymore,2017,18+,6.9,88%,1,0,0,0,0,movie,NA
+223,The Endless,2018,,6.5,94%,1,0,0,0,0,movie,NA
+224,Julie & Julia,2009,13+,7.0,77%,1,0,0,0,0,movie,NA
+225,The Game Changers,2019,,7.9,70%,1,0,0,0,0,movie,NA
+226,Under the Shadow,2016,13+,6.9,99%,1,0,0,0,0,movie,NA
+227,Angel Has Fallen,2019,18+,6.4,39%,1,0,0,0,0,movie,NA
+228,Kon-Tiki,2012,13+,7.2,81%,1,0,1,0,0,movie,NA
+229,Mary Poppins Returns,2018,7+,6.7,79%,1,0,0,0,0,movie,NA
+230,Kajaki,2014,18+,7.1,100%,1,0,0,0,0,movie,NA
+231,The Fear of 13,2015,,7.7,94%,1,0,0,0,0,movie,NA
+232,The Night Comes for Us,2018,18+,7.0,92%,1,0,0,0,0,movie,NA
+233,Blood Father,2016,18+,6.4,89%,1,0,0,0,0,movie,NA
+234,Stree,2018,7+,7.6,77%,1,0,0,0,0,movie,NA
+235,American Factory,2019,16+,7.4,97%,1,0,0,0,0,movie,NA
+236,Code 8,2019,,6.1,79%,1,0,0,0,0,movie,NA
+237,Salt,2010,13+,6.4,62%,1,0,0,0,0,movie,NA
+238,The Hundred-Foot Journey,2014,7+,7.3,67%,1,0,0,0,0,movie,NA
+239,The Distinguished Citizen,2016,,7.5,100%,1,0,0,0,0,movie,NA
+240,Scooby-Doo on Zombie Island,1998,all,7.8,86%,1,0,0,0,0,video movie,NA
+241,Chasing Coral,2017,,8.1,100%,1,0,0,0,0,movie,NA
+242,The End of the Tour,2015,18+,7.3,92%,1,0,0,0,0,movie,NA
+243,The One I Love,2014,18+,7.1,82%,1,0,0,0,0,movie,NA
+244,Underworld,2003,18+,7.0,31%,1,0,0,0,0,movie,NA
+245,The Death of Mr. Lazarescu,2005,18+,7.9,93%,1,0,0,0,0,movie,NA
+246,Madagascar: Escape 2 Africa,2008,7+,6.6,64%,1,0,0,0,0,movie,NA
+247,The Wolf's Call,2019,16+,6.9,92%,1,0,0,0,0,movie,NA
+248,What Happened to Monday,2017,18+,6.9,59%,1,0,0,0,0,movie,NA
+249,The Willoughbys,2020,7+,6.4,90%,1,0,0,0,0,movie,NA
+250,The White Helmets,2016,16+,7.5,100%,1,0,0,0,0,movie,NA
+251,Suburra,2015,,7.4,91%,1,0,0,0,0,tv series,3
+252,The Matrix Revolutions,2003,18+,6.8,35%,1,0,0,0,0,movie,NA
+253,Richard Pryor: Live in Concert,1979,18+,8.2,92%,1,0,0,0,0,movie,NA
+254,Austin Powers: The Spy Who Shagged Me,1999,13+,6.6,52%,1,0,0,0,0,movie,NA
+255,Get Him to the Greek,2010,18+,6.4,72%,1,0,0,0,0,movie,NA
+256,Slow West,2015,18+,6.9,92%,1,0,0,0,0,movie,NA
+257,The Meyerowitz Stories (New and Selected),2017,18+,6.9,93%,1,0,0,0,0,movie,NA
+258,The Battered Bastards of Baseball,2014,,8.0,100%,1,0,0,0,0,movie,NA
+259,The Perfection,2018,18+,6.1,83%,1,0,0,0,0,movie,NA
+260,Ip Man 3,2015,13+,7.1,78%,1,0,0,0,0,movie,NA
+261,Sinister,2012,18+,6.8,64%,1,0,0,0,0,movie,NA
+262,Rush: Beyond the Lighted Stage,2010,,8.4,90%,1,0,0,0,0,movie,NA
+263,20 Feet from Stardom,2013,13+,7.4,99%,1,0,0,0,0,movie,NA
+264,The Stanford Prison Experiment,2015,18+,6.9,84%,1,0,0,0,0,movie,NA
+265,My Week with Marilyn,2011,13+,7.0,83%,1,0,0,0,0,movie,NA
+266,Catfish,2010,13+,7.1,80%,1,0,0,0,0,movie,NA
+267,Secret Superstar,2017,,7.9,90%,1,0,0,0,0,movie,NA
+268,Private Life,2018,,7.2,94%,1,0,0,0,0,movie,NA
+269,Jarhead,2005,18+,7.0,61%,1,0,0,0,0,movie,NA
+270,Yes Man,2008,13+,6.8,46%,1,0,0,0,0,movie,NA
+271,For the Love of Spock,2016,,7.6,100%,1,0,0,0,0,movie,NA
+272,Goon,2012,18+,6.8,81%,1,0,0,0,0,movie,NA
+273,Ace Ventura: Pet Detective,1994,13+,6.9,48%,1,0,0,0,0,movie,NA
+274,Inequality for All,2013,7+,8.0,90%,1,0,0,0,0,movie,NA
+275,Olympus Has Fallen,2013,18+,6.5,49%,1,0,0,0,0,movie,NA
+276,Dave Chappelle: Sticks & Stones,2019,18+,8.5,35%,1,0,0,0,0,movie,NA
+277,John Mulaney: Kid Gorgeous at Radio City,2018,18+,7.9,100%,1,0,0,0,0,movie,NA
+278,La Bamba,1987,13+,6.9,90%,1,0,0,0,0,movie,NA
+279,Public Enemies,2009,18+,7.0,68%,1,0,0,0,0,movie,NA
+280,Supersonic,2016,18+,7.9,84%,1,0,0,0,0,movie,NA
+281,The Edge of Democracy,2019,16+,7.1,97%,1,0,0,0,0,movie,NA
+282,The Polar Express,2004,all,6.6,56%,1,0,0,0,0,movie,NA
+283,Under the Skin,2014,18+,6.3,85%,1,0,0,0,0,movie,NA
+284,Crip Camp: A Disability Revolution,2020,18+,7.8,100%,1,0,0,0,0,movie,NA
+285,Tell Me Who I Am,2019,,7.6,95%,1,0,0,0,0,movie,NA
+286,Hey Arnold! The Jungle Movie,2017,7+,7.6,100%,1,1,0,0,0,tv movie,NA
+287,Zack and Miri Make a Porno,2008,18+,6.5,65%,1,0,0,0,0,movie,NA
+288,The Score,2001,18+,6.8,73%,1,0,1,0,0,movie,NA
+289,Hamburger Hill,1987,18+,6.7,100%,1,0,1,0,0,movie,NA
+290,9,2009,13+,7.1,57%,1,0,0,0,0,movie,NA
+291,Undefeated,2011,13+,7.7,96%,1,0,0,0,0,movie,NA
+292,Team Foxcatcher,2016,,7.3,100%,1,0,0,0,0,movie,NA
+293,A Shaun the Sheep Movie: Farmageddon,2019,all,6.9,97%,1,0,0,0,0,movie,NA
+294,April and the Extraordinary World,2015,7+,7.3,96%,1,0,0,0,0,movie,NA
+295,The Highwaymen,2019,18+,6.9,57%,1,0,0,0,0,movie,NA
+296,Legend,2015,18+,6.9,61%,1,0,0,0,0,movie,NA
+297,Boy & the World,2014,7+,7.6,93%,1,0,0,0,0,movie,NA
+298,Creep 2,2017,,6.4,100%,1,0,0,0,0,movie,NA
+299,Terminator 3: Rise of the Machines,2003,18+,6.3,69%,1,0,0,0,0,movie,NA
+300,Unrest,2017,,7.7,100%,1,0,0,0,0,movie,NA
+301,Guru,2007,13+,7.7,83%,1,0,0,0,0,movie,NA
+302,Louis C.K. 2017,2017,18+,7.6,100%,1,0,0,0,0,movie,NA
+303,A Twelve-Year Night,2018,,7.6,88%,1,0,0,0,0,movie,NA
+304,Happy as Lazzaro,2018,,7.6,91%,1,0,0,0,0,movie,NA
+305,"What Happened, Miss Simone?",2015,,7.6,89%,1,0,0,0,0,movie,NA
+306,Blue Jay,2016,,7.3,90%,1,0,1,0,0,movie,NA
+307,1922,2017,18+,6.3,90%,1,0,0,0,0,movie,NA
+308,Hancock,2008,13+,6.4,41%,1,0,0,0,0,movie,NA
+309,Circus of Books,2019,,7.1,98%,1,0,0,0,0,movie,NA
+310,"Hail, Caesar!",2016,13+,6.3,85%,1,0,0,0,0,movie,NA
+311,The Pixar Story,2007,all,7.8,86%,1,0,0,0,0,movie,NA
+312,Child's Play,1988,18+,6.6,71%,1,0,1,0,0,movie,NA
+313,Springsteen On Broadway,2018,,8.5,95%,1,0,0,0,0,tv movie,NA
+314,The Angry Birds Movie 2,2019,7+,6.4,73%,1,0,0,0,0,movie,NA
+315,Obvious Child,2014,18+,6.8,90%,1,0,0,0,0,movie,NA
+316,Awe!,2018,,7.8,100%,1,0,0,0,0,movie,NA
+317,American Honey,2016,18+,7.0,79%,1,0,0,0,0,movie,NA
+318,Last Breath,2019,,7.7,92%,1,0,0,0,0,movie,NA
+319,Udta Punjab,2016,18+,7.8,91%,1,0,0,0,0,movie,NA
+320,Den of Thieves,2018,18+,7.0,41%,1,0,0,0,0,movie,NA
+321,Wadjda,2012,7+,7.5,99%,1,0,0,0,0,movie,NA
+322,The Spiderwick Chronicles,2008,7+,6.5,80%,1,0,0,0,0,movie,NA
+323,The Christmas Chronicles,2018,7+,7.1,64%,1,0,1,0,0,movie,NA
+324,Turbo,2013,7+,6.4,67%,1,0,0,0,0,movie,NA
+325,My Girl,1991,7+,6.9,53%,1,0,0,0,0,movie,NA
+326,22-Jul,2018,18+,6.8,80%,1,0,0,0,0,movie,NA
+327,Adam Sandler: 100% Fresh,2018,18+,7.6,92%,1,0,0,0,0,movie,NA
+328,Remember,2015,18+,7.5,70%,1,0,1,0,0,movie,NA
+329,Triple Frontier,2019,18+,6.4,72%,1,0,0,0,0,movie,NA
+330,Bombshell: The Hedy Lamarr Story,2018,13+,7.4,96%,1,0,0,0,0,movie,NA
+331,Paddleton,2019,18+,7.2,89%,1,0,0,0,0,movie,NA
+332,Bad Boys II,2003,18+,6.6,23%,1,0,0,0,0,movie,NA
+333,Sour Grapes,2016,16+,7.3,96%,1,0,0,0,0,movie,NA
+334,Betting on Zero,2017,,7.2,100%,1,0,0,0,0,movie,NA
+335,Delhi Belly,2011,,7.5,87%,1,0,0,0,0,movie,NA
+336,Being Elmo: A Puppeteer's Journey,2011,7+,7.6,95%,1,0,0,0,0,movie,NA
+337,Williams,2017,,7.6,93%,1,0,0,0,0,movie,NA
+338,It Comes at Night,2017,18+,6.2,87%,1,0,0,0,0,movie,NA
+339,Cuba and the Cameraman,2017,,8.2,100%,1,0,0,0,0,movie,NA
+340,Creep,2014,18+,6.3,89%,1,0,0,0,0,movie,NA
+341,The Interview,2014,18+,6.5,52%,1,1,1,0,0,movie,NA
+342,Bobby Robson: More Than a Manager,2018,,8.2,100%,1,0,0,0,0,movie,NA
+343,Outbreak,1995,18+,6.6,59%,1,0,0,0,0,movie,NA
+344,Black Snake Moan,2006,18+,6.9,66%,1,0,1,0,0,movie,NA
+345,Bright,2017,18+,6.3,28%,1,0,0,0,0,movie,NA
+346,Cargo,2017,,6.3,85%,1,0,1,0,0,movie,NA
+347,Even the Rain,2010,,7.4,87%,1,0,0,0,0,movie,NA
+348,Candyman,1992,18+,6.6,74%,1,0,0,0,0,movie,NA
+349,Mary and the Witch's Flower,2017,7+,6.8,89%,1,0,0,0,0,movie,NA
+350,Calibre,2018,18+,6.7,93%,1,0,0,0,0,movie,NA
+351,First They Killed My Father,2017,18+,7.2,89%,1,0,0,0,0,movie,NA
+352,Us and Them,2018,,7.3,100%,1,0,0,0,0,movie,NA
+353,Up in Smoke,1978,18+,7.0,50%,1,0,0,0,0,movie,NA
+354,Final Destination,2000,18+,6.7,35%,1,0,0,0,0,movie,NA
+355,Kill the Messenger,2014,18+,6.9,77%,1,0,0,0,0,movie,NA
+356,Operation Odessa,2018,18+,7.8,100%,1,0,0,0,0,movie,NA
+357,The American Meme,2018,,7.3,100%,1,0,0,0,0,movie,NA
+358,Outlaw King,2018,18+,6.9,61%,1,0,0,0,0,movie,NA
+359,21,2008,13+,6.8,36%,1,0,0,0,0,movie,NA
+360,Holding the Man,2015,,7.4,81%,1,0,0,0,0,movie,NA
+361,Krisha,2016,18+,7.2,95%,1,0,0,0,0,movie,NA
+362,De Palma,2016,18+,7.4,94%,1,0,0,0,0,movie,NA
+363,Dear Ex,2018,18+,7.4,89%,1,0,0,0,0,movie,NA
+364,Tomorrow Never Dies,1997,13+,6.5,57%,1,0,0,0,0,movie,NA
+365,Veronica,2017,18+,6.2,88%,1,0,0,0,0,movie,NA
+366,The Cakemaker,2017,,7.2,98%,1,0,0,0,0,movie,NA
+367,Instructions Not Included,2013,13+,7.5,57%,1,0,0,0,0,movie,NA
+368,Bleed for This,2016,18+,6.8,69%,1,0,0,0,0,movie,NA
+369,Girl,2018,18+,7.2,84%,1,0,1,0,0,movie,NA
+370,The Naked Gun 2½: The Smell of Fear,1991,13+,6.9,57%,1,0,0,0,0,movie,NA
+371,Bareilly's Barfi,2017,,7.5,86%,1,0,0,0,0,movie,NA
+372,The Sky Is Pink,2019,,7.5,72%,1,0,0,0,0,movie,NA
+373,Chitty Chitty Bang Bang,1968,all,6.9,67%,1,0,0,0,0,movie,NA
+374,A Wednesday!,2008,,8.1,,1,0,0,0,0,tv series,1
+375,Jodhaa Akbar,2008,13+,7.6,75%,1,0,0,0,0,movie,NA
+376,Handsome Devil,2017,,7.1,83%,1,0,0,0,0,movie,NA
+377,"Love, Rosie",2014,18+,7.2,33%,1,0,1,0,0,movie,NA
+378,Oceans,2009,all,7.8,81%,1,0,0,0,0,movie,NA
+379,The Ritual,2017,18+,6.3,71%,1,0,0,0,0,movie,NA
+380,Super Dark Times,2017,,6.6,89%,1,0,0,0,0,movie,NA
+381,Tallulah,2016,,6.7,84%,1,0,0,0,0,movie,NA
+382,Other People,2016,,6.8,85%,1,0,0,0,0,movie,NA
+383,Alpha Dog,2006,18+,6.9,54%,1,0,0,0,0,movie,NA
+384,Spectral,2016,13+,6.3,75%,1,0,0,0,0,movie,NA
+385,The Babysitter,2017,18+,6.3,71%,1,0,1,0,0,movie,NA
+386,"Extremely Wicked, Shockingly Evil and Vile",2019,18+,6.6,55%,1,0,0,0,0,movie,NA
+387,Heneral Luna,2015,18+,7.6,71%,1,0,0,0,0,movie,NA
+388,Click,2006,13+,6.4,33%,1,0,0,0,0,movie,NA
+389,The Duchess,2008,13+,6.9,62%,1,0,1,0,0,movie,NA
+390,The Last Man on the Moon,2016,18+,7.4,94%,1,0,0,0,0,movie,NA
+391,The 24 Hour War,2016,,7.2,100%,1,0,0,0,0,movie,NA
+392,Mune: Guardian of the Moon,2015,7+,7.2,80%,1,0,0,0,0,movie,NA
+393,The Devil We Know,2018,,7.7,100%,1,0,0,0,0,movie,NA
+394,How the Grinch Stole Christmas,2000,7+,6.2,50%,1,0,0,0,0,movie,NA
+395,LA Originals,2020,,7.3,83%,1,0,0,0,0,movie,NA
+396,Whisky,2004,,7.1,100%,1,0,1,0,0,movie,NA
+397,The Sapphires,2012,13+,7.0,91%,1,0,0,0,0,movie,NA
+398,Bloodsport,1988,18+,6.8,40%,1,0,0,0,0,movie,NA
+399,Tinker Bell and the Legend of the NeverBeast,2014,all,7.3,75%,1,0,0,0,0,video movie,NA
+400,Get Me Roger Stone,2017,16+,7.4,88%,1,0,0,0,0,movie,NA
+401,Alex Strangelove,2018,18+,6.3,86%,1,0,0,0,0,movie,NA
+402,She's Out of My League,2010,18+,6.4,58%,1,0,1,0,0,movie,NA
+403,Sarah's Key,2010,13+,7.5,72%,1,0,0,0,0,movie,NA
+404,My Happy Family,2017,,7.4,100%,1,0,0,0,0,movie,NA
+405,Killing Them Softly,2012,18+,6.2,73%,1,0,0,0,0,movie,NA
+406,Ittefaq,2017,7+,7.2,89%,1,0,1,0,0,movie,NA
+407,6 Underground,2019,18+,6.1,36%,1,0,0,0,0,movie,NA
+408,The Accountant of Auschwitz,2018,,7.3,100%,1,0,0,0,0,movie,NA
+409,Echo in the Canyon,2019,13+,7.0,92%,1,0,0,0,0,movie,NA
+410,Hold the Dark,2018,,5.6,73%,1,0,0,0,0,movie,NA
+411,Suffragette,2015,13+,6.9,73%,1,0,0,0,0,movie,NA
+412,The Siege of Jadotville,2016,,7.2,60%,1,0,0,0,0,movie,NA
+413,Terminator Salvation,2009,13+,6.5,33%,1,0,0,0,0,movie,NA
+414,Hotel Transylvania 3: Summer Vacation,2018,7+,6.3,62%,1,0,0,0,0,movie,NA
+415,Filmworker,2018,,7.4,95%,1,0,0,0,0,movie,NA
+416,Our Souls at Night,2017,16+,6.9,90%,1,0,0,0,0,movie,NA
+417,Mine 9,2019,,6.7,88%,1,0,0,0,0,movie,NA
+418,Everybody Knows,2018,18+,6.9,78%,1,0,0,0,0,movie,NA
+419,Retribution,2015,,6.6,100%,1,0,1,0,0,tv mini series,1
+420,Ice Guardians,2016,,7.5,100%,1,0,0,0,0,movie,NA
+421,Tinker Bell and the Pirate Fairy,2014,all,6.6,81%,1,0,0,0,0,video movie,NA
+422,The World Is Not Enough,1999,13+,6.4,52%,1,0,0,0,0,movie,NA
+423,Suite Française,2014,,7.0,76%,1,0,0,0,0,movie,NA
+424,Period. End of Sentence.,2018,,7.4,83%,1,0,0,0,0,movie,NA
+425,Beyond the Mat,1999,18+,7.6,82%,1,0,0,0,0,movie,NA
+426,Next Gen,2018,7+,6.6,80%,1,0,0,0,0,movie,NA
+427,Cam,2018,18+,5.9,93%,1,0,0,0,0,movie,NA
+428,Divines,2016,,7.4,83%,1,0,0,0,0,movie,NA
+429,Shirkers,2018,,7.4,100%,1,0,0,0,0,movie,NA
+430,Underworld: Evolution,2006,18+,6.7,17%,1,0,0,0,0,movie,NA
+431,Om Shanti Om,2007,7+,6.7,76%,1,0,0,0,0,movie,NA
+432,How to Change the World,2015,,7.6,95%,1,0,0,0,0,movie,NA
+433,Spitfire,2018,7+,7.5,94%,1,0,0,0,0,tv movie,NA
+434,You Are My Sunday,2016,,7.7,100%,1,0,0,0,0,movie,NA
+435,Dear Zindagi,2016,13+,7.6,69%,1,0,0,0,0,movie,NA
+436,Uncorked,2020,13+,6.1,93%,1,0,0,0,0,movie,NA
+437,The Water Diviner,2014,18+,7.0,61%,1,0,0,0,0,movie,NA
+438,Gaga: Five Foot Two,2017,18+,7.0,74%,1,0,0,0,0,movie,NA
+439,Austin Powers in Goldmember,2002,13+,6.2,54%,1,0,0,0,0,movie,NA
+440,He Never Died,2015,18+,6.4,87%,1,0,0,0,0,movie,NA
+441,Black Sea,2014,18+,6.4,80%,1,0,0,0,0,movie,NA
+442,Ali's Wedding,2017,18+,6.9,92%,1,0,0,0,0,movie,NA
+443,Event Horizon,1997,18+,6.7,27%,1,0,0,0,0,movie,NA
+444,Mississippi Grind,2015,18+,6.4,91%,1,0,0,0,0,movie,NA
+445,They'll Love Me When I'm Dead,2018,18+,7.4,92%,1,0,0,0,0,movie,NA
+446,Kai Po Che!,2013,,7.6,76%,1,0,0,0,0,movie,NA
+447,Badla,2019,7+,7.9,57%,1,0,0,0,0,movie,NA
+448,Young Adult,2011,18+,6.2,80%,1,0,1,0,0,movie,NA
+449,ZZ Top: That Little Ol' Band From Texas,2019,,7.4,100%,1,0,0,0,0,movie,NA
+450,Scary Movie,2000,18+,6.2,53%,1,0,0,0,0,movie,NA
+451,The Dirt,2019,18+,7.0,42%,1,0,0,0,0,movie,NA
+452,Killer Klowns from Outer Space,1988,13+,6.2,78%,1,0,0,0,0,movie,NA
+453,The Exception,2017,18+,6.8,74%,1,0,0,0,0,movie,NA
+454,Spenser Confidential,2020,18+,6.2,38%,1,0,0,0,0,movie,NA
+455,Wheelman,2017,18+,6.4,88%,1,0,0,0,0,movie,NA
+456,While We're Young,2014,18+,6.3,84%,1,0,0,0,0,movie,NA
+457,Die Another Day,2002,13+,6.1,57%,1,0,0,0,0,movie,NA
+458,The Grandmaster,2013,13+,6.6,78%,1,0,0,0,0,movie,NA
+459,Bathtubs Over Broadway,2018,13+,7.5,100%,1,0,0,0,0,movie,NA
+460,Cadillac Records,2008,18+,7.0,67%,1,0,0,0,0,movie,NA
+461,I am Divine,2013,,7.6,96%,1,0,0,0,0,movie,NA
+462,King Jack,2015,,7.0,94%,1,0,0,0,0,movie,NA
+463,The Runaways,2010,18+,6.5,70%,1,0,0,0,0,movie,NA
+464,2012,2009,13+,5.8,39%,1,0,0,0,0,movie,NA
+465,The Half of It,2020,13+,7.0,95%,1,0,0,0,0,movie,NA
+466,Tigertail,2020,7+,6.4,80%,1,0,0,0,0,movie,NA
+467,Sleeping with Other People,2015,18+,6.5,64%,1,0,0,0,0,movie,NA
+468,What Lies Beneath,2000,13+,6.6,46%,1,0,0,0,0,movie,NA
+469,Fractured,2019,18+,6.4,62%,1,0,0,0,0,movie,NA
+470,Master Z: Ip Man Legacy,2018,13+,6.5,89%,1,0,0,0,0,movie,NA
+471,Neruda,2016,18+,6.9,93%,1,0,0,0,0,movie,NA
+472,One Day,2011,13+,7.0,36%,1,0,1,0,0,movie,NA
+473,Just Friends,2005,13+,6.2,42%,1,0,0,0,0,movie,NA
+474,Aśoka,2001,18+,6.5,100%,1,0,0,0,0,movie,NA
+475,Harold and Lillian: A Hollywood Love Story,2017,,8.0,97%,1,0,0,0,0,movie,NA
+476,The Grinch,2018,7+,6.3,59%,1,0,0,0,0,movie,NA
+477,Qarib Qarib Singlle,2017,,7.0,88%,1,0,0,0,0,movie,NA
+478,Beasts of No Nation,2015,,7.7,91%,1,0,0,0,0,movie,NA
+479,Time Trap,2017,18+,6.5,60%,1,0,0,0,0,movie,NA
+480,Final Destination 2,2003,18+,6.2,48%,1,0,0,0,0,movie,NA
+481,Steve Martin and Martin Short: An Evening You Will Forget for the Rest of Your Life,2018,,7.1,100%,1,0,0,0,0,movie,NA
+482,Dance Academy: The Movie,2017,,7.0,100%,1,0,0,0,0,movie,NA
+483,White Fang,2018,7+,6.9,88%,1,0,0,1,0,movie,NA
+484,All the Bright Places,2020,18+,6.5,68%,1,0,0,0,0,movie,NA
+485,Elena,2013,,7.6,85%,1,0,1,0,0,movie,NA
+486,Underworld: Rise of the Lycans,2009,18+,6.6,30%,1,0,0,0,0,movie,NA
+487,Talaash,2012,,7.2,80%,1,0,0,0,0,movie,NA
+488,Kevin Hart: Laugh at My Pain,2011,18+,7.4,71%,1,0,0,0,0,movie,NA
+489,Gridiron Gang,2006,13+,6.9,43%,1,0,0,0,0,movie,NA
+490,Hot Rod,2007,13+,6.7,39%,1,0,1,0,0,movie,NA
+491,Bee Movie,2007,7+,6.1,50%,1,0,0,0,0,movie,NA
+492,Trash,2014,18+,7.2,66%,1,0,0,0,0,movie,NA
+493,The Photographer of Mauthausen,2018,18+,6.7,83%,1,0,0,0,0,movie,NA
+494,He's Just Not That Into You,2009,13+,6.4,41%,1,0,0,0,0,movie,NA
+495,Forks Over Knives,2011,7+,7.7,59%,1,0,0,0,0,movie,NA
+496,Bandits,2001,13+,6.5,64%,1,0,1,0,0,movie,NA
+497,Sanju,2018,,7.8,50%,1,0,0,0,0,movie,NA
+498,Blame!,2017,13+,6.7,82%,1,1,1,0,0,movie,NA
+499,Quincy,2018,18+,7.6,81%,1,0,0,0,0,tv series,8
+500,DragonHeart,1996,13+,6.5,50%,1,0,0,0,0,movie,NA
+501,Bad Day for the Cut,2017,,6.5,92%,1,0,0,0,0,movie,NA
+502,We the Animals,2018,18+,6.9,93%,1,0,0,0,0,movie,NA
+503,Soul Surfer,2011,7+,7.0,45%,1,0,0,0,0,movie,NA
+504,Rocko's Modern Life: Static Cling,2019,7+,7.0,91%,1,0,0,0,0,tv movie,NA
+505,Haywire,2011,18+,5.8,80%,1,0,0,0,0,movie,NA
+506,Pink,2016,,8.1,100%,1,0,0,0,0,movie,NA
+507,Stuart Little,1999,7+,5.9,67%,1,0,0,0,0,movie,NA
+508,Cutie and the Boxer,2013,18+,7.2,95%,1,0,0,0,0,movie,NA
+509,The World Is Yours,2018,18+,6.4,100%,1,0,0,0,0,movie,NA
+510,Berlin Syndrome,2017,18+,6.3,75%,1,0,0,0,0,movie,NA
+511,Furie,2019,18+,5.8,95%,1,0,0,0,0,movie,NA
+512,Big Miracle,2012,7+,6.5,75%,1,0,0,0,0,movie,NA
+513,Tramps,2016,,6.5,95%,1,0,0,0,0,movie,NA
+514,Parmanu: The Story of Pokhran,2018,,7.7,50%,1,0,0,0,0,movie,NA
+515,Kursk,2018,13+,6.6,69%,1,0,0,0,0,movie,NA
+516,Deep Impact,1998,13+,6.2,45%,1,0,0,0,0,movie,NA
+517,The Kindergarten Teacher,2018,,6.7,89%,1,0,0,0,0,movie,NA
+518,Stonehearst Asylum,2014,13+,6.8,54%,1,0,0,0,0,movie,NA
+519,"Nick Kroll & John Mulaney: Oh, Hello on Broadway",2017,18+,7.8,88%,1,0,0,0,0,NA,NA
+520,The Wandering Earth,2019,13+,6.0,75%,1,0,0,0,0,movie,NA
+521,Bon Cop Bad Cop,2006,13+,6.8,78%,1,0,0,0,0,movie,NA
+522,Melvin Goes to Dinner,2003,18+,6.8,100%,1,0,0,0,0,movie,NA
+523,Chappaquiddick,2018,13+,6.5,81%,1,0,0,0,0,movie,NA
+524,Miles Davis: Birth of the Cool,2019,,7.4,93%,1,0,0,0,0,movie,NA
+525,Mission Control: The Unsung Heroes of Apollo,2017,7+,7.5,100%,1,0,0,0,0,movie,NA
+526,Dukhtar,2014,7+,7.0,93%,1,0,0,0,0,movie,NA
+527,Red Dawn,1984,13+,6.4,46%,1,0,0,0,0,movie,NA
+528,Kaabil,2017,18+,7.1,70%,1,0,0,0,0,movie,NA
+529,The Company Men,2010,18+,6.7,67%,1,0,0,0,0,movie,NA
+530,Studio 54,2018,18+,6.9,90%,1,0,0,0,0,movie,NA
+531,The Case for Christ,2017,7+,6.2,59%,1,0,0,0,0,movie,NA
+532,Outside In,2018,,6.6,95%,1,0,0,0,0,movie,NA
+533,Mowgli: Legend of the Jungle,2018,13+,6.5,52%,1,0,0,0,0,movie,NA
+534,Errementari: The Blacksmith and the Devil,2018,,6.3,67%,1,0,0,0,0,movie,NA
+535,Jimmy Neutron: Boy Genius,2001,all,6.0,74%,1,0,0,0,0,movie,NA
+536,World Trade Center,2006,13+,5.9,67%,1,0,1,0,0,movie,NA
+537,I Am Kalam,2010,all,8.0,80%,1,0,1,0,0,movie,NA
+538,PEEPLI [Live],2010,7+,7.4,85%,1,0,0,0,0,movie,NA
+539,My Scientology Movie,2016,,6.7,89%,1,0,0,0,0,movie,NA
+540,Latin History for Morons: John Leguizamo's Road to Broadway,2018,7+,7.5,100%,1,0,0,0,0,NA,NA
+541,Mortal Kombat,1995,13+,5.8,47%,1,0,0,0,0,movie,NA
+542,Behind the Curve,2018,16+,6.5,89%,1,0,0,0,0,movie,NA
+543,Soni,2019,18+,7.2,85%,1,0,0,0,0,movie,NA
+544,Carriers,2009,13+,6.0,68%,1,0,0,0,0,movie,NA
+545,Tig,2015,,7.4,77%,1,0,0,0,0,movie,NA
+546,Patton Oswalt: Annihilation,2017,,7.2,100%,1,0,0,0,0,movie,NA
+547,Trixie Mattel: Moving Parts,2019,,7.3,88%,1,0,0,0,0,movie,NA
+548,Petta,2019,,7.3,80%,1,0,0,0,0,movie,NA
+549,The Bill Murray Stories: Life Lessons Learned from a Mythical Man,2018,18+,7.0,95%,1,0,0,0,0,movie,NA
+550,Can't Hardly Wait,1998,13+,6.5,42%,1,0,0,0,0,movie,NA
+551,The Confirmation,2016,13+,6.4,91%,1,0,0,0,0,movie,NA
+552,The First Wives Club,1996,7+,6.4,50%,1,0,1,0,0,movie,NA
+553,Colonia,2016,18+,7.1,26%,1,0,0,0,0,movie,NA
+554,Free Fire,2017,18+,6.4,68%,1,0,0,0,0,movie,NA
+555,Life As We Know It,2010,13+,6.5,29%,1,0,0,0,0,movie,NA
+556,To All the Boys: P.S. I Still Love You,2020,16+,6.0,75%,1,0,0,0,0,movie,NA
+557,Cop Car,2015,18+,6.3,80%,1,0,0,0,0,movie,NA
+558,Urban Cowboy,1980,7+,6.3,67%,1,0,0,0,0,movie,NA
+559,Above the Rim,1994,18+,6.6,53%,1,0,0,0,0,movie,NA
+560,Screwball,2019,,7.1,94%,1,0,0,0,0,movie,NA
+561,Prosecuting Evil: The Extraordinary World of Ben Ferencz,2018,,7.3,100%,1,0,0,0,0,movie,NA
+562,The Incident,2014,,6.4,83%,1,0,0,0,0,movie,NA
+563,Resident Evil: Extinction,2007,18+,6.3,24%,1,0,0,0,0,movie,NA
+564,American Assassin,2017,18+,6.2,35%,1,0,0,0,0,movie,NA
+565,Rang De Basanti,2006,13+,8.2,,1,0,0,0,0,movie,NA
+566,Open Season,2006,7+,6.1,48%,1,0,0,0,0,movie,NA
+567,Strong Island,2017,,6.4,100%,1,0,0,0,0,movie,NA
+568,Resident Evil: Apocalypse,2004,18+,6.2,20%,1,0,0,0,0,movie,NA
+569,Smoke & Mirrors,2016,,6.9,83%,1,0,0,0,0,movie,NA
+570,Sky Ladder: The Art of Cai Guo-Qiang,2017,,7.3,100%,1,0,0,0,0,movie,NA
+571,Kate & Leopold,2001,13+,6.4,50%,1,0,0,0,0,movie,NA
+572,Raiders!: The Story of the Greatest Fan Film Ever Made,2015,,6.9,91%,1,0,0,0,0,movie,NA
+573,Then Came You,2019,13+,7.0,59%,1,0,0,0,0,movie,NA
+574,The Forest of Love,2019,,6.4,100%,1,0,0,0,0,movie,NA
+575,I Called Him Morgan,2016,,7.3,96%,1,0,0,0,0,movie,NA
+576,The Money Pit,1986,7+,6.4,48%,1,0,0,0,0,movie,NA
+577,The Angel,2018,18+,6.6,75%,1,0,1,0,0,movie,NA
+578,Burlesque,2010,13+,6.4,36%,1,0,0,0,0,movie,NA
+579,My Masterpiece,2018,,7.1,86%,1,0,0,0,0,movie,NA
+580,Mr. Church,2016,13+,7.6,24%,1,0,0,0,0,movie,NA
+581,Murder Mystery,2019,13+,6.0,44%,1,0,0,0,0,movie,NA
+582,Audrie & Daisy,2016,,7.2,81%,1,0,0,0,0,movie,NA
+583,Miss Hokusai,2015,13+,6.7,93%,1,0,0,0,0,movie,NA
+584,Dumplin',2018,,6.6,63%,1,0,0,0,0,movie,NA
+585,The Invention of Lying,2009,13+,6.4,56%,1,0,0,0,0,movie,NA
+586,Breath,2017,18+,6.7,80%,1,0,1,0,0,movie,NA
+587,Kodachrome,2017,18+,6.8,72%,1,0,0,0,0,movie,NA
+588,Operation Red Sea,2018,18+,6.7,80%,1,0,0,0,0,movie,NA
+589,Murder Party,2007,,5.8,100%,1,0,0,0,0,movie,NA
+590,Woodstock: Three Days That Defined a Generation,2019,,7.6,84%,1,0,0,0,0,tv movie,NA
+591,Laggies,2014,18+,6.4,65%,1,0,0,0,0,movie,NA
+592,Eye for an Eye,2019,,6.6,88%,1,0,1,0,0,movie,NA
+593,Cowspiracy: The Sustainability Secret,2014,,8.3,,1,0,0,0,0,movie,NA
+594,Eddie Murphy: Delirious,1983,18+,8.2,83%,1,0,0,0,0,movie,NA
+595,The Aerial,2007,,7.4,64%,1,0,0,0,0,movie,NA
+596,Fire in Paradise,2019,18+,7.4,80%,1,0,0,0,0,movie,NA
+597,Cookie's Fortune,1999,13+,6.8,86%,1,0,0,0,0,movie,NA
+598,Before I Wake,2016,13+,6.2,61%,1,0,0,0,0,movie,NA
+599,Layla M.,2016,,6.7,100%,1,0,0,0,0,movie,NA
+600,Mountain,2018,7+,7.2,87%,1,0,0,0,0,movie,NA
+601,Center Stage,2000,13+,6.7,42%,1,0,0,0,0,movie,NA
+602,Mr. Right,2016,18+,6.3,44%,1,0,0,0,0,movie,NA
+603,Tamasha,2015,7+,7.3,67%,1,0,0,0,0,movie,NA
+604,Just Another Love Story,2007,,7.2,74%,1,0,0,0,0,movie,NA
+605,Quartet,2012,13+,6.8,80%,1,0,0,0,0,movie,NA
+606,Dil Chahta Hai,2001,all,8.1,,1,0,0,0,0,movie,NA
+607,"Bikram: Yogi, Guru, Predator",2019,18+,6.7,96%,1,0,0,0,0,movie,NA
+608,Dolphin Tale 2,2014,7+,6.4,65%,1,0,0,0,0,movie,NA
+609,No One Killed Jessica,2011,13+,7.2,80%,1,0,0,0,0,movie,NA
+610,I Am Bolt,2016,7+,7.1,85%,1,0,0,0,0,movie,NA
+611,Evolution,2001,13+,6.1,43%,1,1,1,0,0,movie,NA
+612,BuyBust,2018,,5.8,82%,1,0,0,0,0,movie,NA
+613,Advantageous,2015,,6.2,84%,1,0,0,0,0,movie,NA
+614,The Iron Lady,2011,13+,6.4,52%,1,0,0,0,0,movie,NA
+615,Son of a Gun,2014,18+,6.5,62%,1,0,0,0,0,movie,NA
+616,Rugrats in Paris: The Movie,2000,all,6.1,76%,1,0,0,0,0,movie,NA
+617,On My Skin,2018,,7.3,60%,1,0,0,0,0,movie,NA
+618,Sweetheart,2019,13+,5.7,94%,1,0,0,0,0,movie,NA
+619,Raees,2017,18+,6.8,67%,1,0,0,0,0,movie,NA
+620,The Rover,2014,18+,6.4,66%,1,0,0,0,0,movie,NA
+621,Paan Singh Tomar,2012,7+,8.2,,1,0,0,0,0,movie,NA
+622,The Other Side of the Wind,2018,18+,6.8,83%,1,0,0,0,0,movie,NA
+623,The Garden of Words,2013,13+,7.5,,1,0,0,0,0,movie,NA
+624,The Legend of 420,2017,,6.7,100%,1,0,0,0,0,movie,NA
+625,Let It Fall: Los Angeles 1982-1992,2017,18+,7.7,100%,1,0,0,0,0,movie,20
+626,Manto,2018,,7.4,71%,1,0,0,0,0,movie,NA
+627,Rainbow,2015,,8.0,73%,1,0,0,0,0,tv series,NA
+628,Walking Out,2017,13+,5.8,90%,1,0,0,0,0,movie,NA
+629,Holy Hell,2016,,7.1,75%,1,0,0,0,0,movie,NA
+630,After,2019,13+,5.4,17%,1,0,1,0,0,movie,NA
+631,Jersey Boys,2014,18+,6.8,51%,1,0,0,0,0,movie,NA
+632,Flavors of Youth,2018,,6.6,80%,1,0,0,0,0,movie,NA
+633,Nappily Ever After,2018,18+,6.4,71%,1,0,0,0,0,movie,NA
+634,Final Destination 3,2006,18+,5.8,43%,1,0,0,0,0,movie,NA
+635,"To Wong Foo, Thanks for Everything! Julie Newmar",1995,13+,6.6,41%,1,0,0,0,0,movie,NA
+636,Elizabeth: The Golden Age,2007,13+,6.8,34%,1,0,0,0,0,movie,NA
+637,37 Seconds,2019,,7.3,85%,1,0,0,0,0,movie,NA
+638,A Futile and Stupid Gesture,2018,18+,6.8,61%,1,0,0,0,0,movie,NA
+639,The Green Hornet,2011,13+,5.8,44%,1,0,0,0,0,movie,NA
+640,Dear John,2010,13+,6.3,29%,1,0,0,0,0,movie,NA
+641,Heroin(e),2017,,6.8,100%,1,0,0,0,0,movie,NA
+642,Guzaarish,2010,7+,7.4,67%,1,0,0,0,0,movie,NA
+643,Imperial Dreams,2014,,6.8,91%,1,0,0,0,0,movie,NA
+644,Between Two Ferns: The Movie,2019,18+,6.1,77%,1,0,0,0,0,movie,NA
+645,13 Sins,2014,18+,6.3,65%,1,0,0,0,0,movie,NA
+646,Kiss the Girls,1997,18+,6.6,29%,1,0,1,0,0,movie,NA
+647,Newness,2017,,6.4,69%,1,0,0,0,0,movie,NA
+648,Mr. Roosevelt,2017,18+,6.2,100%,1,0,0,0,0,movie,NA
+649,Justin Timberlake + The Tennessee Kids,2016,,7.8,100%,1,0,0,0,0,movie,NA
+650,Battle: Los Angeles,2011,13+,5.7,36%,1,0,0,0,0,movie,NA
+651,Hondros,2018,,7.5,100%,1,0,0,0,0,movie,NA
+652,When We First Met,2018,16+,6.4,56%,1,0,0,0,0,movie,NA
+653,(T)ERROR,2015,,6.6,91%,1,0,1,0,0,movie,NA
+654,Kuch Kuch Hota Hai,1998,all,7.6,,1,0,0,0,0,movie,NA
+655,Trailer Park Boys: The Movie,2006,18+,7.2,57%,1,0,0,0,0,movie,NA
+656,G.O.R.A.,2004,13+,8.0,,1,0,0,0,0,movie,NA
+657,Phantom Boy,2015,7+,6.6,88%,1,0,0,0,0,movie,NA
+658,Survivor's Guide to Prison,2018,18+,7.1,100%,1,0,0,0,0,movie,NA
+659,Transcendence,2014,13+,6.3,20%,1,0,0,0,0,movie,NA
+660,Jagga Jasoos,2017,7+,6.5,90%,1,0,0,0,0,movie,NA
+661,The Perfect Date,2019,16+,5.8,65%,1,0,0,0,0,movie,NA
+662,A Fortunate Man,2018,16+,7.2,80%,1,0,0,0,0,movie,NA
+663,Kahaani,2012,,8.1,,1,0,0,0,0,movie,NA
+664,Andaz Apna Apna,1994,7+,8.2,,1,0,1,0,0,movie,NA
+665,Let It Snow,2019,13+,5.8,81%,1,0,0,0,0,movie,NA
+666,Middle School: The Worst Years of My Life,2016,7+,6.1,63%,1,0,0,0,0,movie,NA
+667,The Little Hours,2017,18+,5.8,78%,1,0,0,0,0,movie,NA
+668,Aval,2017,13+,6.8,100%,1,0,0,0,0,movie,NA
+669,The Unknown Known,2013,13+,7.0,82%,1,0,0,0,0,movie,NA
+670,Kahlil Gibran's The Prophet,2014,7+,7.1,65%,1,0,0,0,0,movie,NA
+671,The Princess Switch,2018,7+,6.0,75%,1,0,0,0,0,movie,NA
+672,The Blackcoat's Daughter,2017,18+,5.9,73%,1,0,0,0,0,movie,NA
+673,What We Started,2018,,7.0,85%,1,0,0,0,0,movie,NA
+674,Let There Be Light,1946,,7.4,83%,1,0,1,0,0,movie,NA
+675,Into the Forest,2016,18+,5.8,76%,1,0,0,0,0,movie,NA
+676,God Knows Where I Am,2016,,7.3,84%,1,0,0,0,0,movie,NA
+677,Stuart Little 2,2002,all,5.4,81%,1,0,0,0,0,movie,NA
+678,The Rolling Stones: Olé Olé Olé! – A Trip Across Latin America,2016,16+,7.5,100%,1,0,0,0,0,movie,NA
+679,Sand Storm,2016,,6.8,92%,1,0,0,0,0,movie,NA
+680,From Paris with Love,2010,18+,6.5,38%,1,0,1,0,0,movie,NA
+681,Luck by Chance,2009,,7.0,80%,1,0,0,0,0,movie,NA
+682,I Am Jane Doe,2017,,6.8,91%,1,0,0,0,0,movie,NA
+683,Pee-wee's Big Holiday,2016,7+,6.1,80%,1,0,0,0,0,movie,NA
+684,Promised Land,2012,18+,6.6,52%,1,0,0,0,0,movie,NA
+685,Carrie Pilby,2017,,6.6,62%,1,0,0,0,0,movie,NA
+686,Seeing Allred,2018,16+,6.8,100%,1,0,0,0,0,movie,NA
+687,Goldstone,2016,18+,6.5,76%,1,0,0,0,0,movie,NA
+688,The Signal,2014,13+,6.1,61%,1,0,0,0,0,movie,NA
+689,The Red Sea Diving Resort,2019,18+,6.5,30%,1,0,0,0,0,movie,NA
+690,Self/less,2015,13+,6.5,19%,1,0,0,0,0,movie,NA
+691,The Burial of Kojo,2018,,6.4,100%,1,0,0,0,0,movie,NA
+692,Horse Girl,2020,18+,5.9,72%,1,0,0,0,0,movie,NA
+693,Headshot,2016,,6.3,72%,1,0,0,0,0,movie,NA
+694,Joan Didion: The Center Will Not Hold,2017,,7.4,89%,1,0,0,0,0,movie,NA
+695,Circle,2015,,6.0,60%,1,0,0,0,0,movie,NA
+696,Chris Rock: Tamborine,2018,18+,6.5,100%,1,0,0,0,0,movie,NA
+697,The Monster,2016,18+,5.4,81%,1,0,1,0,0,movie,4
+698,Sergio,2020,18+,6.1,44%,1,0,0,0,0,movie,NA
+699,The C Word,2016,,7.6,100%,1,0,0,0,0,tv series,NA
+700,John Mulaney: New in Town,2012,18+,8.3,,1,0,0,0,0,movie,NA
+701,In the Shadow of the Moon,2019,18+,6.2,59%,1,0,0,0,0,movie,NA
+702,Mirror Mirror,2012,7+,5.6,50%,1,0,1,0,0,movie,NA
+703,Hasee Toh Phasee,2014,13+,6.8,80%,1,0,0,0,0,movie,NA
+704,Bhavesh Joshi Superhero,2018,,7.6,63%,1,0,0,0,0,movie,1
+705,Brooklyn's Finest,2009,18+,6.7,44%,1,0,1,0,0,movie,NA
+706,Wakefield,2017,18+,6.3,74%,1,0,0,0,0,tv mini series,NA
+707,Wish I Was Here,2014,18+,6.7,46%,1,0,0,0,0,movie,NA
+708,Lu Over the Wall,2017,7+,6.8,76%,1,0,0,0,0,movie,NA
+709,Man of Tai Chi,2013,18+,6.1,70%,1,0,0,0,0,movie,1
+710,Comedian,2002,18+,6.9,76%,1,0,0,0,0,movie,NA
+711,Alive and Kicking,2017,,6.6,100%,1,0,0,0,0,tv series,NA
+712,The Secret,2006,7+,5.6,74%,1,0,0,0,0,movie,NA
+713,Louis C.K.: Hilarious,2010,,8.5,,1,0,0,0,0,movie,NA
+714,Notes on Blindness,2016,,7.1,95%,1,0,0,0,0,movie,NA
+715,The Kissing Booth,2018,16+,6.1,17%,1,0,0,0,0,movie,NA
+716,Horns,2013,18+,6.5,41%,1,0,0,0,0,movie,NA
+717,Emelie,2016,,5.4,88%,1,0,0,0,0,movie,NA
+718,Best Worst Thing That Ever Could Have Happened...,2016,,7.5,95%,1,0,0,0,0,movie,NA
+719,Go!,2020,,5.9,78%,1,0,0,0,0,movie,NA
+720,First Match,2018,18+,6.3,82%,1,0,0,0,0,movie,NA
+721,Grass is Greener,2019,,7.2,100%,1,0,0,0,0,movie,NA
+722,The Short Game,2013,7+,7.4,84%,1,0,0,0,0,movie,NA
+723,Sunday's Illness,2018,13+,6.9,94%,1,0,0,0,0,movie,NA
+724,Ten Years,2015,,6.7,100%,1,0,1,0,0,movie,NA
+725,Chicken Little,2005,all,5.7,37%,1,0,0,1,0,movie,NA
+726,Kicking and Screaming,1995,18+,6.8,57%,1,0,0,0,0,movie,5
+727,The Ravenous,2017,,5.9,88%,1,0,0,0,0,movie,NA
+728,Animal World,2018,,6.5,70%,1,0,0,0,0,tv series,NA
+729,Michelle Wolf: Joke Show,2019,,7.1,100%,1,0,0,0,0,movie,NA
+730,Kevin Hart: Let Me Explain,2013,18+,6.8,61%,1,0,0,0,0,movie,NA
+731,Fun with Dick and Jane,2005,13+,6.2,28%,1,0,0,0,0,movie,NA
+732,Seoul Searching,2015,18+,7.1,75%,1,0,0,0,0,movie,NA
+733,The Keeping Hours,2017,13+,6.3,80%,1,0,0,0,0,movie,NA
+734,Kickboxer: Retaliation,2018,18+,5.0,92%,1,0,0,0,0,movie,NA
+735,Weed the People,2018,,7.0,100%,1,0,0,0,0,movie,NA
+736,Time Share,2018,18+,6.0,95%,1,0,0,0,0,movie,NA
+737,Johnny English Reborn,2011,7+,6.3,38%,1,0,0,0,0,movie,NA
+738,Fire in the Blood,2013,,7.7,90%,1,0,0,0,0,movie,NA
+739,Dil Dhadakne Do,2015,13+,6.8,64%,1,0,0,0,0,movie,NA
+740,6 Days,2017,18+,6.2,63%,1,0,0,0,0,movie,NA
+741,Morris from America,2016,18+,6.2,88%,1,0,0,0,0,movie,NA
+742,Joshua: Teenager vs. Superpower,2017,16+,7.0,93%,1,0,0,0,0,movie,NA
+743,Highway,2014,13+,7.7,88%,1,0,0,0,0,movie,NA
+744,Sweet Virginia,2017,18+,6.2,78%,1,0,0,0,0,movie,NA
+745,Chloe,2009,18+,6.3,51%,1,0,0,0,0,movie,NA
+746,Manson Family Vacation,2015,,5.8,100%,1,0,0,0,0,movie,NA
+747,Benji,2018,7+,6.3,60%,1,0,0,0,0,movie,NA
+748,Roll Red Roll,2019,,7.1,100%,1,0,0,0,0,movie,NA
+749,All About Nina,2018,18+,6.0,86%,1,0,0,0,0,movie,NA
+750,Heartbreakers,2001,13+,6.2,53%,1,0,0,0,0,movie,NA
+751,Mercury 13,2018,,6.8,100%,1,0,0,0,0,movie,NA
+752,Kevin Hart: What Now?,2016,18+,5.9,76%,1,0,0,0,0,movie,NA
+753,"Michael Bolton's Big, Sexy Valentine's Day Special",2017,18+,6.7,100%,1,0,0,0,0,movie,NA
+754,All Day and a Night,2020,18+,5.9,53%,1,0,0,0,0,movie,NA
+755,ARQ,2016,18+,6.4,43%,1,0,0,0,0,movie,NA
+756,Nighthawks,1981,18+,6.4,70%,1,0,0,0,0,movie,NA
+757,Quién te cantará,2018,,7.0,90%,1,0,0,0,0,movie,NA
+758,Romeo Must Die,2000,18+,6.1,32%,1,0,0,0,0,movie,NA
+759,Love Off the Cuff,2017,,6.5,100%,1,0,0,0,0,movie,NA
+760,47 Meters Down,2017,13+,5.6,53%,1,0,0,0,0,movie,NA
+761,Udaan,2010,18+,8.2,,1,0,0,0,0,movie,NA
+762,Barakah Meets Barakah,2016,,6.2,100%,1,0,0,0,0,movie,NA
+763,Ghost Rider,2007,13+,5.2,26%,1,0,0,0,0,movie,NA
+764,FYRE: The Greatest Party That Never Happened,2019,,7.2,91%,1,0,0,0,0,movie,NA
+765,Cardboard Gangsters,2017,,6.4,94%,1,0,0,0,0,movie,NA
+766,Khosla Ka Ghosla!,2006,,8.3,,1,0,0,0,0,movie,NA
+767,Sierra Burgess Is a Loser,2018,13+,5.8,66%,1,0,0,0,0,movie,NA
+768,Same Kind of Different as Me,2017,13+,6.6,33%,1,0,0,0,0,movie,NA
+769,Cult of Chucky,2017,18+,5.2,78%,1,0,0,0,0,movie,NA
+770,Tremors 2: Aftershocks,1996,13+,6.0,63%,1,0,0,0,0,video movie,NA
+771,May the Devil Take You,2018,18+,6.0,83%,1,0,0,0,0,movie,NA
+772,Invader ZIM: Enter the Florpus,2019,7+,7.5,100%,1,0,0,0,0,tv movie,NA
+773,Dovlatov,2018,,6.4,78%,1,0,0,0,0,movie,NA
+774,Jupiter Ascending,2015,13+,5.3,27%,1,0,0,0,0,movie,NA
+775,The Occupant,2020,18+,6.3,50%,1,0,0,0,0,movie,NA
+776,Shutter,2004,18+,7.1,,1,0,0,0,0,movie,NA
+777,E-Team,2014,,7.1,82%,1,0,0,0,0,movie,NA
+778,Class Rank,2017,,6.4,86%,1,0,0,0,0,movie,NA
+779,Wildling,2018,18+,5.5,70%,1,0,0,0,0,movie,NA
+780,Velvet Buzzsaw,2019,18+,5.7,62%,1,0,0,0,0,movie,NA
+781,Win It All,2017,18+,6.2,85%,1,0,0,0,0,movie,NA
+782,Sprinter,2019,,6.0,80%,1,0,0,0,0,movie,NA
+783,Palm Trees in the Snow,2015,,7.4,86%,1,0,0,0,0,movie,NA
+784,Nacho Libre,2006,7+,5.7,39%,1,0,0,0,0,movie,NA
+785,Chasing Trane,2017,,7.3,76%,1,0,0,0,0,movie,NA
+786,Lady J,2018,16+,6.9,83%,1,0,0,0,0,movie,NA
+787,Voyeur,2017,18+,6.2,77%,1,0,0,0,0,movie,NA
+788,The Breaker Upperers,2018,,5.9,89%,1,0,0,0,0,movie,NA
+789,Dinner for Schmucks,2010,13+,5.9,41%,1,0,0,0,0,movie,NA
+790,Mike Birbiglia: My Girlfriend's Boyfriend,2013,,8.0,100%,1,0,1,0,0,movie,NA
+791,School Daze,1988,18+,6.0,58%,1,0,0,0,0,movie,NA
+792,The Knight Before Christmas,2019,7+,5.5,75%,1,0,0,0,0,movie,NA
+793,Mitt,2014,,6.9,83%,1,0,0,0,0,movie,NA
+794,Terrifier,2016,,5.6,69%,1,0,0,0,0,movie,NA
+795,Resident Evil: Afterlife,2010,18+,5.8,22%,1,0,0,0,0,movie,NA
+796,Conor McGregor: Notorious,2017,18+,7.2,50%,1,0,0,0,0,movie,NA
+797,Khoobsurat,2014,7+,6.4,80%,1,0,0,0,0,movie,NA
+798,Game Over,2019,,7.1,55%,1,0,0,0,0,movie,NA
+799,The Ballad of Lefty Brown,2017,18+,6.3,78%,1,0,0,0,0,movie,NA
+800,Main Hoon Na,2004,7+,7.0,,1,0,0,0,0,movie,NA
+801,The Untold Tales of Armistead Maupin,2017,,7.6,91%,1,0,0,0,0,movie,NA
+802,The Space Between Us,2017,13+,6.4,16%,1,0,0,0,0,movie,NA
+803,The Physician,2013,18+,7.2,,1,0,0,0,0,movie,NA
+804,Karthik Calling Karthik,2010,7+,7.0,80%,1,0,0,0,0,movie,NA
+805,Ginger & Rosa,2012,13+,6.3,78%,1,0,0,0,0,movie,NA
+806,White Girl,2016,,5.7,72%,1,0,0,0,0,movie,NA
+807,The Time Machine,2002,13+,6.0,29%,1,0,0,0,0,movie,NA
+808,Look Who's Back,2015,,7.1,,1,0,0,0,0,movie,NA
+809,Ellen DeGeneres: Relatable,2018,,6.5,92%,1,0,0,0,0,movie,NA
+810,Kabhi Alvida Naa Kehna,2006,18+,6.1,58%,1,0,0,0,0,movie,NA
+811,The Drug King,2018,,6.1,80%,1,0,0,0,0,movie,NA
+812,Long Time Running,2017,,7.8,86%,1,0,0,0,0,movie,NA
+813,Maps to the Stars,2014,18+,6.2,61%,1,0,0,0,0,movie,NA
+814,Lovesong,2017,,6.3,83%,1,0,1,0,0,movie,NA
+815,Looney Tunes: Back in Action,2003,7+,5.7,56%,1,0,0,0,0,movie,NA
+816,Homecoming: A Film by Beyoncé,2019,13+,7.4,98%,1,0,0,0,0,movie,NA
+817,A Christmas Prince,2017,7+,5.7,73%,1,0,1,0,0,movie,NA
+818,Occupation,2018,18+,5.1,50%,1,0,0,0,0,movie,NA
+819,Marc Maron: Too Real,2017,,7.2,80%,1,0,0,0,0,movie,NA
+820,Steal a Pencil for Me,2007,,7.5,95%,1,0,0,0,0,movie,NA
+821,"Faith, Hope & Love",2019,7+,6.1,80%,1,0,0,0,0,movie,NA
+822,The Bling Ring,2013,18+,5.6,59%,1,0,0,0,0,movie,NA
+823,Pokémon the Movie: The Power of Us,2018,all,6.3,71%,1,0,0,0,0,movie,NA
+824,Chronicle of an Escape,2006,18+,7.2,67%,1,0,0,0,0,movie,NA
+825,The Tourist,2010,13+,6.0,20%,1,0,0,0,0,movie,NA
+826,God of War,2017,,6.4,80%,1,0,0,0,0,video game,NA
+827,Menashe,2017,7+,6.5,96%,1,0,0,0,0,movie,NA
+828,Lez Bomb,2018,18+,5.0,89%,1,0,0,0,0,movie,NA
+829,National Bird,2016,,7.1,100%,1,0,0,0,0,movie,NA
+830,System Crasher,2019,,7.9,92%,1,0,0,0,0,movie,NA
+831,The 36th Chamber of Shaolin,1978,18+,7.7,,1,0,1,0,0,movie,NA
+832,What a Girl Wants,2003,7+,5.8,35%,1,0,0,0,0,movie,NA
+833,Candy Jar,2018,13+,5.8,71%,1,0,0,0,0,movie,NA
+834,He Named Me Malala,2015,13+,6.9,72%,1,0,0,0,0,movie,NA
+835,Te3n,2016,,7.3,100%,1,0,0,0,0,movie,NA
+836,Race to Witch Mountain,2009,7+,5.7,42%,1,0,0,0,0,movie,NA
+837,A Gray State,2017,18+,6.2,100%,1,0,0,0,0,movie,NA
+838,Chupke Chupke,1975,18+,8.4,,1,0,1,0,0,movie,NA
+839,The Land of Steady Habits,2018,,6.2,84%,1,0,0,0,0,movie,NA
+840,A Night at the Roxbury,1998,13+,6.3,11%,1,0,1,0,0,movie,NA
+841,Neon Genesis Evangelion: Death and Rebirth,1997,,7.5,,1,0,0,0,0,movie,NA
+842,My Big Night,2015,,6.0,90%,1,0,0,0,0,movie,NA
+843,Song for Marion,2012,13+,7.0,65%,1,0,0,0,0,movie,NA
+844,The Discovery,2017,18+,6.3,46%,1,0,0,0,0,movie,NA
+845,The Laundromat,2019,18+,6.3,42%,1,0,0,0,0,movie,NA
+846,Gol Maal,1979,18+,8.6,,1,0,1,0,0,movie,NA
+847,Lifechanger,2018,,5.4,86%,1,0,0,0,0,movie,NA
+848,Would You Rather,2012,,5.7,59%,1,0,0,0,0,movie,NA
+849,The Butterfly's Dream,2013,13+,7.8,,1,0,0,0,0,movie,NA
+850,Vizontele,2001,,8.0,,1,0,0,0,0,movie,NA
+851,Hasan Minhaj: Homecoming King,2017,18+,8.3,,1,0,0,0,0,movie,NA
+852,Una,2017,18+,6.2,76%,1,0,0,0,0,movie,NA
+853,Bethany Hamilton: Unstoppable,2019,7+,7.3,71%,1,0,0,0,0,movie,NA
+854,Alone in Berlin,2016,18+,6.5,57%,1,0,0,0,0,movie,NA
+855,Dhobi Ghat,2010,16+,7.0,68%,1,0,0,0,0,movie,NA
+856,Burning Sands,2017,18+,6.1,86%,1,0,0,0,0,movie,NA
+857,The Great Hack,2019,,7.0,83%,1,0,0,0,0,movie,4
+858,We Are Your Friends,2015,18+,6.2,38%,1,0,0,0,0,movie,NA
+859,Barry,2016,,5.8,80%,1,0,0,0,0,tv series,NA
+860,John Mulaney: The Comeback Kid,2015,,7.9,,1,0,0,0,0,movie,NA
+861,The Rugrats Movie,1998,all,5.9,59%,1,0,0,0,0,movie,NA
+862,Bill Burr: You People Are All The Same,2012,18+,8.3,,1,0,0,0,0,movie,NA
+863,Bill Nye: Science Guy,2017,,6.1,100%,1,0,0,0,0,movie,NA
+864,Hit & Run,2012,18+,6.1,48%,1,0,0,0,0,movie,NA
+865,Kabir Singh,2019,,7.1,25%,1,0,0,0,0,movie,NA
+866,The Most Unknown,2018,,6.6,91%,1,0,0,0,0,movie,NA
+867,Mean Dreams,2016,18+,6.3,78%,1,0,0,0,0,movie,NA
+868,Ali Wong: Hard Knock Wife,2018,18+,7.4,100%,1,0,0,0,0,movie,NA
+869,Trophy,2016,,7.3,98%,1,0,0,0,0,movie,NA
+870,Dream Big: Engineering Our World,2017,,6.4,100%,1,0,0,0,0,movie,NA
+871,Toilet - Ek Prem Katha,2017,,7.2,43%,1,0,0,0,0,movie,NA
+872,Pope Francis: A Man of His Word,2018,7+,6.1,83%,1,0,0,0,0,movie,NA
+873,68 Kill,2018,18+,6.0,70%,1,0,0,0,0,movie,NA
+874,Head On,1998,,6.5,63%,1,0,0,0,0,movie,NA
+875,Berserk: The Golden Age Arc II - The Battle for Doldrey,2012,18+,7.8,,1,0,0,0,0,movie,NA
+876,Waar,2013,,7.9,,1,0,0,0,0,movie,NA
+877,14 Blades,2010,18+,6.3,69%,1,0,0,0,0,movie,NA
+878,"Live Twice, Love Once",2019,,7.2,50%,1,0,0,0,0,movie,NA
+879,Triple Threat,2019,18+,5.5,68%,1,0,0,0,0,movie,NA
+880,Earth to Echo,2014,7+,5.8,51%,1,0,0,0,0,movie,NA
+881,Buster's Mal Heart,2017,,6.1,70%,1,0,0,0,0,movie,NA
+882,1000 Rupee Note,2016,,7.3,80%,1,0,0,0,0,movie,NA
+883,40 Days and 40 Nights,2002,18+,5.6,39%,1,0,0,0,0,movie,NA
+884,Taylor Swift: Reputation Stadium Tour,2018,,8.3,,1,0,0,0,0,movie,NA
+885,Hannibal Buress: Comedy Camisado,2016,18+,6.6,100%,1,0,0,0,0,movie,NA
+886,Tokyo Idols,2017,,6.8,89%,1,0,0,0,0,movie,NA
+887,Bhool Bhulaiyaa,2007,,7.3,20%,1,0,0,0,0,movie,NA
+888,Dev.D,2009,13+,8.0,,1,0,0,0,0,movie,1
+889,John Mulaney & The Sack Lunch Bunch,2019,,7.5,100%,1,0,0,0,0,movie,NA
+890,Eli,2019,18+,5.7,48%,1,0,1,0,0,tv mini series,NA
+891,City of Joy,2016,,7.3,100%,1,0,1,0,0,movie,NA
+892,Beyond Skyline,2017,18+,5.3,63%,1,0,0,0,0,movie,NA
+893,Ninja Assassin,2009,18+,6.3,25%,1,0,0,0,0,movie,2
+894,"As Above, So Below",2014,18+,6.2,26%,1,0,0,0,0,movie,NA
+895,The Oath,2016,,6.4,75%,1,1,0,0,0,tv series,NA
+896,The Cloverfield Paradox,2018,13+,5.5,16%,1,0,0,0,0,movie,NA
+897,Concussion,2013,18+,5.6,75%,1,0,0,0,0,movie,NA
+898,Little Monsters,1989,7+,6.1,50%,1,1,0,0,0,movie,NA
+899,Dil Se..,1998,13+,7.6,,1,0,0,0,0,movie,NA
+900,Berserk: The Golden Age Arc III - The Advent,2013,18+,7.9,,1,0,0,0,0,movie,NA
+901,The Core,2003,13+,5.5,40%,1,0,1,0,0,movie,NA
+902,2 States,2014,7+,6.9,44%,1,0,0,0,0,movie,NA
+903,The Rum Diary,2011,18+,6.2,51%,1,0,0,0,0,movie,NA
+904,Being AP,2015,13+,6.5,100%,1,0,0,0,0,movie,NA
+905,6 Balloons,2018,18+,5.8,86%,1,0,0,0,0,movie,NA
+906,Q Ball,2019,,6.8,90%,1,0,0,0,0,movie,NA
+907,Knock Down the House,2019,7+,6.9,100%,1,0,0,0,0,movie,NA
+908,Soorma,2018,13+,7.4,50%,1,0,0,0,0,movie,NA
+909,EMO the Musical,2017,16+,6.1,75%,1,0,0,0,0,movie,NA
+910,Abducted in Plain Sight,2017,,6.8,100%,1,0,0,0,0,movie,NA
+911,Secret in Their Eyes,2015,13+,6.3,39%,1,0,0,0,0,movie,NA
+912,Bon Cop Bad Cop 2,2017,,6.6,71%,1,0,0,0,0,movie,NA
+913,Sólo con tu pareja,1992,,6.9,67%,1,0,1,0,0,movie,NA
+914,Rustom,2016,,7.1,33%,1,0,0,0,0,movie,NA
+915,The Debt Collector,2018,,5.7,80%,1,0,1,0,0,movie,NA
+916,Been So Long,2018,,5.4,100%,1,0,0,0,0,movie,NA
+917,Rampant,2018,,6.3,62%,1,0,0,0,0,movie,NA
+918,Automata,2014,18+,6.1,30%,1,0,0,0,0,movie,NA
+919,A Little Chaos,2015,18+,6.5,48%,1,0,0,0,0,movie,NA
+920,Don't Be Afraid of the Dark,2010,18+,5.6,60%,1,0,0,0,0,movie,NA
+921,Paheli,2005,13+,6.5,57%,1,0,0,0,0,movie,NA
+922,The Lonely Island Presents: The Unauthorized Bash Brothers Experience,2019,18+,7.0,100%,1,0,0,0,0,movie,NA
+923,Someone Great,2019,18+,6.2,83%,1,0,0,0,0,movie,NA
+924,Monty Python Live at the Hollywood Bowl,1982,18+,7.9,,1,0,0,0,0,movie,NA
+925,The 4th Company,2016,,6.2,100%,1,0,0,0,0,movie,NA
+926,Amanda Knox,2016,18+,6.9,87%,1,0,0,0,0,movie,NA
+927,My Suicide,2009,18+,7.2,57%,1,0,0,0,0,movie,NA
+928,Anon,2018,18+,6.1,39%,1,0,0,0,0,movie,NA
+929,Brain on Fire,2017,13+,6.6,13%,1,0,0,0,0,movie,NA
+930,Gurgaon,2017,,6.6,71%,1,0,0,0,0,movie,NA
+931,A Bad Moms Christmas,2017,18+,5.6,31%,1,0,0,0,0,movie,NA
+932,Scary Movie 2,2001,18+,5.3,15%,1,0,0,0,0,movie,NA
+933,Failure to Launch,2006,13+,5.6,24%,1,0,0,0,0,movie,NA
+934,Set It Up,2018,16+,6.5,,1,0,0,0,0,movie,NA
+935,The Golem,2018,18+,5.6,85%,1,0,0,0,0,movie,NA
+936,David Brent: Life on the Road,2016,,6.3,58%,1,0,0,0,0,movie,NA
+937,Waiting for the Hearse,1985,,8.1,,1,0,0,0,0,movie,NA
+938,Atlantics,2019,16+,6.7,95%,1,0,0,0,0,movie,NA
+939,Lost Girls,2020,18+,6.1,73%,1,0,0,0,0,movie,NA
+940,Lost in London,2017,,6.2,75%,1,1,0,0,0,movie,NA
+941,The Force,2017,,6.7,90%,1,0,0,0,0,movie,NA
+942,Jonathan,2018,18+,5.9,65%,1,0,0,0,0,movie,NA
+943,Chennai Express,2013,13+,6.0,47%,1,0,0,0,0,movie,NA
+944,Berserk: The Golden Age Arc I - The Egg of the King,2012,18+,7.6,,1,0,0,0,0,movie,NA
+945,To the Bone,2017,18+,6.8,73%,1,0,0,0,0,movie,NA
+946,Kabali,2016,18+,6.2,64%,1,0,1,0,0,movie,NA
+947,Popeye,1980,7+,5.3,59%,1,0,0,0,0,movie,NA
+948,Natsamrat,2016,,9.1,,1,0,0,0,0,movie,NA
+949,Get Santa,2014,7+,6.2,79%,1,0,0,0,0,movie,NA
+950,Like Father,2018,18+,6.1,49%,1,0,0,0,0,movie,NA
+951,War Machine,2017,18+,6.0,48%,1,0,0,0,0,movie,NA
+952,Deidra & Laney Rob a Train,2017,16+,6.1,91%,1,0,0,0,0,movie,NA
+953,Here Alone,2016,,5.6,50%,1,0,0,0,0,movie,NA
+954,Falling Inn Love,2019,7+,5.6,61%,1,0,0,0,0,movie,NA
+955,The Bounty Hunter,2010,13+,5.6,12%,1,0,0,0,0,movie,NA
+956,Feminists: What Were They Thinking?,2018,,6.9,80%,1,0,0,0,0,movie,NA
+957,Guess Who,2005,13+,5.9,42%,1,0,0,0,0,movie,NA
+958,Wake Up Sid,2009,7+,7.6,,1,0,0,0,0,movie,NA
+959,Nobody Speak: Trials of the Free Press,2017,16+,6.5,91%,1,0,0,0,0,movie,NA
+960,Bill Burr: Let It Go,2010,,8.4,,1,0,0,0,0,movie,NA
+961,The Polka King,2017,,5.9,67%,1,0,0,0,0,movie,NA
+962,Initial D,2005,7+,6.4,33%,1,0,0,0,0,movie,NA
+963,7:19,2016,,6.0,100%,1,0,0,0,0,movie,NA
+964,Happy Anniversary,2018,,5.7,83%,1,0,0,0,0,movie,NA
+965,Ultras,2020,,6.0,60%,1,0,0,0,0,movie,NA
+966,Valentine's Day,2010,13+,5.7,18%,1,0,0,0,0,movie,NA
+967,The Lovers,2017,18+,6.0,84%,1,0,0,0,0,movie,NA
+968,Pari,2018,13+,6.6,45%,1,0,1,0,0,movie,NA
+969,Sleepless,2017,18+,5.6,25%,1,0,1,0,0,movie,NA
+970,How to Be a Latin Lover,2017,13+,5.9,39%,1,0,0,0,0,movie,NA
+971,Detour,2017,18+,6.2,65%,1,0,1,0,0,movie,NA
+972,Louis C.K.: Live at The Comedy Store,2015,,7.9,,1,0,0,0,0,movie,NA
+973,Ghosts of Girlfriends Past,2009,13+,5.8,27%,1,0,0,0,0,movie,NA
+974,A Secret Love,2020,,8.1,,1,0,0,0,0,movie,NA
+975,War on Everyone,2016,18+,5.8,61%,1,0,0,0,0,movie,NA
+976,Lakshya,2004,all,7.9,,1,0,0,0,0,movie,NA
+977,Juanita,2019,18+,5.9,77%,1,0,0,0,0,movie,NA
+978,Equals,2015,13+,6.1,35%,1,0,0,0,0,movie,NA
+979,The Last Days of Chez Nous,1992,18+,6.6,85%,1,0,0,0,0,movie,NA
+980,Jaane Tu... Ya Jaane Na,2008,,7.5,,1,0,0,0,0,movie,NA
+981,The Bleeding Edge,2018,16+,7.7,100%,1,0,1,0,0,movie,NA
+982,S Is for Stanley,2016,,7.0,80%,1,0,0,0,0,movie,NA
+983,Hot Girls Wanted,2015,,6.1,82%,1,0,0,0,0,movie,NA
+984,Rock On!!,2008,,7.8,,1,0,0,0,0,movie,NA
+985,Agneepath,1990,,7.7,,1,0,0,0,0,movie,NA
+986,Susanne Bartsch: On Top,2017,,6.6,100%,1,0,0,0,0,movie,NA
+987,Restless Creature: Wendy Whelan,2017,,7.1,100%,1,0,0,0,0,movie,NA
+988,Don,2006,13+,7.2,,1,0,1,0,0,movie,NA
+989,Clive Davis: The Soundtrack of Our Lives,2017,13+,7.4,80%,1,0,0,0,0,movie,NA
+990,Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese,2019,18+,7.7,92%,1,0,0,0,0,movie,NA
+991,Goosebumps 2: Haunted Halloween,2018,7+,5.6,48%,1,0,0,0,0,movie,NA
+992,Boyka: Undisputed IV,2016,18+,7.0,,1,0,0,0,0,video movie,NA
+993,National Parks Adventures,2016,13+,7.0,100%,1,0,0,0,0,movie,NA
+994,Sand Castle,2017,18+,6.3,44%,1,0,0,0,0,movie,NA
+995,Can't Help Falling in Love,2017,,7.2,,1,0,0,0,0,movie,NA
+996,In the Tall Grass,2019,18+,5.4,36%,1,0,0,0,0,movie,NA
+997,Kevin Hart: Irresponsible,2019,18+,6.4,100%,1,0,0,0,0,movie,NA
+998,The B-Side: Elsa Dorfman's Portrait Photography,2017,18+,6.6,97%,1,0,0,0,0,movie,NA
+999,The Bad Education Movie,2015,13+,5.7,63%,1,0,0,0,0,movie,NA
+1000,Marco Polo: One Hundred Eyes,2015,,7.8,,1,0,0,0,0,tv movie,NA
+1001,Beyond the Clouds,2018,,6.9,58%,1,0,0,0,0,movie,NA
+1002,Below Her Mouth,2016,,5.5,22%,1,0,0,0,0,movie,NA
+1003,Norman Lear: Just Another Version of You,2016,13+,7.2,86%,1,0,0,0,0,movie,NA
+1004,A Tale of Love and Darkness,2015,13+,6.0,71%,1,0,0,0,0,movie,NA
+1005,Godzilla,1998,13+,5.4,16%,1,0,0,0,0,movie,NA
+1006,"Roxanne, Roxanne",2017,,6.2,73%,1,0,0,0,0,movie,NA
+1007,Raising Cain,1992,18+,6.1,57%,1,0,0,0,0,movie,NA
+1008,Results,2015,18+,5.4,84%,1,0,0,0,0,movie,NA
+1009,Hop,2011,7+,5.4,25%,1,0,0,0,0,movie,NA
+1010,Toro,2016,13+,5.9,80%,1,0,1,0,0,movie,NA
+1011,Reversing Roe,2018,,7.3,86%,1,0,0,0,0,movie,NA
+1012,Love Likes Coincidences,2011,7+,7.3,,1,0,0,0,0,movie,NA
+1013,The Peacemaker,1997,18+,5.9,39%,1,0,0,0,0,movie,NA
+1014,Money Heist: The Phenomenon,2020,,7.5,,1,0,0,0,0,tv movie,NA
+1015,Jim Gaffigan: Obsessed,2014,16+,7.6,100%,1,0,0,0,0,movie,NA
+1016,The Final Destination,2009,18+,5.2,29%,1,0,0,0,0,movie,NA
+1017,Bleach the Movie: Hell Verse,2010,16+,7.4,,1,0,0,0,0,movie,NA
+1018,Bo Burnham: Make Happy,2016,18+,8.4,,1,0,0,0,0,movie,NA
+1019,For Colored Girls,2010,18+,6.1,32%,1,0,0,0,0,movie,NA
+1020,The Heartbreak Kid,2007,18+,5.8,29%,1,0,0,0,0,movie,NA
+1021,The Art of the Steal,2013,18+,6.3,44%,1,0,0,0,0,movie,NA
+1022,Magic Carpet Ride,2005,13+,7.4,,1,0,0,0,0,movie,NA
+1023,Holiday in the Wild,2019,7+,6.1,43%,1,0,0,0,0,movie,NA
+1024,A-X-L,2018,13+,5.3,27%,1,0,0,0,0,movie,NA
+1025,Orbiter 9,2017,16+,5.9,67%,1,0,0,0,0,movie,NA
+1026,For Love or Money,1993,7+,6.2,37%,1,0,0,0,0,movie,NA
+1027,The Package,2018,18+,5.5,50%,1,0,0,0,0,movie,NA
+1028,Satan & Adam,2018,,7.3,88%,1,0,0,0,0,movie,NA
+1029,Gantz:O,2016,18+,7.1,,1,0,0,0,0,movie,NA
+1030,Detective Dee: The Four Heavenly Kings,2018,,6.4,60%,1,0,0,0,0,movie,NA
+1031,Tau,2018,18+,5.8,29%,1,0,0,0,0,movie,NA
+1032,The Tiger Hunter,2017,,5.7,78%,1,0,0,0,0,movie,NA
+1033,The Body Remembers When the World Broke Open,2019,18+,6.7,97%,1,0,0,0,0,movie,NA
+1034,Jenny Slate: Stage Fright,2019,,5.8,100%,1,0,0,0,0,movie,NA
+1035,Tusk,2014,18+,5.3,45%,1,0,0,0,0,movie,NA
+1036,Gemini,2018,18+,5.4,71%,1,1,0,0,0,movie,NA
+1037,Little Evil,2017,18+,5.7,83%,1,0,0,0,0,movie,NA
+1038,Tom Segura: Mostly Stories,2016,,7.5,,1,0,0,0,0,movie,NA
+1039,The Student,2016,13+,6.9,87%,1,0,1,0,0,movie,NA
+1040,My Entire High School Sinking Into the Sea,2016,13+,6.0,85%,1,0,0,0,0,movie,NA
+1041,Pokémon the Movie: I Choose You!,2017,7+,6.3,33%,1,0,0,0,0,movie,NA
+1042,What the Health,2017,,7.4,,1,0,0,0,0,movie,NA
+1043,Bo Burnham: What.,2013,18+,8.5,,1,0,0,0,0,movie,NA
+1044,"Frankenstein's Monster's Monster, Frankenstein",2019,,6.1,80%,1,0,0,0,0,tv movie,NA
+1045,Mine,2016,,5.9,17%,1,0,0,0,0,movie,NA
+1046,Tremors 3: Back to Perfection,2001,7+,5.3,67%,1,0,0,0,0,video movie,NA
+1047,Jim Gaffigan: Mr. Universe,2012,,7.8,,1,0,0,0,0,video movie,NA
+1048,God's Not Dead,2014,7+,4.7,13%,1,0,1,0,0,movie,NA
+1049,Jim Gaffigan: Beyond the Pale,2006,16+,8.0,,1,0,0,0,0,movie,1
+1050,Don't Go Breaking My Heart,2011,,6.5,83%,1,0,0,0,0,tv movie,NA
+1051,Zero,2018,,5.5,31%,1,0,1,0,0,tv series,NA
+1052,24 Hours to Live,2017,18+,5.7,52%,1,0,0,0,0,movie,NA
+1053,Dream Boat,2017,,5.4,86%,1,0,0,0,0,movie,1
+1054,A Family Man,2017,18+,6.5,13%,1,0,0,0,0,movie,NA
+1055,The Outsider,2018,,6.3,15%,1,0,1,0,0,tv series,NA
+1056,Into the Inferno,2016,,7.2,90%,1,0,0,0,0,movie,NA
+1057,The Nutcracker and the Four Realms,2018,7+,5.5,33%,1,0,0,0,0,movie,NA
+1058,Frank & Lola,2016,,5.9,69%,1,0,0,0,0,movie,NA
+1059,The Super,2018,18+,5.9,40%,1,0,0,0,0,movie,NA
+1060,Adventures in Public School,2018,16+,5.8,71%,1,0,0,0,0,movie,NA
+1061,Lust Stories,2018,13+,6.5,,1,0,0,0,0,movie,NA
+1062,A Very Murray Christmas,2015,18+,5.5,71%,1,0,0,0,0,movie,NA
+1063,Four Sisters And A Wedding,2013,,7.3,,1,0,1,0,0,movie,NA
+1064,The Trust,2016,18+,5.4,63%,1,0,0,0,0,movie,NA
+1065,Struggle: The Life and Lost Art of Szukalski,2018,18+,8.0,,1,0,0,0,0,movie,NA
+1066,Dean,2016,13+,6.2,62%,1,0,0,0,0,movie,NA
+1067,Ek Ladki Ko Dekha Toh Aisa Laga,2019,,5.5,75%,1,0,0,0,0,movie,NA
+1068,In Darkness,2018,,5.8,47%,1,0,0,0,0,movie,NA
+1069,Rowdy Rathore,2012,13+,5.7,55%,1,0,0,0,0,movie,NA
+1070,Secret,2007,,7.5,,1,0,0,0,0,movie,NA
+1071,Girl on the Third Floor,2019,18+,4.6,81%,1,0,0,0,0,movie,NA
+1072,Mindhorn,2016,18+,6.3,91%,1,0,0,0,0,movie,NA
+1073,WHAT DID JACK DO?,2017,16+,6.5,92%,1,0,0,0,0,movie,NA
+1074,Dangerous Lies,2020,16+,5.2,,1,0,0,0,0,movie,NA
+1075,Panipat,2019,,5.5,50%,1,0,0,0,0,movie,NA
+1076,13 Cameras,2015,18+,5.1,77%,1,0,0,0,0,movie,NA
+1077,SampleThis,2013,,6.4,93%,1,0,0,0,0,movie,NA
+1078,Come and Find Me,2016,18+,5.7,62%,1,0,0,0,0,movie,NA
+1079,Cirque du Freak: The Vampire's Assistant,2009,13+,5.8,38%,1,0,0,0,0,movie,NA
+1080,An Interview with God,2018,,5.7,60%,1,0,0,0,0,movie,NA
+1081,Naruto the Movie: Ninja Clash in the Land of Snow,2004,16+,6.7,,1,0,0,0,0,movie,NA
+1082,Naruto Shippuden the Movie,2007,13+,6.9,,1,0,0,0,0,movie,NA
+1083,My Ex & Whys,2017,,6.2,,1,0,0,0,0,movie,NA
+1084,Naruto Shippuden the Movie: Bonds,2008,16+,7.0,,1,0,0,0,0,movie,NA
+1085,The Rachel Divide,2018,18+,6.2,71%,1,0,0,0,0,movie,NA
+1086,Berlin Calling,2008,,7.3,,1,0,0,0,0,movie,NA
+1087,Teefa in Trouble,2018,13+,7.3,,1,0,0,0,0,movie,NA
+1088,Sadece Sen,2014,13+,7.4,,1,0,0,0,0,movie,NA
+1089,Kabhi Haan Kabhi Naa,1994,all,7.8,,1,0,0,0,0,movie,NA
+1090,Room on the Broom,2012,all,7.6,,1,0,1,0,0,tv movie,NA
+1091,Bill Hicks: Sane Man,1989,18+,8.5,,1,0,1,0,0,video movie,NA
+1092,6 Years,2015,,5.6,69%,1,0,0,0,0,movie,NA
+1093,The Magician,2006,,7.4,,1,0,0,0,0,movie,1
+1094,Semana Santa,2015,,6.1,100%,1,0,0,0,0,movie,NA
+1095,Hostages,2017,,6.1,100%,1,0,0,0,0,tv series,NA
+1096,Do Dooni Chaar,2010,7+,7.6,,1,0,0,0,0,movie,NA
+1097,The Captive,2014,18+,5.9,30%,1,0,0,0,0,movie,NA
+1098,Irreplaceable You,2018,18+,6.4,32%,1,0,0,0,0,movie,NA
+1099,Naruto the Movie: Legend of the Stone of Gelel,2005,16+,6.6,,1,0,0,0,0,movie,NA
+1100,Barbecue,2017,7+,6.4,86%,1,0,0,0,0,movie,NA
+1101,Dark Places,2015,18+,6.2,23%,1,0,0,0,0,movie,NA
+1102,Head Count,2018,,5.3,65%,1,0,0,0,0,movie,NA
+1103,Await Further Instructions,2018,18+,4.8,80%,1,0,0,0,0,movie,NA
+1104,Neal Brennan: 3 Mics,2017,,7.9,,1,0,0,0,0,movie,NA
+1105,Belgica,2016,,6.7,57%,1,0,0,0,0,movie,NA
+1106,Amar Akbar Anthony,1977,18+,7.5,,1,0,1,0,0,movie,NA
+1107,"Houston, We Have a Problem!",2016,,7.9,,1,0,0,0,0,movie,NA
+1108,The Bad Batch,2017,18+,5.3,47%,1,0,0,0,0,movie,NA
+1109,Pee Mak Phrakanong,2013,13+,7.3,,1,0,0,0,0,movie,NA
+1110,Ala Vaikunthapurramuloo,2020,,7.2,,1,0,0,0,0,movie,NA
+1111,The Resistance Banker,2018,,6.9,,1,0,0,0,0,movie,NA
+1112,Drillbit Taylor,2008,13+,5.7,26%,1,0,0,0,0,movie,NA
+1113,Jeremiah Tower: The Last Magnificent,2016,18+,6.4,84%,1,0,0,0,0,movie,NA
+1114,Closed Circuit,2013,18+,6.2,43%,1,0,1,0,0,movie,NA
+1115,At First Light,2018,13+,5.5,54%,1,0,0,0,0,movie,NA
+1116,Namastey London,2007,,7.1,,1,0,1,0,0,movie,NA
+1117,Harishchandrachi Factory,2009,all,8.4,,1,0,0,0,0,movie,NA
+1118,I'll See You in My Dreams,2015,13+,6.7,80%,1,0,0,0,0,movie,NA
+1119,Superlópez,2018,,5.3,60%,1,0,0,0,0,movie,NA
+1120,The Skin of the Wolf,2018,,5.7,60%,1,0,0,0,0,movie,NA
+1121,It Takes Two,1995,7+,5.9,8%,1,0,1,0,0,video game,NA
+1122,OtherLife,2017,,6.3,,1,0,0,0,0,movie,NA
+1123,Habibie & Ainun,2012,,7.6,,1,0,0,0,0,movie,NA
+1124,Cop Out,2010,18+,5.6,18%,1,0,0,0,0,movie,NA
+1125,See You Yesterday,2019,,5.1,94%,1,0,0,0,0,movie,NA
+1126,Fittest On Earth (The Story of the 2015 Reebok CrossFit Games),2016,,7.1,,1,0,0,0,0,movie,NA
+1127,The Ivory Game,2016,,7.9,84%,1,0,0,0,0,movie,NA
+1128,Unicorn Store,2017,,5.5,55%,1,0,0,0,0,movie,NA
+1129,Acts of Vengeance,2017,18+,5.7,55%,1,0,0,0,0,movie,NA
+1130,Stink!,2015,all,7.1,89%,1,0,0,0,0,movie,NA
+1131,The Green Inferno,2014,18+,5.3,38%,1,0,0,0,0,movie,NA
+1132,Hum Aapke Hain Koun..!,1994,,7.5,,1,0,1,0,0,movie,NA
+1133,The Lodgers,2017,18+,5.1,55%,1,0,0,0,0,movie,NA
+1134,No Game No Life: Zero,2017,13+,7.5,,1,1,1,0,0,movie,NA
+1135,Billu,2009,7+,6.2,60%,1,0,0,0,0,movie,NA
+1136,Standoff,2016,18+,6.1,56%,1,0,0,0,0,movie,NA
+1137,Life 2.0,2010,,6.2,89%,1,0,0,0,0,movie,NA
+1138,The Awakening of Motti Wolkenbruch,2018,,6.6,63%,1,0,0,0,0,movie,NA
+1139,Ricky Gervais: Humanity,2018,,7.9,,1,0,0,0,0,movie,NA
+1140,Avicii: True Stories,2017,,7.6,,1,0,0,0,0,movie,NA
+1141,Unacknowledged,2017,,7.1,,1,0,0,0,0,movie,NA
+1142,Shot! The Psycho-Spiritual Mantra of Rock,2016,,6.7,94%,1,0,0,0,0,movie,NA
+1143,The Incredible Jessica James,2017,,6.5,86%,1,0,0,0,0,movie,NA
+1144,The Do-Over,2016,18+,5.7,9%,1,0,1,0,0,movie,NA
+1145,The Vatican Tapes,2015,18+,4.9,20%,1,0,0,0,0,movie,NA
+1146,Aziz Ansari: Buried Alive,2013,,7.3,,1,0,0,0,0,movie,NA
+1147,Loving Annabelle,2006,,6.3,,1,0,0,0,0,movie,NA
+1148,Who Would You Take to a Deserted Island?,2019,,5.3,83%,1,0,0,0,0,movie,NA
+1149,The Invisible Guardian,2017,,6.3,20%,1,0,0,0,0,movie,NA
+1150,St. Agatha,2019,18+,5.2,64%,1,0,0,0,0,movie,NA
+1151,Isi & Ossi,2020,18+,6.4,,1,0,0,0,0,movie,NA
+1152,Close,2019,18+,5.7,37%,1,0,0,0,0,movie,NA
+1153,American Hangman,2019,,5.9,44%,1,0,0,0,0,movie,NA
+1154,Aziz Ansari: Right Now,2019,,7.8,88%,1,0,0,0,0,movie,NA
+1155,Riphagen The Untouchable,2016,,7.2,,1,0,0,0,0,video movie,NA
+1156,Punjab 1984,2014,,8.5,,1,0,0,0,0,movie,NA
+1157,5 Flights Up,2014,13+,6.2,46%,1,0,0,0,0,movie,NA
+1158,iBoy,2017,,6.0,60%,1,0,0,0,0,movie,NA
+1159,Jim Jefferies: Bare,2014,18+,8.1,,1,0,0,0,0,movie,NA
+1160,Goon: Last of the Enforcers,2017,18+,5.8,43%,1,0,0,0,0,movie,NA
+1161,Life After Beth,2014,18+,5.6,44%,1,0,0,0,0,movie,NA
+1162,Take Me,2017,18+,6.1,67%,1,0,0,0,0,movie,NA
+1163,The Five Venoms,1978,18+,7.1,,1,0,1,0,0,movie,NA
+1164,And Breathe Normally,2018,16+,6.8,92%,1,0,0,0,0,movie,NA
+1165,The Tribes of Palos Verdes,2017,18+,5.8,64%,1,0,0,0,0,movie,NA
+1166,Pete Davidson: Alive from New York,2020,18+,5.9,40%,1,0,0,0,0,movie,NA
+1167,I Am Michael,2015,,5.6,64%,1,0,0,0,0,movie,NA
+1168,Crazy Beautiful You,2015,,7.2,,1,0,0,0,0,movie,NA
+1169,House at the End of the Street,2012,13+,5.6,14%,1,0,0,0,0,movie,NA
+1170,Bawarchi,1972,,8.0,,1,0,1,0,0,movie,NA
+1171,The New Romantic,2018,,5.7,62%,1,0,0,0,0,movie,NA
+1172,A Fall From Grace,2020,18+,5.8,,1,0,0,0,0,movie,NA
+1173,All the Boys Love Mandy Lane,2008,18+,5.5,43%,1,0,0,0,0,movie,NA
+1174,Ghost in the Shell Arise - Border 1: Ghost Pain,2013,18+,7.2,,1,0,0,0,0,movie,NA
+1175,Mersal,2017,,7.7,,1,0,0,0,0,movie,NA
+1176,Ali Wong: Baby Cobra,2016,,7.5,,1,0,0,0,0,movie,NA
+1177,Mucize,2015,18+,7.6,,1,0,0,0,0,movie,NA
+1178,Mute,2018,18+,5.4,20%,1,0,1,0,0,movie,NA
+1179,Seal Team Six: The Raid on Osama Bin Laden,2012,,5.7,50%,1,0,0,0,0,tv movie,NA
+1180,Radio Rebel,2012,all,6.0,,1,0,0,0,0,tv movie,NA
+1181,The Warriors Gate,2016,13+,5.4,50%,1,0,0,0,0,movie,NA
+1182,Shrek the Musical,2013,13+,7.1,,1,0,0,0,0,movie,NA
+1183,Blind Detective,2013,,6.5,55%,1,0,0,0,0,movie,NA
+1184,Trailer Park Boys: Countdown to Liquor Day,2009,18+,7.4,,1,0,0,0,0,movie,NA
+1185,Dream House,2011,13+,6.0,6%,1,0,0,0,0,movie,NA
+1186,Luka Chuppi,2019,7+,6.3,33%,1,0,0,0,0,movie,NA
+1187,Duck Butter,2018,,5.3,57%,1,0,0,0,0,movie,NA
+1188,Arjun: The Warrior Prince,2012,all,6.8,57%,1,0,0,0,0,movie,NA
+1189,A Plastic Ocean,2016,,8.0,,1,0,0,0,0,movie,NA
+1190,Becoming,2020,7+,6.6,,1,0,0,0,0,movie,NA
+1191,Rising High,2020,,5.7,,1,0,0,0,0,movie,NA
+1192,Skiptrace,2016,13+,5.7,38%,1,0,0,0,0,movie,NA
+1193,Uppity: The Willy T. Ribbs Story,2020,,8.0,,1,0,0,0,0,movie,NA
+1194,Miss Virginia,2019,16+,6.6,60%,1,0,0,0,0,movie,NA
+1195,Wanda Sykes: Not Normal,2019,,7.1,100%,1,0,0,0,0,movie,NA
+1196,Inuyasha the Movie 2: The Castle Beyond the Looking Glass,2002,7+,7.5,,1,0,0,0,0,movie,NA
+1197,Otherhood,2019,18+,6.0,29%,1,0,0,0,0,movie,NA
+1198,"Fireworks, Should We See It from the Side or the Bottom?",2017,13+,5.5,43%,1,0,0,0,0,movie,NA
+1199,Leslie Jones: Time Machine,2020,,5.1,100%,1,0,0,0,0,movie,NA
+1200,Rangoon,2017,,5.7,55%,1,0,0,0,0,movie,NA
+1201,Bleach the Movie: Fade to Black,2008,16+,7.3,,1,0,0,0,0,NA,NA
+1202,American Son,2019,,5.6,47%,1,0,0,0,0,movie,NA
+1203,The Motive,2017,18+,6.5,63%,1,0,0,0,0,movie,NA
+1204,High Flying Bird,2019,,6.2,96%,1,0,0,0,0,movie,NA
+1205,Come Sunday,2018,16+,5.9,63%,1,0,0,0,0,movie,NA
+1206,Socha Na Tha,2005,,7.5,,1,0,1,0,0,movie,NA
+1207,Country Strong,2010,13+,6.3,22%,1,0,0,0,0,movie,NA
+1208,The Wrong Missy,2020,,5.8,,1,0,0,0,0,movie,NA
+1209,Ri¢hie Ri¢h,1994,7+,5.4,24%,1,0,0,0,0,movie,NA
+1210,Apostle,2018,,6.3,71%,1,0,0,0,0,movie,NA
+1211,Message from the King,2017,18+,6.4,43%,1,0,0,0,0,movie,NA
+1212,"Crouching Tiger, Hidden Dragon: Sword of Destiny",2016,13+,6.1,20%,1,0,0,0,0,movie,NA
+1213,The Decline,2020,,5.9,,1,0,0,0,0,movie,NA
+1214,Ronny Chieng: Asian Comedian Destroys America!,2019,18+,7.4,,1,0,0,0,0,movie,NA
+1215,Bill Hicks: Relentless,1992,,8.7,,1,0,0,0,0,video movie,NA
+1216,Revenger,2018,18+,5.7,40%,1,0,0,0,0,movie,NA
+1217,Bhoot,2003,,6.5,67%,1,0,1,0,0,movie,NA
+1218,American Circumcision,2017,16+,7.3,60%,1,0,0,0,0,movie,NA
+1219,Raajneeti,2010,7+,7.1,13%,1,0,0,0,0,movie,NA
+1220,Shepherds and Butchers,2017,18+,6.8,56%,1,0,0,0,0,movie,NA
+1221,Altered Carbon: Resleeved,2020,,6.5,,1,0,0,0,0,movie,NA
+1222,Carrie,2002,18+,5.5,20%,1,0,0,0,0,movie,NA
+1223,Chalte Chalte,2003,13+,6.6,,1,0,0,0,0,movie,NA
+1224,For Greater Glory: The True Story of Cristiada,2012,18+,6.6,21%,1,0,0,0,0,movie,NA
+1225,Happy New Year,2014,all,5.0,47%,1,0,0,0,0,movie,NA
+1226,Between Worlds,2018,18+,4.4,29%,1,0,0,0,0,movie,NA
+1227,Joseph: King of Dreams,2000,all,6.5,,1,0,0,0,0,video movie,NA
+1228,Savage Dog,2017,16+,4.9,75%,1,0,0,0,0,movie,NA
+1229,Mike Birbiglia: The New One,2019,,7.6,,1,0,0,0,0,movie,NA
+1230,Close Enemies,2018,18+,6.3,58%,1,0,0,0,0,movie,NA
+1231,Tony Robbins: I Am Not Your Guru,2016,,6.7,45%,1,0,0,0,0,movie,NA
+1232,Kannum Kannum Kollaiyadithaal,2020,,7.7,,1,0,0,0,0,movie,NA
+1233,Umrika,2015,,6.6,75%,1,0,0,0,0,movie,NA
+1234,"Yours, Mine & Ours",2005,7+,5.5,6%,1,0,1,0,0,movie,NA
+1235,Iliza Shlesinger: War Paint,2013,,6.7,,1,0,1,0,0,movie,NA
+1236,Jeff Dunham: Jeff Dunham's Very Special Christmas Special,2008,13+,7.5,,1,0,1,0,0,movie,NA
+1237,The Hurricane Heist,2018,13+,5.1,46%,1,0,0,0,0,movie,1
+1238,Wine Country,2019,18+,5.4,68%,1,0,0,0,0,movie,NA
+1239,Bana Masal Anlatma,2015,13+,7.5,,1,0,0,0,0,movie,NA
+1240,Submission,2018,18+,5.6,49%,1,0,0,0,0,tv mini series,NA
+1241,Barely Lethal,2015,13+,5.4,26%,1,0,0,0,0,movie,NA
+1242,Rodney King,2017,,5.5,100%,1,0,0,0,0,movie,NA
+1243,Jerry Seinfeld: I'm Telling You for the Last Time,1998,all,7.9,,1,0,0,0,0,movie,NA
+1244,Buffalo Boys,2018,18+,5.8,79%,1,0,0,0,0,movie,NA
+1245,Barbie: Princess Charm School,2011,all,6.4,,1,0,0,0,0,video movie,NA
+1246,Jim Gaffigan: King Baby,2009,7+,7.8,,1,0,0,0,0,movie,NA
+1247,The International,2006,13+,7.2,,1,0,0,0,0,movie,NA
+1248,Flock of Four,2017,,6.0,60%,1,0,0,0,0,movie,NA
+1249,Marc Maron: End Times Fun,2020,,6.8,80%,1,0,0,0,0,movie,NA
+1250,Katt Williams: The Pimp Chronicles Pt. 1,2006,18+,7.7,,1,0,0,0,0,movie,NA
+1251,Immoral Tales,1973,18+,5.6,43%,1,0,0,0,0,movie,NA
+1252,4 latas,2019,,5.9,57%,1,0,0,0,0,movie,NA
+1253,Naruto Shippuden the Movie: Blood Prison,2011,13+,7.3,,1,0,0,0,0,movie,NA
+1254,3 Generations,2016,13+,5.9,32%,1,0,0,0,0,movie,NA
+1255,Miss Representation,2011,,7.6,,1,0,0,0,0,movie,NA
+1256,Jezebel,2020,,6.4,89%,1,0,0,0,0,movie,NA
+1257,A Christmas Prince: The Royal Wedding,2018,7+,5.2,70%,1,0,0,0,0,movie,NA
+1258,XX,2017,18+,4.5,70%,1,0,0,0,0,movie,NA
+1259,Jerry Seinfeld: 23 Hours To Kill,2020,,6.7,,1,0,0,0,0,movie,NA
+1260,Miracle in Cell No. 7,2019,all,7.5,,1,0,0,0,0,movie,NA
+1261,100 Meters,2016,,7.5,,1,0,0,0,0,movie,NA
+1262,Dhamaal,2007,18+,7.3,,1,0,0,0,0,movie,NA
+1263,Maktub,2017,,7.5,,1,0,0,0,0,movie,NA
+1264,Ghost in the Shell Arise - Border 2: Ghost Whispers,2013,18+,7.3,,1,0,0,0,0,movie,NA
+1265,The Rainbow Troops,2008,,7.8,,1,0,0,0,0,movie,NA
+1266,Kaminey,2009,13+,7.4,,1,0,0,0,0,movie,NA
+1267,Chopsticks,2019,,6.5,20%,1,0,0,0,0,movie,NA
+1268,Bullet Head,2017,18+,5.4,59%,1,0,0,0,0,movie,NA
+1269,Moonwalkers,2015,18+,6.1,42%,1,0,0,0,0,movie,NA
+1270,Imagine That,2009,7+,5.6,41%,1,0,1,0,0,movie,NA
+1271,Ek Hasina Thi,2004,,7.6,,1,0,1,0,0,movie,NA
+1272,Bébé's Kids,1992,13+,5.8,30%,1,0,0,0,0,movie,NA
+1273,Patrick,2018,16+,5.8,36%,1,0,1,0,0,movie,NA
+1274,Naruto the Movie: Guardians of the Crescent Moon Kingdom,2006,13+,6.5,,1,0,0,0,0,movie,NA
+1275,Inuyasha the Movie: Affections Touching Across Time,2001,,7.3,,1,0,0,0,0,movie,NA
+1276,Holidays,2016,,5.1,52%,1,0,0,0,0,movie,NA
+1277,Tom Segura: Disgraceful,2018,13+,7.6,,1,0,0,0,0,movie,NA
+1278,Alt-Right: Age of Rage,2018,,5.7,87%,1,0,0,0,0,movie,NA
+1279,Sleepover,2004,7+,5.3,15%,1,0,1,0,0,movie,NA
+1280,Mission Blue,2014,7+,8.0,,1,0,0,0,0,movie,NA
+1281,Chillar Party,2011,all,7.4,,1,0,0,0,0,movie,NA
+1282,Mascots,2016,18+,5.7,49%,1,0,0,0,0,movie,NA
+1283,Bill Burr: Walk Your Way Out,2017,,7.3,,1,0,0,0,0,movie,NA
+1284,Time to Hunt,2020,,6.2,83%,1,0,0,0,0,movie,NA
+1285,The Amityville Horror,2005,18+,6.0,,1,0,1,0,0,movie,NA
+1286,Angamaly Diaries,2017,,8.0,,1,0,0,0,0,movie,NA
+1287,Taylor Tomlinson: Quarter-Life Crisis,2020,,7.4,,1,0,0,0,0,movie,NA
+1288,Anthony Jeselnik: Thoughts and Prayers,2015,18+,7.8,,1,0,0,0,0,video movie,NA
+1289,Oye Lucky! Lucky Oye!,2008,13+,7.7,,1,0,0,0,0,movie,NA
+1290,Long Shot,2017,16+,7.4,,1,0,0,0,0,movie,NA
+1291,Coffee & Kareem,2020,,5.1,22%,1,0,0,0,0,movie,NA
+1292,Aarakshan,2011,13+,6.2,57%,1,0,1,0,0,movie,NA
+1293,My Next Guest with David Letterman and Shah Rukh Khan,2019,,9.3,,1,0,0,0,0,episode,NA
+1294,Eyyvah Eyvah,2010,,7.0,,1,0,0,0,0,movie,NA
+1295,Minimalism: A Documentary About the Important Things,2015,,6.7,,1,0,0,0,0,movie,NA
+1296,The Outcasts,2017,13+,5.5,50%,1,0,0,0,0,movie,NA
+1297,Inuyasha the Movie 3: Swords of an Honorable Ruler,2003,7+,7.7,,1,0,0,0,0,movie,NA
+1298,Black Snow,2017,,6.2,57%,1,0,0,0,0,movie,2
+1299,Tad the Lost Explorer and the Secret of King Midas,2017,7+,6.2,29%,1,0,0,0,0,movie,NA
+1300,Yuva,2004,7+,7.4,,1,0,0,0,0,movie,5
+1301,Pandora,2016,18+,6.6,,1,0,1,0,0,tv series,NA
+1302,Major League II,1994,7+,5.6,5%,1,1,0,0,0,movie,NA
+1303,La tribu,2018,18+,5.8,71%,1,0,0,0,0,tv series,NA
+1304,Aamir,2008,18+,7.7,,1,0,0,0,0,movie,NA
+1305,Force 2,2016,7+,6.2,55%,1,0,0,0,0,movie,NA
+1306,Bert Kreischer: Secret Time,2018,,7.4,,1,0,0,0,0,movie,NA
+1307,Bad Rap,2016,,6.3,70%,1,0,0,0,0,movie,NA
+1308,Tarzan II,2005,all,5.6,33%,1,0,0,0,0,video movie,NA
+1309,What's Up with Love?,2002,,7.8,,1,0,0,0,0,movie,NA
+1310,He's Out There,2018,18+,5.2,43%,1,0,0,0,0,movie,NA
+1311,The Seven Deadly Sins: Prisoners of the Sky,2018,,7.1,,1,0,0,0,0,movie,NA
+1312,Eh Janam Tumhare Lekhe,2015,,8.7,,1,0,0,0,0,movie,NA
+1313,Bill Hicks: Revelations,1993,,8.6,,1,0,1,0,0,movie,NA
+1314,I Am Not an Easy Man,2018,,6.3,,1,0,0,0,0,movie,NA
+1315,Rugrats Go Wild,2003,7+,5.6,39%,1,0,0,0,0,movie,NA
+1316,Donald Glover: Weirdo,2012,,7.5,,1,0,0,0,0,movie,NA
+1317,Once Upon a Time in Mumbaai,2010,13+,7.4,,1,0,0,0,0,movie,NA
+1318,Iliza Shlesinger: Freezing Hot,2015,18+,6.9,,1,0,0,0,0,movie,NA
+1319,Yucatán,2018,7+,5.4,60%,1,0,0,0,0,movie,NA
+1320,Trespass Against Us,2016,18+,5.8,57%,1,0,0,0,0,movie,NA
+1321,The Last Summer,2019,16+,5.6,17%,1,0,1,0,0,movie,NA
+1322,Sinister 2,2015,18+,5.3,16%,1,0,0,0,0,movie,NA
+1323,Have a Good Trip: Adventures in Psychedelics,2020,,7.0,,1,0,0,0,0,movie,NA
+1324,Bobbi Jene,2017,,6.2,59%,1,0,0,0,0,movie,NA
+1325,Dragon Quest: Your Story,2019,7+,6.6,,1,0,0,0,0,movie,NA
+1326,A Second Chance,2015,,7.1,,1,1,0,0,0,movie,NA
+1327,Ajji,2017,,7.0,56%,1,0,0,0,0,movie,NA
+1328,Bennett's War,2019,13+,5.5,50%,1,0,0,0,0,movie,NA
+1329,Our Lovers,2016,,6.7,20%,1,0,0,0,0,movie,NA
+1330,A Haunted House,2013,18+,5.0,9%,1,0,0,0,0,movie,NA
+1331,Unbreakable Kimmy Schmidt: Kimmy vs. the Reverend,2020,13+,7.7,,1,0,0,0,0,tv movie,NA
+1332,Attacking the Devil: Harold Evans and the Last Nazi War Crime,2014,,8.1,100%,1,0,0,0,0,movie,NA
+1333,Every Time I Die,2019,,5.0,100%,1,0,0,0,0,movie,NA
+1334,Jeff Dunham: Controlled Chaos,2011,,7.5,,1,0,1,0,0,movie,NA
+1335,APEX: The Story of the Hypercar,2016,,7.4,,1,0,0,0,0,movie,NA
+1336,Life in the Doghouse,2018,,8.4,,1,0,0,0,0,movie,NA
+1337,Jim Jefferies: Freedumb,2016,18+,7.7,,1,0,0,0,0,movie,NA
+1338,Little Boxes,2017,,5.9,67%,1,0,0,0,0,movie,NA
+1339,Seth Meyers: Lobby Baby,2019,18+,7.5,,1,0,0,0,0,movie,NA
+1340,Kevin Hart: Seriously Funny,2010,18+,7.6,,1,0,0,0,0,movie,NA
+1341,Anthony Jeselnik: Fire in the Maternity Ward,2019,18+,7.0,80%,1,0,0,0,0,movie,NA
+1342,"The Goods: Live Hard, Sell Hard",2009,18+,5.8,27%,1,0,1,0,0,movie,NA
+1343,U Turn,2016,18+,7.5,,1,0,1,0,0,movie,NA
+1344,Violet Evergarden: Eternity and the Auto Memory Doll,2019,,7.4,,1,0,0,0,0,movie,NA
+1345,The After Party,2018,,5.8,,1,0,1,0,0,movie,NA
+1346,Love per Square Foot,2018,,7.2,,1,0,0,0,0,movie,NA
+1347,Sad Hill Unearthed,2017,,7.3,,1,0,0,0,0,movie,NA
+1348,That Thing Called Tadhana,2014,,7.5,,1,0,0,0,0,movie,NA
+1349,Jeff Dunham: Arguing with Myself,2006,13+,8.0,,1,0,1,0,0,movie,NA
+1350,Sandy Wexler,2017,16+,5.1,27%,1,0,0,0,0,movie,NA
+1351,Kickboxer: Vengeance,2016,,4.9,41%,1,0,0,0,0,movie,NA
+1352,Christmas Inheritance,2017,,5.7,43%,1,0,0,0,0,movie,NA
+1353,Sex and the City 2,2010,18+,4.5,16%,1,0,0,0,0,movie,NA
+1354,Badland,2019,16+,5.7,50%,1,0,0,0,0,movie,NA
+1355,A Land Imagined,2019,,6.3,67%,1,0,0,0,0,movie,NA
+1356,The Most Assassinated Woman in the World,2018,18+,5.3,86%,1,0,0,0,0,movie,NA
+1357,Merku Thodarchi Malai,2018,,8.6,,1,0,0,0,0,movie,NA
+1358,Guilty,2020,,5.5,,1,0,1,0,0,movie,NA
+1359,89,2017,,7.7,,1,0,0,0,0,movie,NA
+1360,Bushwick,2017,18+,5.2,47%,1,0,0,0,0,movie,NA
+1361,Mike Birbiglia: Thank God for Jokes,2017,,7.5,,1,0,0,0,0,movie,NA
+1362,Dilwale,2015,7+,5.2,21%,1,0,0,0,0,movie,NA
+1363,Kung Fu Panda: Secrets of the Scroll,2016,7+,7.1,,1,0,0,0,0,movie,NA
+1364,Trevor Noah: Afraid of the Dark,2017,,7.2,,1,0,0,0,0,movie,NA
+1365,Race,2008,,6.7,,1,0,1,0,0,movie,NA
+1366,The Death and Life of Marsha P. Johnson,2017,,7.2,95%,1,0,0,0,0,movie,NA
+1367,Zach Galifianakis: Live at the Purple Onion,2007,,7.4,,1,0,0,0,0,video movie,NA
+1368,Asperger's Are Us,2016,,6.7,100%,1,0,0,0,0,movie,NA
+1369,Hard Tide,2016,,4.7,100%,1,0,0,0,0,movie,NA
+1370,Dream/Killer,2015,,7.4,,1,0,1,0,0,movie,NA
+1371,She's Dating the Gangster,2014,,7.2,,1,0,0,0,0,movie,NA
+1372,Fashion,2008,13+,6.9,,1,0,0,0,0,movie,NA
+1373,Ibiza,2018,18+,5.2,75%,1,0,0,0,0,movie,NA
+1374,Jailbreak,2017,18+,5.4,70%,1,0,0,0,0,movie,NA
+1375,"Game Over, Man!",2018,18+,5.4,9%,1,0,0,0,0,movie,NA
+1376,The Same Blood,2019,18+,6.0,100%,1,0,0,0,0,movie,NA
+1377,Love Wedding Repeat,2020,18+,5.5,21%,1,0,0,0,0,movie,NA
+1378,Starting Over Again,2014,,7.1,,1,0,0,0,0,movie,NA
+1379,Apollo 18,2011,13+,5.2,23%,1,0,0,0,0,movie,NA
+1380,The Climb,2017,,6.9,,1,0,1,0,0,movie,NA
+1381,Strange Weather,2016,18+,5.9,58%,1,0,0,0,0,movie,NA
+1382,Rolling Papers,2015,18+,6.2,58%,1,0,0,0,0,movie,NA
+1383,My Beautiful Broken Brain,2014,,7.1,,1,0,0,0,0,movie,NA
+1384,Inuyasha the Movie 4: Fire on the Mystic Island,2004,7+,7.4,,1,0,0,0,0,movie,NA
+1385,Derren Brown: Sacrifice,2018,,7.1,,1,0,0,0,0,movie,NA
+1386,Joe Rogan: Triggered,2016,,7.5,,1,0,0,0,0,movie,NA
+1387,Chernobyl Diaries,2012,18+,5.0,19%,1,0,0,0,0,movie,NA
+1388,Kung Fu Panda Holiday,2010,all,6.8,,1,0,0,0,0,tv short,NA
+1389,The Sea of Trees,2016,13+,6.1,15%,1,0,0,0,0,movie,NA
+1390,Room for Rent,2017,,5.4,88%,1,0,0,0,0,movie,NA
+1391,The Cat in the Hat,2003,7+,3.9,9%,1,1,0,0,0,movie,NA
+1392,The African Doctor,2016,,7.0,,1,0,0,0,0,movie,NA
+1393,Nothing to Hide,2018,,6.8,,1,0,0,0,0,movie,NA
+1394,All Good,2018,,6.4,100%,1,0,0,0,0,movie,NA
+1395,Cut Bank,2014,18+,6.0,37%,1,0,0,0,0,movie,NA
+1396,Skydancers,2014,,8.2,,1,0,0,0,0,tv movie,NA
+1397,Casa De Mi Padre,2012,18+,5.5,41%,1,0,0,0,0,movie,NA
+1398,Baaghi,2016,7+,5.2,30%,1,0,0,0,0,movie,NA
+1399,Love Aaj Kal,2020,,5.2,17%,1,0,0,0,0,movie,NA
+1400,Opening Night,2016,,6.2,,1,0,0,0,0,movie,NA
+1401,Demonic,2015,18+,5.3,33%,1,0,0,0,0,movie,NA
+1402,A Sun,2019,,7.7,,1,0,0,0,0,movie,NA
+1403,True Memoirs of an International Assassin,2016,16+,5.9,,1,0,0,0,0,movie,NA
+1404,Sour Apples,2016,7+,7.1,,1,0,0,0,0,movie,NA
+1405,Earth and Blood,2020,18+,5.0,,1,0,0,0,0,movie,NA
+1406,The Longshots,2008,7+,5.4,41%,1,0,0,0,0,movie,NA
+1407,Inhuman Kiss,2019,,6.5,,1,0,0,0,0,movie,NA
+1408,5 cm,2012,,7.2,,1,0,0,0,0,movie,NA
+1409,Friend Request,2016,18+,5.3,16%,1,0,1,0,0,movie,NA
+1410,The Art of Loving: Story of Michalina Wislocka,2017,,7.1,,1,0,0,0,0,movie,NA
+1411,Bert Kreischer: Hey Big Boy,2020,,7.1,,1,0,0,0,0,movie,NA
+1412,When Two Worlds Collide,2016,,7.7,91%,1,0,0,0,0,movie,NA
+1413,Blind Date,2015,,6.6,,1,0,1,0,0,movie,NA
+1414,Chup Chup Ke,2006,all,6.8,,1,0,0,0,0,movie,NA
+1415,The Duel,2016,13+,5.8,26%,1,0,1,0,0,movie,NA
+1416,The Hunter's Prayer,2017,18+,5.5,,1,0,0,0,0,movie,NA
+1417,Naruto Shippuden the Movie: The Lost Tower,2010,7+,7.0,,1,0,0,0,0,movie,NA
+1418,Tom Segura: Completely Normal,2014,,7.8,,1,0,1,0,0,movie,NA
+1419,Chris D'Elia: No Pain,2020,,6.0,,1,0,0,0,0,movie,NA
+1420,Silent Hill: Revelation 3D,2012,18+,5.0,10%,1,0,0,0,0,movie,NA
+1421,Hangman,2017,18+,5.2,5%,1,0,1,0,0,movie,NA
+1422,"Norm Macdonald: Hitler's Dog, Gossip & Trickery",2017,,7.2,100%,1,0,0,0,0,movie,NA
+1423,Haraamkhor,2015,,6.4,63%,1,0,0,0,0,movie,NA
+1424,Lila & Eve,2015,18+,5.8,40%,1,0,1,0,0,movie,NA
+1425,Monty Python Live (Mostly),2014,18+,7.7,,1,0,0,0,0,movie,NA
+1426,Kevin Hart: I'm a Grown Little Man,2009,18+,7.7,,1,0,0,0,0,movie,NA
+1427,Ordinary World,2016,,5.5,47%,1,0,0,0,0,movie,NA
+1428,Polar,2019,18+,6.3,16%,1,0,0,0,0,movie,NA
+1429,Mumbai Meri Jaan,2008,13+,7.7,,1,0,0,0,0,movie,NA
+1430,Ek Main Aur Ekk Tu,2012,7+,5.8,63%,1,0,0,0,0,movie,NA
+1431,The Warning,2018,18+,5.9,56%,1,0,1,0,0,movie,NA
+1432,Iron Sky The Coming Race,2019,18+,5.0,29%,1,0,0,0,0,movie,NA
+1433,Lupt,2018,13+,7.3,,1,0,0,0,0,movie,NA
+1434,The Plagues of Breslau,2018,,5.7,,1,0,0,0,0,movie,NA
+1435,Life in a Metro,2007,,7.4,,1,0,0,0,0,movie,NA
+1436,1000 Mabrouk,2009,,7.4,,1,0,0,0,0,movie,NA
+1437,Shimmer Lake,2017,18+,6.2,50%,1,0,0,0,0,movie,NA
+1438,Rich in Love,2020,,6.0,,1,0,0,0,0,movie,NA
+1439,Mohenjo Daro,2016,,5.7,38%,1,0,0,0,0,movie,NA
+1440,The Trailer Park Boys Xmas Special,2004,,8.0,,1,0,0,0,0,tv movie,NA
+1441,Barbie: The Princess & The Popstar,2012,all,5.7,,1,0,0,0,0,movie,NA
+1442,Murder to Mercy: The Cyntoia Brown Story,2020,,6.3,,1,0,0,0,0,movie,NA
+1443,Soul Plane,2004,18+,4.5,18%,1,0,1,0,0,movie,NA
+1444,I See You,2017,7+,7.7,,1,0,0,0,0,movie,NA
+1445,American Anarchist,2016,18+,5.8,67%,1,0,0,0,0,movie,NA
+1446,Dancing with the Birds,2019,,8.3,,1,0,0,0,0,video movie,NA
+1447,The Coldest Game,2019,18+,6.2,,1,0,0,0,0,movie,NA
+1448,Dragons: Dawn Of The Dragon Racers,2014,,7.0,,1,0,0,0,0,video movie,NA
+1449,She Hate Me,2004,18+,5.3,19%,1,0,0,0,0,movie,NA
+1450,Jimmy Carr: Funny Business,2016,,7.2,,1,0,0,0,0,video movie,NA
+1451,Baazaar,2018,,6.7,40%,1,0,0,0,0,movie,NA
+1452,The Week Of,2018,13+,5.1,27%,1,0,0,0,0,movie,NA
+1453,Lady Bloodfight,2016,18+,5.6,40%,1,0,0,0,0,movie,NA
+1454,Naruto Shippuden the Movie: The Will of Fire,2009,13+,7.2,,1,0,0,0,0,movie,NA
+1455,Look & See: A Portrait of Wendell Berry,2017,,7.0,50%,1,0,0,0,0,movie,NA
+1456,Earthquake Bird,2019,18+,5.9,57%,1,0,0,0,0,movie,NA
+1457,Mohawk,2018,,4.5,84%,1,0,0,0,0,movie,NA
+1458,K-On! The Movie,2011,16+,7.6,,1,0,0,0,0,movie,NA
+1459,Untamed Romania,2018,7+,8.7,,1,0,1,0,0,movie,NA
+1460,Sarkar,2018,,6.8,,1,0,1,0,0,movie,NA
+1461,Bokeh,2017,18+,5.0,45%,1,0,0,0,0,movie,NA
+1462,W.E.,2011,18+,6.3,12%,1,0,0,0,0,movie,NA
+1463,18 Presents,2020,,6.7,,1,0,0,0,0,movie,NA
+1464,Mujhse Shaadi Karogi,2004,7+,6.7,,1,0,1,0,0,movie,NA
+1465,Barcelona: A Love Untold,2016,7+,6.8,,1,0,0,0,0,movie,NA
+1466,Hitler: A Career,1977,7+,7.5,,1,0,0,0,0,movie,NA
+1467,Everyday I Love You,2015,,7.0,,1,0,0,0,0,movie,NA
+1468,Across the Line,2016,,5.1,83%,1,0,1,0,0,movie,NA
+1469,K. D.,2019,,8.6,,1,0,0,0,0,episode,NA
+1470,Casting JonBenet,2017,16+,6.1,82%,1,0,0,0,0,movie,NA
+1471,Burn Out,2017,18+,6.2,,1,0,0,0,0,movie,NA
+1472,Giant,2017,13+,6.7,,1,0,1,0,0,movie,NA
+1473,By the Sea,2015,18+,5.3,34%,1,0,0,0,0,movie,NA
+1474,Illang: The Wolf Brigade,2018,18+,6.0,29%,1,0,0,0,0,movie,NA
+1475,The Perfect Dictatorship,2014,,7.2,,1,0,0,0,0,movie,NA
+1476,"LSD: Love, Sex aur Dhokha",2010,13+,7.1,,1,0,0,0,0,movie,NA
+1477,IO,2019,13+,4.7,57%,1,0,0,0,0,movie,NA
+1478,Seventeen,2019,18+,7.2,,1,0,0,0,0,movie,NA
+1479,Nazi Concentration Camps,1945,,8.3,,1,0,0,0,0,movie,NA
+1480,Jerry Before Seinfeld,2017,,7.0,,1,0,0,0,0,movie,NA
+1481,Jim Jefferies: This Is Me Now,2018,,7.3,,1,0,0,0,0,movie,NA
+1482,Hope Springs Eternal,2018,7+,4.7,88%,1,0,0,0,0,movie,NA
+1483,Take Your Pills,2018,,6.4,50%,1,0,0,0,0,movie,NA
+1484,Where the Money Is,2000,13+,6.2,47%,1,0,0,0,0,movie,NA
+1485,Mubarakan,2017,13+,5.6,43%,1,0,0,0,0,movie,NA
+1486,Vincent N Roxxy,2016,18+,5.5,41%,1,0,0,0,0,movie,NA
+1487,Tall Girl,2019,7+,5.2,44%,1,0,0,0,0,movie,NA
+1488,Namak Halaal,1982,all,7.3,,1,0,1,0,0,movie,NA
+1489,USS Indianapolis: Men of Courage,2016,18+,5.2,17%,1,0,0,0,0,movie,NA
+1490,Tom Segura: Ball Hog,2020,,7.3,,1,0,0,0,0,movie,NA
+1491,Pachamama,2018,7+,6.7,,1,0,0,0,0,movie,NA
+1492,Godzilla: Planet of the Monsters,2017,13+,6.0,,1,0,0,0,0,movie,NA
+1493,Delhi-6,2009,,6.1,40%,1,0,0,0,0,movie,NA
+1494,Steel Rain,2017,18+,7.1,,1,0,0,0,0,movie,NA
+1495,Iliza Shlesinger: Elder Millennial,2018,,7.2,,1,0,0,0,0,movie,NA
+1496,Sudani from Nigeria,2018,,8.2,,1,0,0,0,0,movie,NA
+1497,Tremors: A Cold Day in Hell,2018,13+,5.0,40%,1,0,0,0,0,video movie,NA
+1498,Rainbow Time,2016,,5.9,67%,1,0,1,0,0,movie,NA
+1499,Hum Saath Saath Hain,1999,all,6.2,,1,0,1,0,0,movie,NA
+1500,Denis Leary: No Cure for Cancer,1993,18+,7.5,,1,0,0,0,0,movie,NA
+1501,The Last Airbender,2010,7+,4.1,5%,1,0,0,0,0,movie,NA
+1502,Print the Legend,2014,,7.1,,1,0,0,0,0,movie,NA
+1503,Step Sisters,2018,13+,5.4,22%,1,0,0,0,0,movie,NA
+1504,Trailer Park Boys: Say Goodnight to the Bad Guys,2008,,7.9,,1,0,0,0,0,tv movie,NA
+1505,The Fury of a Patient Man,2016,,6.8,,1,0,0,0,0,movie,NA
+1506,Tini: The New Life of Violetta,2016,all,5.5,,1,0,0,0,0,movie,NA
+1507,Speech & Debate,2017,13+,5.9,55%,1,0,0,0,0,movie,NA
+1508,Gagarin: First in Space,2013,13+,6.6,,1,0,0,0,0,movie,NA
+1509,Playing for Time,1980,,7.4,,1,0,1,0,0,tv movie,NA
+1510,Yes or No,2010,,6.8,,1,0,0,0,0,movie,NA
+1511,Uyare,2019,,8.1,,1,0,0,0,0,movie,NA
+1512,Backtrack,2015,18+,5.9,30%,1,0,0,0,0,movie,NA
+1513,Warehoused,2017,,7.7,100%,1,0,0,0,0,movie,NA
+1514,Don't Knock Twice,2017,18+,5.1,24%,1,0,0,0,0,movie,NA
+1515,Delirium,2018,18+,5.7,,1,0,1,0,0,movie,NA
+1516,Thithi,2015,,8.2,,1,0,0,0,0,movie,NA
+1517,Joe Rogan: Strange Times,2018,,7.4,,1,0,0,0,0,movie,NA
+1518,Froning: The Fittest Man In History,2015,7+,6.7,,1,0,0,0,0,movie,NA
+1519,Demetri Martin: Live (At The Time),2015,,7.4,,1,0,0,0,0,movie,NA
+1520,The Man Without Gravity,2019,16+,6.3,,1,0,0,0,0,movie,NA
+1521,Postcards from London,2018,,5.0,53%,1,0,0,0,0,movie,NA
+1522,Keith Richards: Under the Influence,2015,7+,7.1,,1,0,0,0,0,movie,NA
+1523,Angela's Christmas,2017,all,7.0,,1,0,0,0,0,movie,NA
+1524,The Black Godfather,2019,18+,6.5,100%,1,0,1,0,0,movie,NA
+1525,Barbie: A Fairy Secret,2011,all,5.7,,1,0,0,0,0,video movie,NA
+1526,Martin Lawrence Live: Runteldat,2002,18+,5.4,39%,1,0,1,0,0,movie,NA
+1527,Organize İşler: Sazan Sarmalı,2019,,6.0,,1,0,0,0,0,movie,NA
+1528,School Life,2019,,6.4,,1,0,0,0,0,movie,NA
+1529,Eyyvah Eyvah 2,2011,7+,6.6,,1,0,0,0,0,movie,NA
+1530,Solo,2017,,7.1,,1,0,1,0,0,movie,NA
+1531,Happy Old Year,2019,,7.5,,1,0,0,0,0,movie,NA
+1532,Money,2016,18+,5.5,,1,0,0,0,0,movie,NA
+1533,Trolls Holiday,2017,7+,6.2,,1,0,0,0,0,tv movie,NA
+1534,The Main Event,2020,,4.7,30%,1,0,0,0,0,movie,NA
+1535,Walt Disney Animation Studios Short Films Collection,2015,all,7.7,,1,0,0,0,0,video movie,NA
+1536,Rukh,2017,,6.5,100%,1,0,0,0,0,movie,NA
+1537,Jeff Dunham: Beside Himself,2019,18+,6.7,,1,0,0,0,0,movie,NA
+1538,Battle,2018,18+,6.0,,1,0,0,0,0,movie,NA
+1539,Luciano Mellera: Infantiloide,2018,13+,8.6,,1,0,0,0,0,movie,NA
+1540,Mo' Money,1992,18+,5.5,16%,1,0,0,0,0,movie,NA
+1541,Satte Pe Satta,1982,,7.2,,1,0,1,0,0,movie,NA
+1542,Special Correspondents,2016,13+,5.8,18%,1,0,0,0,0,movie,NA
+1543,Pokémon: Mewtwo Strikes Back - Evolution,2019,13+,5.7,44%,1,0,0,0,0,movie,NA
+1544,Small Crimes,2017,,5.8,58%,1,0,0,0,0,movie,NA
+1545,The Assignment,2016,18+,4.6,34%,1,0,0,0,0,movie,NA
+1546,"Yours Sincerely, Kanan Gill",2020,,7.2,,1,0,0,0,0,movie,NA
+1547,Shelby American,2019,,7.2,,1,0,0,0,0,movie,NA
+1548,A Perfect Ending,2012,,5.7,,1,0,0,0,0,movie,NA
+1549,Full Out,2015,7+,6.4,,1,0,0,0,0,movie,NA
+1550,Mad World,2016,,7.3,,1,0,0,0,0,movie,NA
+1551,Wedding Association,2013,13+,7.1,,1,0,0,0,0,movie,NA
+1552,Agatha and the Truth of Murder,2018,13+,6.3,,1,0,0,0,0,tv movie,NA
+1553,Love Beats Rhymes,2017,18+,5.3,44%,1,0,0,0,0,movie,NA
+1554,Public Works,2015,,6.7,,1,0,0,0,0,movie,NA
+1555,Running Shaadi,2017,,6.7,,1,0,0,0,0,movie,NA
+1556,Toc Toc,2017,,6.7,,1,0,0,0,0,movie,NA
+1557,Aykut Enişte,2019,,7.1,,1,0,0,0,0,movie,NA
+1558,Bhagam Bhag,2006,,6.3,,1,0,1,0,0,movie,NA
+1559,1898: Our Last Men in the Philippines,2016,13+,6.5,,1,0,0,0,0,movie,NA
+1560,Kara Bela,2015,13+,6.9,,1,0,0,0,0,movie,NA
+1561,Snow Day,2000,7+,5.1,29%,1,0,0,0,0,movie,NA
+1562,Lion's Heart,2013,18+,6.7,,1,0,0,0,0,movie,NA
+1563,Jem and the Holograms,2015,7+,4.1,22%,1,0,0,0,0,movie,NA
+1564,Rakuen Tsuihou - Expelled from Paradise,2014,16+,6.7,,1,0,0,0,0,movie,NA
+1565,Godzilla: City on the Edge of Battle,2018,,5.8,,1,0,0,0,0,movie,NA
+1566,审死官,1992,7+,6.9,,1,0,1,0,0,NA,NA
+1567,Burlesque: Heart of the Glitter Tribe,2017,,5.8,83%,1,0,0,0,0,movie,NA
+1568,The Silence of the Marsh,2019,,5.0,50%,1,0,0,0,0,movie,NA
+1569,Mrs. Serial Killer,2020,,4.5,,1,0,0,0,0,movie,NA
+1570,How It Ends,2018,18+,5.0,17%,1,0,0,0,0,movie,NA
+1571,Holy Camp!,2017,,6.3,,1,0,0,0,0,movie,NA
+1572,El Camino Christmas,2017,18+,5.7,40%,1,0,0,0,0,movie,5
+1573,The Lighthouse of the Orcas,2016,,6.7,,1,0,0,0,0,movie,NA
+1574,Seven Sundays,2017,7+,7.9,,1,0,0,0,0,movie,NA
+1575,Cuddle Weather,2019,,6.2,,1,0,0,0,0,movie,NA
+1576,Search Party,2014,18+,5.6,11%,1,0,0,0,0,tv series,NA
+1577,The Legend of Cocaine Island,2018,18+,6.3,78%,1,0,0,0,0,movie,NA
+1578,Barbie in A Mermaid Tale,2010,all,6.2,,1,0,0,0,0,video movie,NA
+1579,Dabbe: Cin Çarpması,2013,,6.8,,1,0,0,0,0,movie,NA
+1580,Ghost in the Shell Arise - Border 3: Ghost Tears,2014,18+,7.2,,1,0,0,0,0,movie,NA
+1581,Dave Chappelle: The Kennedy Center Mark Twain Prize,2020,18+,7.4,,1,0,0,0,0,movie,NA
+1582,Love Ni Bhavai,2017,,8.4,,1,0,0,0,0,movie,NA
+1583,Malevolent,2018,18+,4.8,38%,1,0,0,0,0,movie,NA
+1584,Dayveon,2017,,6.3,71%,1,0,0,0,0,movie,NA
+1585,Tune in for Love,2019,,7.1,,1,0,0,0,0,movie,NA
+1586,Paper Year,2018,,5.1,71%,1,0,0,0,0,movie,NA
+1587,Point Blank,2019,18+,5.7,38%,1,0,1,0,0,movie,NA
+1588,Connected,2008,,6.6,,1,0,0,0,0,movie,NA
+1589,Sillu Karupatti,2019,,8.3,,1,0,0,0,0,movie,NA
+1590,Chelsea Peretti: One of the Greats,2014,,7.0,,1,0,0,0,0,movie,NA
+1591,The Wedding Party,2016,13+,6.0,,1,0,1,0,0,movie,NA
+1592,The Adventures of Sharkboy and Lavagirl,2005,7+,3.5,19%,1,0,0,0,0,episode,NA
+1593,Katherine Ryan: In Trouble,2017,18+,6.9,,1,0,0,0,0,movie,NA
+1594,Next Avengers: Heroes of Tomorrow,2008,7+,6.3,,1,0,0,0,0,video movie,NA
+1595,A Life of Speed: The Juan Manuel Fangio Story,2020,,6.7,,1,0,0,0,0,movie,NA
+1596,Red Istanbul,2017,,5.5,,1,0,0,0,0,movie,NA
+1597,Swearnet: The Movie,2014,18+,5.9,20%,1,0,0,0,0,movie,NA
+1598,DragonHeart: A New Beginning,2000,7+,4.5,40%,1,0,0,0,0,video movie,NA
+1599,The Scorpion King: Book of Souls,2018,13+,4.6,,1,0,0,0,0,movie,NA
+1600,I Am Wrath,2016,18+,5.4,11%,1,0,0,0,0,movie,NA
+1601,Aziz Ansari: Live at Madison Square Garden,2015,,6.6,,1,0,0,0,0,movie,NA
+1602,Paskal: The Movie,2018,,6.8,,1,0,0,0,0,movie,NA
+1603,Raja Hindustani,1996,all,6.2,,1,0,0,0,0,movie,NA
+1604,Goyo: The Boy General,2018,16+,6.7,,1,0,0,0,0,movie,NA
+1605,Tales from the Hood 2,2018,18+,4.4,75%,1,0,0,0,0,video movie,NA
+1606,The Little Vampire 3D,2017,,5.4,14%,1,0,0,0,0,movie,NA
+1607,Dragonheart: Vengeance,2020,13+,5.1,,1,0,0,0,0,video movie,NA
+1608,Beats,2019,18+,6.4,,1,0,0,0,0,movie,NA
+1609,XOXO,2016,18+,5.3,71%,1,0,0,0,0,movie,NA
+1610,Rudy Habibie,2016,,7.5,,1,0,0,0,0,movie,NA
+1611,For Here or to Go?,2017,,6.7,54%,1,0,0,0,0,movie,NA
+1612,Spyder,2017,,6.6,,1,0,0,0,0,movie,NA
+1613,Social Animals,2018,18+,5.2,38%,1,0,0,0,0,movie,NA
+1614,Lady Driver,2020,7+,6.6,,1,0,0,0,0,movie,NA
+1615,Assimilate,2019,13+,5.3,,1,0,0,0,0,movie,NA
+1616,Mercy Black,2019,16+,4.9,40%,1,0,0,0,0,movie,NA
+1617,Fun Mom Dinner,2017,18+,5.2,33%,1,0,0,0,0,movie,NA
+1618,Kristy,2014,,5.9,,1,0,0,0,0,movie,NA
+1619,Katt Williams: American Hustle,2007,18+,6.7,,1,0,0,0,0,video movie,NA
+1620,Lavender,2016,,5.4,36%,1,0,1,0,0,movie,NA
+1621,The Lift Boy,2019,,7.3,,1,0,0,0,0,movie,NA
+1622,Maria,2019,18+,5.0,,1,0,0,0,0,movie,NA
+1623,After Porn Ends,2012,18+,5.7,,1,0,1,0,0,movie,NA
+1624,City of Tiny Lights,2016,,5.5,59%,1,0,0,0,0,movie,NA
+1625,Love in a Puff,2010,,7.2,,1,0,0,0,0,movie,NA
+1626,Life Overtakes Me,2019,,6.5,,1,0,0,0,0,movie,NA
+1627,Hank: 5 Years from the Brink,2013,,6.6,50%,1,0,0,0,0,movie,NA
+1628,Judah Friedlander: America Is the Greatest Country in the United States,2017,,7.7,,1,0,0,0,0,movie,NA
+1629,Kid Kulafu,2015,,6.7,,1,0,0,0,0,movie,NA
+1630,Vince & Kath & James,2016,,7.0,,1,0,0,0,0,movie,NA
+1631,Vir Das: For India,2020,,7.8,,1,0,0,0,0,movie,NA
+1632,Greg Davies: You Magnificent Beast,2018,,7.1,,1,0,0,0,0,movie,NA
+1633,Bulbul Can Sing,2019,,6.8,100%,1,0,0,0,0,movie,NA
+1634,Ronnie Coleman: The King,2018,,7.0,,1,0,0,0,0,movie,NA
+1635,Hazaaron Khwaishein Aisi,2003,,7.9,,1,0,0,0,0,movie,NA
+1636,The Titan,2018,18+,4.8,16%,1,0,0,0,0,movie,NA
+1637,Sliver,1993,18+,5.0,11%,1,0,0,0,0,movie,NA
+1638,Half Girlfriend,2017,7+,4.3,25%,1,0,0,0,0,movie,NA
+1639,God Bless the Broken Road,2018,7+,5.5,17%,1,0,0,0,0,movie,NA
+1640,Summer Night,2019,,4.6,52%,1,0,0,0,0,movie,NA
+1641,Demetri Martin: The Overthinker,2018,,7.2,,1,0,0,0,0,movie,NA
+1642,Gie,2005,,7.6,,1,0,0,0,0,movie,NA
+1643,The Boy Who Cried Werewolf,2010,all,6.0,,1,0,0,0,0,tv movie,NA
+1644,Pee-Wee's Playhouse Christmas Special,1988,,7.7,,1,0,0,0,0,tv movie,NA
+1645,Bayonet,2018,,5.8,80%,1,0,0,0,0,movie,NA
+1646,Jim Gaffigan: Cinco,2017,16+,7.1,,1,0,0,0,0,movie,NA
+1647,Cezanne and I,2016,18+,6.0,53%,1,0,0,0,0,movie,NA
+1648,Diana: In Her Own Words,2017,,7.9,,1,0,0,1,0,tv movie,NA
+1649,Shiva,1990,,8.0,,1,0,1,0,0,movie,NA
+1650,The Tenth Man,2016,,5.7,71%,1,0,0,0,0,tv movie,NA
+1651,Much Loved,2015,,6.2,,1,0,0,0,0,movie,NA
+1652,Screwed,2000,18+,5.8,13%,1,0,1,0,0,movie,NA
+1653,Martial Arts of Shaolin,1986,13+,6.6,,1,0,1,0,0,movie,NA
+1654,Maska,2020,,6.0,,1,0,1,0,0,movie,NA
+1655,Mike Birbiglia: What I Should Have Said Was Nothing,2008,,7.6,,1,0,1,0,0,movie,NA
+1656,Heal,2017,,6.9,,1,0,0,0,0,movie,NA
+1657,Svaha: The Sixth Finger,2019,,6.2,,1,0,0,0,0,movie,NA
+1658,Death Race: Beyond Anarchy,2018,18+,5.2,,1,0,0,0,0,video movie,NA
+1659,Patton Oswalt: Talking for Clapping,2016,18+,6.8,,1,0,0,0,0,movie,NA
+1660,Mara,2018,18+,5.1,29%,1,0,0,0,0,movie,NA
+1661,Return to the 36th Chamber,1980,18+,7.0,,1,0,1,0,0,movie,NA
+1662,The Ridiculous 6,2015,16+,4.8,,1,0,0,0,0,movie,NA
+1663,Shootout at Lokhandwala,2007,13+,7.1,,1,0,0,0,0,movie,NA
+1664,Big Time Movie,2012,all,6.5,,1,1,0,0,0,tv movie,NA
+1665,I Fine..Thank You..Love You,2014,,7.0,,1,0,0,0,0,movie,NA
+1666,Puerto Ricans in Paris,2015,18+,5.3,36%,1,0,0,0,0,movie,NA
+1667,Njan Prakashan,2018,,7.6,,1,0,0,0,0,movie,NA
+1668,Skin Trade,2014,18+,5.6,25%,1,0,0,0,0,movie,NA
+1669,Sebastian Maniscalco: What's Wrong with People?,2012,16+,8.1,,1,0,0,0,0,movie,NA
+1670,My Little Pony: Equestria Girls - Friendship Games,2016,all,6.5,,1,0,0,0,0,movie,NA
+1671,Monster High: Great Scarrier Reef,2016,all,6.2,,1,0,0,0,0,video movie,NA
+1672,Arctic Dogs,2019,7+,4.5,13%,1,0,0,0,0,movie,NA
+1673,The Gathering,2003,,7.2,,1,0,0,0,0,movie,NA
+1674,Last Ferry,2019,,6.4,,1,0,0,0,0,movie,NA
+1675,Iliza Shlesinger: Confirmed Kills,2016,18+,6.6,,1,0,0,0,0,movie,NA
+1676,A Christmas Prince: The Royal Baby,2019,,5.3,40%,1,0,0,0,0,movie,NA
+1677,Jinxed,2013,all,6.5,,1,0,0,0,0,tv movie,NA
+1678,Birdshot,2017,18+,6.6,,1,0,0,0,0,movie,NA
+1679,The Eichmann Show,2015,,6.5,,1,0,0,0,0,tv movie,NA
+1680,Boy Missing,2016,,6.4,,1,0,0,0,0,movie,NA
+1681,Cats & Dogs: The Revenge of Kitty Galore,2010,7+,4.3,13%,1,0,0,0,0,movie,NA
+1682,Sardaar Ji,2015,,6.4,,1,0,0,0,0,movie,NA
+1683,Rocky Handsome,2016,18+,6.8,,1,0,0,0,0,movie,NA
+1684,Psychokinesis,2018,,5.9,,1,0,0,0,0,movie,NA
+1685,You Changed My Life,2009,,6.5,,1,0,0,0,0,movie,NA
+1686,Sarah Silverman: A Speck of Dust,2017,,6.8,,1,0,0,0,0,movie,NA
+1687,Jab Harry Met Sejal,2017,,5.3,10%,1,0,0,0,0,movie,NA
+1688,The Roommate,2011,13+,4.8,4%,1,0,0,0,0,movie,NA
+1689,Doom: Annihilation,2019,18+,3.6,50%,1,0,0,0,0,movie,NA
+1690,Stephanie,2017,18+,5.8,,1,0,0,0,0,movie,NA
+1691,The Vault,2017,,4.8,25%,1,0,0,0,0,movie,NA
+1692,Theatre of Life,2016,,6.5,100%,1,0,0,0,0,movie,NA
+1693,Why Me?,2015,,7.5,,1,0,0,0,0,movie,NA
+1694,Naked,2017,16+,5.4,,1,0,0,0,0,movie,NA
+1695,The Laws of Thermodynamics,2018,,6.0,45%,1,0,0,0,0,movie,NA
+1696,The Gospel of John,2014,,7.6,,1,0,0,0,0,movie,NA
+1697,Jimmy Carr: The Best of Ultimate Gold Greatest Hits,2019,18+,7.3,,1,0,0,0,0,movie,NA
+1698,Dragon Tiger Gate,2006,,6.2,,1,0,0,0,0,movie,NA
+1699,#realityhigh,2017,,5.2,,1,0,0,0,0,movie,NA
+1700,Bride for Rent,2014,,6.4,,1,0,0,0,0,movie,NA
+1701,Polaroid,2019,13+,5.1,,1,0,0,0,0,movie,NA
+1702,Yeh Ballet,2020,,7.6,,1,0,0,0,0,movie,NA
+1703,The Watcher,2000,18+,5.3,10%,1,0,0,0,0,movie,NA
+1704,Fukrey,2013,13+,6.9,,1,0,0,0,0,movie,NA
+1705,Some Kind of Beautiful,2015,18+,5.7,6%,1,0,0,0,0,movie,NA
+1706,I Am the Pretty Thing That Lives in the House,2016,,4.5,60%,1,0,0,0,0,movie,NA
+1707,Ghayal,1990,18+,7.6,,1,0,1,0,0,movie,NA
+1708,Father of the Year,2018,16+,5.2,,1,0,0,0,0,movie,NA
+1709,The Adderall Diaries,2016,18+,5.2,21%,1,0,0,0,0,movie,NA
+1710,Psycho,2020,,6.3,,1,0,0,0,0,movie,NA
+1711,Wedding Unplanned,2017,16+,6.2,,1,0,0,0,0,movie,NA
+1712,CRD,2016,,6.3,100%,1,0,0,0,0,movie,NA
+1713,Bad Seeds,2018,,7.3,,1,0,0,0,0,movie,NA
+1714,Armed to the Teeth,2018,,8.2,,1,0,0,0,0,movie,NA
+1715,A Leaf of Faith,2018,,7.0,,1,0,0,0,0,movie,NA
+1716,7 Años,2016,,6.8,,1,0,0,0,0,movie,NA
+1717,Ready,2011,,4.7,30%,1,0,1,0,0,movie,NA
+1718,ABCD,2013,13+,6.3,,1,0,1,0,0,movie,NA
+1719,300 Miles to Heaven,1989,,7.2,,1,0,1,0,0,movie,NA
+1720,The Legacy of a Whitetail Deer Hunter,2018,16+,5.5,32%,1,0,0,0,0,movie,NA
+1721,Shorts,2009,7+,4.7,46%,1,0,0,0,0,movie,NA
+1722,Rim of the World,2019,7+,5.1,30%,1,0,0,0,0,movie,NA
+1723,Clinical,2017,,5.1,,1,0,0,0,0,movie,NA
+1724,Phir Bhi Dil Hai Hindustani,2000,13+,6.2,,1,0,0,0,0,movie,NA
+1725,Sun Dogs,2017,,6.2,,1,0,0,0,0,movie,NA
+1726,Thor: Tales of Asgard,2011,7+,6.3,,1,0,0,0,0,video movie,NA
+1727,Phobia 2,2009,18+,6.7,,1,0,0,0,0,movie,NA
+1728,How to Get Over a Breakup,2018,18+,6.2,,1,0,0,0,0,movie,NA
+1729,Monty Python: Parrot Sketch Not Included,1989,,8.2,,1,0,0,0,0,movie,NA
+1730,Marc Maron: Thinky Pain,2013,,7.4,,1,0,1,0,0,movie,NA
+1731,First Kill,2017,18+,5.0,12%,1,0,0,0,0,movie,NA
+1732,Barbra: The Music ... The Mem'ries ... The Magic!,2017,,7.5,,1,0,0,0,0,movie,NA
+1733,Ee Nagaraniki Emaindi,2018,7+,7.9,,1,0,0,0,0,movie,NA
+1734,Miss Julie,2014,13+,5.4,51%,1,0,0,0,0,movie,NA
+1735,Why We Fight: Prelude to War,1942,,7.0,,1,0,1,0,0,movie,NA
+1736,Sunrise In Heaven,2019,,6.6,,1,0,0,0,0,movie,NA
+1737,Michael Che Matters,2016,,7.1,,1,0,0,0,0,movie,NA
+1738,Theo Who Lived,2016,,6.8,82%,1,0,0,0,0,movie,NA
+1739,Everything About Her,2016,,7.2,,1,0,0,0,0,movie,NA
+1740,The Stand at Paxton County,2020,,6.4,,1,0,0,0,0,movie,NA
+1741,Ready to Mingle,2019,18+,5.9,44%,1,0,0,0,0,movie,NA
+1742,The Journey Is the Destination,2016,18+,6.3,,1,0,0,0,0,movie,NA
+1743,The Battle of Midway,1942,7+,6.1,,1,0,1,0,0,movie,NA
+1744,The Bye Bye Man,2017,13+,4.2,18%,1,0,0,0,0,movie,NA
+1745,Lady-Like,2017,18+,6.0,,1,0,0,0,0,movie,NA
+1746,Extremis,2016,7+,7.3,,1,0,0,0,0,movie,1
+1747,Gnome Alone,2017,7+,5.6,,1,0,0,0,0,movie,NA
+1748,Naomi and Ely's No Kiss List,2015,,5.5,,1,0,0,0,0,movie,NA
+1749,Legendary Weapons of China,1982,18+,7.0,,1,0,1,0,0,movie,NA
+1750,A Love Story,2007,,6.5,,1,0,0,0,0,tv series,NA
+1751,1920,2008,,6.4,,1,0,1,0,0,movie,NA
+1752,Spy Kids: All the Time in the World,2011,7+,3.5,22%,1,0,0,0,0,movie,NA
+1753,The Blue Umbrella,2005,,7.5,,1,0,0,0,0,movie,NA
+1754,Rajma Chawal,2018,,5.8,,1,0,0,0,0,movie,NA
+1755,You Carry Me,2015,,7.0,,1,0,0,0,0,movie,NA
+1756,Monster High: Electrified,2017,7+,5.7,,1,0,0,0,0,tv movie,NA
+1757,Running for Grace,2018,16+,6.1,,1,0,0,0,0,movie,NA
+1758,Saving Capitalism,2017,,6.8,,1,0,0,0,0,movie,NA
+1759,End Game,2018,,7.1,,1,0,1,0,0,movie,NA
+1760,Story of an Egg,2017,all,8.0,,1,0,0,0,0,movie,NA
+1761,Love on Delivery,1994,16+,6.9,,1,0,1,0,0,movie,NA
+1762,The Little Mermaid,2018,7+,4.2,20%,1,0,0,1,0,NA,NA
+1763,Eerie,2018,,4.7,,1,0,1,0,0,movie,NA
+1764,3022,2019,18+,4.5,,1,0,0,0,0,movie,NA
+1765,No Other Woman,2011,16+,6.3,,1,0,0,0,0,movie,NA
+1766,Invisible Essence: The Little Prince,2018,,7.5,100%,1,0,0,0,0,movie,NA
+1767,Naam Shabana,2017,,6.3,40%,1,0,0,0,0,movie,NA
+1768,Girls & Panzer: The Movie,2015,16+,7.3,,1,0,0,0,0,movie,NA
+1769,Pyaar Ke Side Effects,2006,all,6.7,,1,0,0,0,0,movie,NA
+1770,Humpty Sharma Ki Dulhania,2014,all,6.0,,1,0,0,0,0,movie,NA
+1771,Chris D'Elia: Incorrigible,2015,18+,6.5,,1,0,0,0,0,movie,NA
+1772,Lommbock,2017,,6.8,,1,0,0,0,0,movie,NA
+1773,There's Something in the Water,2019,,6.7,82%,1,0,0,0,0,movie,3
+1774,It Takes A Man And A Woman,2013,7+,6.7,,1,0,0,0,0,movie,NA
+1775,Good Luck,2014,,6.7,,1,0,0,0,0,movie,NA
+1776,Birthmarked,2018,,5.7,12%,1,0,0,0,0,movie,NA
+1777,Zapped,2014,all,5.1,,1,1,0,1,0,tv series,NA
+1778,Twin Murders: The Silence of the White City,2019,18+,5.2,40%,1,0,0,0,0,movie,NA
+1779,Bheeshma,2020,,6.7,,1,0,0,0,0,movie,NA
+1780,Dave Chappelle: Equanimity,2017,,8.2,,1,0,0,0,0,movie,NA
+1781,Tom and Jerry: The Magic Ring,2002,all,6.3,,1,0,0,0,0,video movie,NA
+1782,My Stupid Boss,2016,,7.2,,1,0,0,0,0,movie,NA
+1783,Zion,2018,,7.2,,1,0,0,0,0,movie,NA
+1784,Mr. Pig,2016,,5.7,62%,1,0,0,0,0,movie,NA
+1785,Loev,2016,,5.8,,1,0,0,0,0,movie,NA
+1786,Manu,2018,,7.9,,1,0,0,0,0,movie,NA
+1787,Main Meri Patni Aur Woh,2005,all,7.3,,1,0,0,0,0,movie,NA
+1788,Painted Faces,1988,,7.0,,1,0,0,0,0,movie,NA
+1789,Deewana,1992,,6.8,,1,0,1,0,0,movie,NA
+1790,Sister Cities,2016,16+,6.8,,1,0,0,0,0,tv movie,NA
+1791,Janaan,2016,,7.1,,1,0,0,0,0,movie,NA
+1792,Travis Scott: Look Mom I Can Fly,2019,18+,6.3,,1,0,0,0,0,movie,NA
+1793,A Dangerous Woman,1993,18+,5.8,50%,1,0,0,0,0,movie,NA
+1794,Beast Stalker,2008,,6.8,,1,0,0,0,0,movie,NA
+1795,Eddie: Strongman,2015,16+,7.5,,1,0,0,0,0,movie,NA
+1796,Bolbol Hayran,2010,,6.4,,1,0,0,0,0,movie,NA
+1797,ABCD 2,2015,7+,5.4,,1,0,0,0,0,movie,NA
+1798,Road to Roma,2020,,7.7,,1,0,0,0,0,movie,NA
+1799,The Love Affair,2015,,6.2,,1,0,0,0,0,movie,NA
+1800,We Are Young. We Are Strong.,2014,,7.1,,1,0,0,0,0,movie,NA
+1801,Our Planet: Behind The Scenes,2019,,8.3,,1,0,0,0,0,tv movie,NA
+1802,The Black Prince,2017,13+,6.6,7%,1,0,0,0,0,movie,NA
+1803,Kuchh Bheege Alfaaz,2018,,7.5,,1,0,0,0,0,movie,NA
+1804,Kingdom of Us,2017,,7.0,,1,0,0,0,0,movie,NA
+1805,My Little Pony: Equestria Girls - Legend of Everfree,2016,all,6.4,,1,0,0,0,0,movie,NA
+1806,Pa Paandi,2017,,7.6,,1,0,1,0,0,movie,NA
+1807,The Humanity Bureau,2017,18+,4.8,25%,1,0,0,0,0,movie,NA
+1808,Barbie in Princess Power,2015,all,5.5,,1,0,0,0,0,tv movie,NA
+1809,Big Kill,2018,18+,5.3,22%,1,0,0,0,0,movie,NA
+1810,Accident,2009,18+,6.6,,1,0,0,0,0,movie,NA
+1811,Girlfriend's Day,2017,18+,5.2,43%,1,0,0,0,0,movie,NA
+1812,The Ruthless,2019,18+,6.2,,1,0,0,0,0,movie,NA
+1813,Thambi,2019,,6.8,,1,0,0,0,0,movie,NA
+1814,Roped,2020,7+,5.5,,1,0,0,0,0,movie,NA
+1815,All I Wish,2018,18+,5.1,18%,1,0,0,0,0,movie,NA
+1816,İncir Reçeli 2,2014,13+,6.1,,1,0,0,0,0,movie,NA
+1817,I Don't Know How She Does It,2011,13+,4.9,17%,1,0,0,0,0,movie,NA
+1818,Bob Lazar: Area 51 and Flying Saucers,2018,,5.5,20%,1,0,0,0,0,movie,NA
+1819,League of Legends Origins,2019,,6.5,,1,0,0,0,0,movie,NA
+1820,Varane Avashyamund,2020,,6.9,,1,0,0,0,0,movie,NA
+1821,Out of Thin Air,2017,,6.3,,1,0,0,0,0,movie,NA
+1822,Jeff Dunham: Minding the Monsters,2012,13+,7.1,,1,0,1,0,0,movie,NA
+1823,Noblemen,2019,,5.8,100%,1,0,0,0,0,movie,NA
+1824,Highly Strung,2016,,7.2,100%,1,0,0,0,0,movie,NA
+1825,Gabriel Iglesias: I'm Sorry for What I Said When I Was Hungry,2016,,7.4,,1,0,0,0,0,movie,NA
+1826,Bert Kreischer: The Machine,2016,18+,7.7,,1,0,0,0,0,movie,NA
+1827,The Music of Silence,2017,,6.6,,1,0,0,0,0,movie,NA
+1828,The Feels,2017,18+,5.1,,1,0,0,0,0,movie,NA
+1829,Russell Peters: Notorious,2013,,7.1,,1,0,0,0,0,movie,NA
+1830,Jeff Dunham: All Over the Map,2014,13+,7.1,,1,0,1,0,0,movie,NA
+1831,Sara's Notebook,2018,18+,5.9,,1,0,0,0,0,movie,NA
+1832,Surga yang Tak Dirindukan,2015,,7.9,,1,0,0,0,0,movie,NA
+1833,Chamatkar,1992,7+,6.6,,1,0,0,0,0,movie,NA
+1834,93 Days,2016,,6.0,,1,0,1,0,0,movie,NA
+1835,Phantom,2015,,5.9,,1,0,0,0,0,movie,NA
+1836,Catfight,2017,,5.8,,1,0,0,0,0,movie,NA
+1837,Ayat-Ayat Cinta 2,2017,,5.6,,1,0,0,0,0,movie,NA
+1838,Munafik 2,2018,,6.3,,1,0,0,0,0,movie,NA
+1839,Jhankaar Beats,2003,,7.2,,1,0,0,0,0,movie,NA
+1840,Dark Crimes,2018,18+,4.9,,1,0,0,0,0,movie,NA
+1841,Tim Minchin and the Heritage Orchestra: Live at the Royal Albert Hall,2011,,8.5,,1,0,1,0,0,NA,NA
+1842,Your Son,2018,,6.1,,1,0,0,0,0,movie,NA
+1843,B.A. Pass,2012,13+,6.4,,1,0,0,0,0,movie,NA
+1844,Hostage to the Devil,2016,18+,5.8,,1,0,0,0,0,movie,NA
+1845,Once Upon a Time in London,2019,,6.1,20%,1,0,0,0,0,movie,NA
+1846,Visions,2015,18+,5.3,19%,1,0,0,0,0,movie,NA
+1847,The Most Hated Woman in America,2017,18+,6.1,43%,1,0,0,0,0,movie,NA
+1848,The Silence of the Sky,2016,,6.5,,1,0,0,0,0,movie,NA
+1849,Duplicate,1998,7+,5.5,,1,0,0,0,0,movie,NA
+1850,Sam Kinison: Breaking the Rules,1987,18+,7.3,,1,0,1,0,0,movie,NA
+1851,Wrong Side Raju,2016,,8.0,,1,0,0,0,0,movie,NA
+1852,Good People,2014,18+,5.5,9%,1,0,0,0,0,movie,NA
+1853,Devil's Bride,2016,18+,6.0,,1,0,0,0,0,movie,NA
+1854,Sebastian Maniscalco: Stay Hungry,2019,18+,7.1,,1,0,0,0,0,movie,NA
+1855,The Last Laugh,2019,,5.6,,1,0,0,0,0,movie,2
+1856,Escape from the 'Liberty' Cinema,1990,7+,7.2,,1,0,0,0,0,movie,NA
+1857,Government Woman,2013,,6.5,,1,0,0,0,0,movie,NA
+1858,Hoodwinked Too! Hood VS. Evil,2011,7+,4.7,11%,1,0,0,0,0,movie,NA
+1859,Whitney Cummings: Can I Touch It?,2019,,6.4,,1,0,0,0,0,movie,NA
+1860,Yol Arkadaşım 2,2018,13+,5.9,,1,0,0,0,0,tv series,NA
+1861,Anaarkali of Aarah,2017,,6.4,,1,0,0,0,0,movie,NA
+1862,Dead Kids,2019,18+,5.5,,1,0,0,0,0,movie,NA
+1863,Verses of Love,2008,,7.1,,1,0,0,0,0,movie,NA
+1864,Nang-Nak,1999,13+,6.5,,1,0,0,0,0,movie,NA
+1865,From One Second to the Next,2013,,7.4,,1,0,0,0,0,movie,NA
+1866,Swiped,2018,,3.6,17%,1,0,0,0,0,movie,NA
+1867,Freedom at Midnight,2018,,7.4,,1,0,0,0,0,movie,NA
+1868,Jeff Dunham: Relative Disaster,2017,,6.4,,1,0,0,0,0,movie,NA
+1869,Loving,2017,,5.3,,1,0,0,0,0,movie,NA
+1870,Sarvam Thaala Mayam,2019,7+,7.6,,1,0,0,0,0,movie,NA
+1871,Rocco,2016,18+,5.8,,1,0,0,0,0,movie,NA
+1872,The Cell,2017,,6.4,,1,0,0,0,0,movie,NA
+1873,Gori Tere Pyaar Mein,2013,,5.0,44%,1,0,0,0,0,movie,NA
+1874,Operações Especiais,2015,,6.4,,1,0,0,0,0,movie,NA
+1875,Vizontele Tuuba,2004,,6.5,,1,0,0,0,0,movie,NA
+1876,Summer of '92,2015,,6.9,,1,0,0,0,0,movie,NA
+1877,Power of Grayskull: The Definitive History of He-Man and the Masters of the Universe,2017,,6.8,,1,0,0,0,0,movie,NA
+1878,Waiting,2016,,7.2,,1,0,0,0,0,movie,NA
+1879,Shor in the City,2011,7+,7.2,,1,0,0,0,0,movie,NA
+1880,Bangkok Traffic Love Story,2009,7+,7.2,,1,0,0,0,0,movie,NA
+1881,Inside Man: Most Wanted,2019,18+,5.6,,1,0,0,0,0,movie,NA
+1882,Dabbe 5: Zehr-i Cin,2014,,6.0,,1,0,0,0,0,movie,NA
+1883,Chris D'Elia: Man on Fire,2017,18+,6.6,,1,0,0,0,0,movie,NA
+1884,Chris Tucker Live,2015,18+,6.3,,1,0,0,0,0,movie,NA
+1885,The Rehearsal,2016,,5.7,82%,1,0,0,0,0,movie,NA
+1886,Diana: 7 Days That Shook the Windsors,2017,,7.4,,1,0,0,0,0,tv movie,NA
+1887,Antoine Griezmann: The Making of a Legend,2019,,6.5,,1,0,0,0,0,tv movie,NA
+1888,Muramba,2017,7+,8.1,,1,0,0,0,0,movie,NA
+1889,Ho Mann Jahaan,2015,7+,7.2,,1,0,1,0,0,movie,NA
+1890,Yol Arkadaşım,2017,13+,6.1,,1,0,0,0,0,movie,NA
+1891,Watchman,2019,,6.3,,1,0,0,0,0,movie,NA
+1892,Love for Sale,2018,,7.4,,1,0,0,0,0,movie,NA
+1893,Vir Das: Abroad Understanding,2017,18+,6.8,,1,0,0,0,0,movie,1
+1894,Wrong No.,2015,,6.7,,1,0,1,0,0,movie,NA
+1895,Sahara,2017,7+,5.5,,1,0,0,0,0,movie,NA
+1896,Stereo,2014,,6.6,,1,0,0,0,0,movie,NA
+1897,Be Somebody,2016,7+,5.6,,1,0,0,0,0,movie,NA
+1898,Belmonte,2019,,6.1,92%,1,0,0,0,0,tv series,NA
+1899,Sitara: Let Girls Dream,2019,,7.3,,1,0,0,0,0,movie,NA
+1900,Derren Brown: The Push,2018,,7.7,,1,0,0,0,0,movie,NA
+1901,Off Course,2015,,5.8,,1,0,0,0,0,movie,NA
+1902,Düğün Dernek 2: Sünnet,2015,13+,6.4,,1,0,0,0,0,movie,1
+1903,San Pietro,1945,,6.6,,1,0,1,0,0,tv movie,NA
+1904,Sarajevo,2014,,6.7,,1,0,0,0,0,tv movie,NA
+1905,Balu Mahi,2017,,6.4,,1,0,0,0,0,movie,NA
+1906,A Cinderella Story: Christmas Wish,2019,7+,5.2,,1,0,0,0,0,video movie,NA
+1907,Once Again,2019,,7.1,,1,0,1,0,0,tv series,NA
+1908,Mortified Nation,2013,,7.3,,1,0,0,0,0,movie,NA
+1909,The Mistress,2012,13+,6.3,,1,0,1,0,0,movie,NA
+1910,Don Verdean,2015,13+,5.4,29%,1,0,0,0,0,movie,NA
+1911,Tremors 5: Bloodlines,2015,13+,5.3,,1,0,0,0,0,video movie,NA
+1912,The Sinking of Van Der Wijck,2013,,7.6,,1,0,0,0,0,movie,NA
+1913,Sturgill Simpson Presents Sound & Fury,2019,,6.5,,1,0,0,0,0,movie,NA
+1914,Mary's Land,2013,13+,6.6,,1,0,0,0,0,movie,NA
+1915,Olmo and the Seagull,2015,,7.3,,1,0,0,0,0,movie,NA
+1916,Sister In Law,2016,,5.1,,1,0,0,0,0,movie,NA
+1917,"The Other One: The Long, Strange Trip of Bob Weir",2014,,7.4,,1,0,0,0,0,movie,NA
+1918,Sebastian Maniscalco: Why Would You Do That?,2016,16+,7.3,,1,0,0,0,0,movie,NA
+1919,Walk. Ride. Rodeo.,2019,7+,6.4,,1,0,0,0,0,movie,NA
+1920,Emmanuel Macron: Behind the Rise,2017,,6.9,,1,0,0,0,0,tv movie,NA
+1921,Aadu 2,2017,,7.1,,1,0,0,0,0,movie,NA
+1922,Dude,2018,18+,5.1,,1,0,0,0,0,movie,NA
+1923,Franca: Chaos and Creation,2016,,7.6,,1,0,0,0,0,movie,NA
+1924,Shéhérazade,2018,18+,7.1,,1,0,0,0,0,movie,NA
+1925,Under the Eiffel Tower,2019,,5.1,41%,1,0,0,0,0,movie,NA
+1926,Motu Patlu: King Of Kings,2016,,6.7,,1,0,0,0,0,movie,NA
+1927,I Hate Luv Storys,2010,7+,5.6,,1,0,0,0,0,movie,NA
+1928,Küçük Esnaf,2016,13+,5.6,,1,0,0,0,0,movie,NA
+1929,The Chosen Ones,2015,,6.7,,1,0,0,0,0,movie,NA
+1930,The Love Guru,2008,13+,3.8,14%,1,0,1,0,0,movie,NA
+1931,Consequences,2014,13+,6.6,,1,0,0,0,0,movie,NA
+1932,Elisa & Marcela,2019,18+,6.5,33%,1,0,0,0,0,movie,NA
+1933,The Clapper,2018,18+,5.1,23%,1,0,0,0,0,movie,NA
+1934,7 Khoon Maaf,2011,,6.1,,1,0,0,0,0,movie,NA
+1935,Very Big Shot,2015,18+,7.2,,1,0,0,0,0,movie,NA
+1936,Barça Dreams,2015,,7.3,,1,0,0,0,0,movie,NA
+1937,"El Pepe, A Supreme Life",2019,,7.0,,1,0,0,0,0,movie,NA
+1938,Frank and Cindy,2015,18+,6.1,,1,0,0,0,0,movie,NA
+1939,Monty Python's Flying Circus: Live at Aspen,1998,,7.9,,1,0,0,0,0,movie,NA
+1940,Catwalk: Tales from the Catshow Circuit,2018,,6.3,,1,0,0,0,0,movie,NA
+1941,SuckSeed,2011,13+,7.5,,1,0,0,0,0,movie,NA
+1942,Perdida,2018,18+,5.6,20%,1,0,0,0,0,movie,NA
+1943,Why We Fight: The Battle of Russia,1943,,7.1,,1,0,1,0,0,movie,NA
+1944,In the Shadow of Iris,2016,18+,6.1,,1,0,1,0,0,movie,NA
+1945,The Animal People,2019,,7.2,,1,0,0,0,0,movie,NA
+1946,Despite Everything,2019,18+,5.3,,1,0,0,0,0,movie,NA
+1947,Tyke Elephant Outlaw,2015,,7.4,,1,0,0,0,0,movie,NA
+1948,Dragonheart 3: The Sorcerer's Curse,2015,13+,5.1,,1,0,0,0,0,video movie,NA
+1949,Jackass Presents: Bad Grandpa .5,2014,13+,6.3,,1,0,0,0,0,video movie,NA
+1950,Barbie: Spy Squad,2016,all,5.7,,1,0,0,0,0,video movie,NA
+1951,David Cross: Making America Great Again,2016,,6.4,,1,0,0,0,0,movie,NA
+1952,The President's Barber,2004,18+,6.9,,1,0,0,0,0,movie,NA
+1953,The Carter Effect,2017,16+,7.1,,1,0,0,0,0,movie,1
+1954,Nate Bargatze: The Tennessee Kid,2019,,7.5,,1,0,0,0,0,movie,NA
+1955,Dying to Tell,2019,,6.7,,1,0,0,0,0,movie,NA
+1956,Jarhead 2: Field of Fire,2014,18+,5.5,,1,0,0,0,0,video movie,NA
+1957,Neşeli Hayat,2009,,6.1,,1,0,0,0,0,movie,NA
+1958,Euphoria,2018,18+,6.5,,1,0,0,0,0,tv series,NA
+1959,Growing Up Wild,2016,all,7.3,,1,0,0,0,0,movie,NA
+1960,After Porn Ends 3,2018,18+,5.3,,1,0,0,0,0,movie,NA
+1961,Havenhurst,2016,,4.8,27%,1,0,0,0,0,movie,NA
+1962,Monster High: New Ghoul at School,2010,7+,6.8,,1,0,0,0,0,tv movie,NA
+1963,Like Arrows,2018,,6.3,,1,0,0,0,0,movie,NA
+1964,LEGO Marvel Super Heroes: Avengers Reassembled!,2015,7+,6.2,,1,0,0,0,0,tv movie,NA
+1965,Forever Pure,2016,,7.4,,1,0,0,0,0,movie,NA
+1966,God's Not Dead: A Light in Darkness,2018,7+,4.5,11%,1,0,0,0,0,movie,NA
+1967,A Grand Night In: The Story of Aardman,2015,7+,7.6,,1,0,0,0,0,tv movie,NA
+1968,Taramani,2017,,7.5,,1,0,1,0,0,movie,NA
+1969,Rip Tide,2017,,5.5,,1,0,0,0,0,movie,NA
+1970,Brené Brown: The Call to Courage,2019,,7.6,,1,0,0,0,0,movie,NA
+1971,One Day: Justice Delivered,2019,,5.6,,1,0,0,0,0,movie,NA
+1972,Katt Williams: Great America,2018,18+,6.1,,1,0,0,0,0,movie,NA
+1973,Khubsoorat,1980,18+,7.7,,1,0,0,0,0,movie,NA
+1974,Judwaa 2,2017,16+,3.8,36%,1,0,0,0,0,movie,NA
+1975,Singularity,2017,13+,3.8,,1,0,0,0,0,movie,NA
+1976,Gad Elmaleh: American Dream,2018,16+,7.2,,1,0,0,0,0,movie,NA
+1977,Kis Kisko Pyaar Karoon,2015,13+,5.7,,1,0,1,0,0,movie,NA
+1978,The Incredible Story of the Giant Pear,2017,,6.1,,1,0,0,0,0,movie,NA
+1979,The Heretics,2017,,4.7,,1,0,0,0,0,movie,NA
+1980,One Heart: The A.R. Rahman Concert Film,2017,,8.7,,1,0,0,0,0,movie,NA
+1981,Samantaral,2017,,7.6,,1,0,0,0,0,movie,NA
+1982,The Girl from the Song,2017,,5.6,,1,0,0,0,0,movie,NA
+1983,Tikli and Laxmi Bomb,2017,,8.2,,1,0,0,0,0,movie,NA
+1984,The Wedding Curse,2006,,6.2,,1,0,0,0,0,movie,NA
+1985,River's Edge,2018,,6.2,71%,1,0,0,0,0,movie,NA
+1986,Battle Drone,2018,13+,5.2,,1,0,0,0,0,movie,NA
+1987,Puriyaatha Puthir,2017,,6.6,,1,0,1,0,0,movie,NA
+1988,Fittest in Dubai,2019,all,6.0,,1,0,0,0,0,movie,NA
+1989,Fortune Feimster: Sweet & Salty,2020,,6.8,,1,0,0,0,0,movie,NA
+1990,In Family I Trust,2019,,6.2,,1,0,0,0,0,movie,NA
+1991,Ana e Vitória,2018,,6.6,,1,0,0,0,0,movie,NA
+1992,The Last Hangover,2018,,6.2,,1,0,0,0,0,movie,NA
+1993,LEGO DC Comics Super Heroes: Batman: Be-Leaguered,2014,,6.6,,1,0,0,0,0,tv short,NA
+1994,Masameer: The Movie,2020,,6.0,,1,0,0,0,0,movie,NA
+1995,Ghost of the Mountains,2017,all,6.8,,1,0,0,0,0,movie,NA
+1996,Pottersville,2017,13+,5.4,,1,0,0,0,0,movie,NA
+1997,Riot,2015,,5.1,,1,0,0,0,0,movie,NA
+1998,The Last Resort,2018,,7.3,90%,1,0,0,0,0,movie,NA
+1999,He Even Has Your Eyes,2017,,6.2,,1,0,0,0,0,movie,NA
+2000,The Hard Way,2019,,4.8,,1,0,0,0,0,movie,NA
+2001,Jim Norton: Mouthful of Shame,2017,18+,6.8,,1,0,0,0,0,movie,NA
+2002,Barbie & Her Sisters in A Pony Tale,2013,all,6.2,,1,0,0,0,0,video movie,NA
+2003,Luv Shuv Tey Chicken Khurana,2012,7+,6.6,,1,0,0,0,0,movie,NA
+2004,My Little Pony: Best Gift Ever,2018,7+,8.0,,1,0,0,0,0,tv movie,NA
+2005,Tig Notaro: Happy To Be Here,2018,16+,6.6,,1,0,0,0,0,movie,NA
+2006,Surga Yang Tak Dirindukan 2,2017,,7.2,,1,0,0,0,0,movie,NA
+2007,Pahuna: The Little Visitors,2017,,7.6,,1,0,0,0,0,movie,NA
+2008,Azhar,2016,13+,5.8,22%,1,0,0,0,0,movie,NA
+2009,Never Heard,2018,13+,5.2,,1,0,0,0,0,movie,NA
+2010,Mayday Life,2019,,7.7,,1,0,0,0,0,movie,NA
+2011,Ferrari Ki Sawaari,2012,all,6.4,,1,0,1,0,0,movie,NA
+2012,Secret Obsession,2019,13+,4.3,36%,1,0,0,0,0,movie,NA
+2013,Hedefim Sensin,2018,,6.2,,1,0,0,0,0,movie,NA
+2014,Barbie in Rock 'N Royals,2015,7+,6.0,,1,0,0,0,0,movie,NA
+2015,"Ray Romano: Right Here, Around the Corner",2019,,7.2,,1,0,0,0,0,movie,NA
+2016,Merata: How Mum Decolonised the Screen,2019,,6.9,92%,1,0,0,0,0,movie,NA
+2017,Raja Natwarlal,2014,7+,6.1,,1,0,0,0,0,movie,NA
+2018,Mother,2016,,5.6,,1,1,1,0,0,movie,NA
+2019,"Ken Jeong: You Complete Me, Ho",2019,,5.7,,1,0,0,0,0,movie,NA
+2020,The Apostate,1987,,6.0,75%,1,0,0,0,0,movie,NA
+2021,Hamid,2019,,7.8,,1,0,0,0,0,movie,NA
+2022,Let's Dance,2019,18+,5.9,,1,0,0,0,0,movie,NA
+2023,Clair Obscur,2016,,6.5,,1,0,0,0,0,movie,NA
+2024,Burning Cane,2019,,5.5,88%,1,0,0,0,0,movie,NA
+2025,Bypass Road,2019,,5.4,,1,0,0,0,0,movie,NA
+2026,Monster High: Welcome to Monster High,2016,7+,5.6,,1,0,0,0,0,movie,NA
+2027,"Liar, Liar, Vampire",2015,all,5.8,,1,0,0,0,0,tv movie,NA
+2028,Kurtuluş Son Durak,2012,13+,6.2,,1,0,0,0,0,movie,NA
+2029,Late Life: The Chien-Ming Wang Story,2018,,7.1,,1,0,0,0,0,movie,NA
+2030,The Lion Woman,2017,18+,6.6,,1,0,0,0,0,movie,NA
+2031,Blood Money,2017,18+,4.4,50%,1,0,1,0,0,movie,NA
+2032,Husband Factor: Resurrection,2015,7+,5.8,,1,0,0,0,0,movie,NA
+2033,Hari Kondabolu: Warn Your Relatives,2018,,6.4,,1,0,0,0,0,movie,NA
+2034,Recovery Boys,2018,,6.5,,1,0,0,0,0,movie,NA
+2035,Selfie 69,2016,,6.3,,1,0,0,0,0,movie,NA
+2036,Albion: The Enchanted Stallion,2016,7+,5.2,,1,0,0,0,0,movie,NA
+2037,Manje Bistre,2017,,6.6,,1,0,0,0,0,movie,NA
+2038,Laaf Wa Dawaraan,2016,,5.6,,1,0,0,0,0,movie,NA
+2039,Ryan Hamilton: Happy Face,2017,,7.3,,1,0,0,0,0,movie,NA
+2040,Mojave,2015,18+,5.2,,1,0,0,0,0,movie,NA
+2041,A Week in Watts,2017,,6.3,,1,0,0,0,0,movie,NA
+2042,The Unmarried Wife,2016,,6.0,,1,0,0,0,0,movie,NA
+2043,Gardeners of Eden,2015,,8.4,,1,0,0,0,0,movie,NA
+2044,Zoom,2006,7+,4.4,3%,1,0,0,0,0,movie,NA
+2045,Jack Whitehall: At Large,2017,18+,6.9,,1,0,0,0,0,movie,NA
+2046,Jarhead 3: The Siege,2016,18+,5.2,,1,0,0,0,0,video movie,NA
+2047,Tremors 4: The Legend Begins,2004,13+,5.3,,1,0,0,0,0,video movie,NA
+2048,The Girl Allergic to Wi-Fi,2018,,6.5,,1,0,0,0,0,movie,NA
+2049,Legends of the Hidden Temple,2016,7+,5.8,,1,0,0,0,0,tv movie,NA
+2050,Term Life,2016,18+,5.5,,1,0,0,0,0,movie,NA
+2051,Carmen Sandiego: To Steal or Not to Steal,2020,,6.8,,1,0,0,0,0,movie,NA
+2052,Tunisian Victory,1944,,6.6,,1,0,1,0,0,movie,7
+2053,Aiyaary,2018,16+,5.3,29%,1,0,0,0,0,movie,NA
+2054,Jen Kirkman: I'm Gonna Die Alone (And I Feel Fine),2015,,6.8,,1,0,0,0,0,movie,NA
+2055,Zindagi Kitni Haseen Hay,2016,all,6.2,,1,0,0,0,0,movie,NA
+2056,Milada,2017,,6.1,,1,0,0,0,0,movie,NA
+2057,Sabrina,2018,,4.2,,1,0,0,0,0,tv series,NA
+2058,Sex Doll,2016,,4.5,,1,0,0,0,0,movie,NA
+2059,Spy Time,2015,,6.1,,1,0,0,0,0,movie,NA
+2060,Iliza Shlesinger: Unveiled,2019,,6.4,,1,0,0,0,0,movie,NA
+2061,Vir Das: Losing It,2018,13+,7.0,,1,0,0,0,0,movie,NA
+2062,The 101-Year-Old Man Who Skipped Out on the Bill and Disappeared,2016,,6.3,,1,0,0,0,0,movie,NA
+2063,The Creative Brain,2019,,6.4,,1,0,0,0,0,movie,NA
+2064,We Need to Talk,2016,,5.8,,1,0,0,0,0,NA,NA
+2065,Cracked Up: The Darrell Hammond Story,2019,,7.3,,1,0,0,0,0,movie,NA
+2066,Hypersomnia,2016,,5.5,,1,0,0,0,0,movie,NA
+2067,Bygones Be Bygones,2017,13+,6.3,,1,0,0,0,0,movie,NA
+2068,Shuddhi,2017,,8.0,,1,0,0,0,0,movie,NA
+2069,Kevin James: Sweat the Small Stuff,2001,7+,7.5,,1,0,0,0,0,movie,NA
+2070,Fasel Wa Naoud,2011,,6.5,,1,0,0,0,0,movie,NA
+2071,The Last Face,2016,18+,4.9,8%,1,0,0,0,0,movie,NA
+2072,Uriyadi 2,2019,all,7.4,,1,0,0,0,0,movie,NA
+2073,Nikki Glaser: Bangin',2019,,5.8,,1,0,0,0,0,movie,NA
+2074,Break Up 100,2014,,5.8,,1,0,0,0,0,movie,NA
+2075,An Hour and a Half,2012,,7.1,,1,0,0,0,0,movie,NA
+2076,Garfunkel and Oates: Trying to be Special,2016,18+,7.4,,1,0,0,0,0,movie,NA
+2077,The Ghost Who Walks,2019,18+,5.2,,1,0,0,0,0,movie,NA
+2078,Monty Python: The Meaning of Live,2014,,7.6,,1,0,0,0,0,tv movie,NA
+2079,Singh Saab the Great,2013,13+,5.7,,1,0,0,0,0,movie,NA
+2080,Patiala House,2011,,5.6,,1,0,0,0,0,movie,NA
+2081,Deliha,2014,13+,4.6,,1,0,0,0,0,movie,NA
+2082,Duck Duck Goose,2018,7+,5.7,,1,0,0,0,0,movie,NA
+2083,Alpha and Omega: The Legend of the Saw Tooth Cave,2014,7+,5.4,,1,0,0,0,0,movie,NA
+2084,ReMastered: Devil at the Crossroads,2019,,7.0,,1,0,0,0,0,tv movie,NA
+2085,The Real Miyagi,2015,16+,7.1,,1,0,0,0,0,movie,NA
+2086,The Influence,2019,,4.5,,1,0,0,0,0,movie,NA
+2087,Transformer,2018,,7.4,,1,0,0,0,0,movie,NA
+2088,What a Wonderful Family!,2016,,6.9,,1,0,0,0,0,movie,NA
+2089,A Champion Heart,2018,all,5.3,,1,0,0,0,0,movie,NA
+2090,Deon Cole: Cole Hearted,2019,,6.9,,1,0,0,0,0,movie,NA
+2091,Chronically Metropolitan,2016,,5.1,40%,1,0,0,0,0,movie,1
+2092,Lucknow Central,2017,,6.2,40%,1,0,0,0,0,movie,NA
+2093,Jeff Dunham: Unhinged in Hollywood,2015,7+,6.6,,1,0,0,0,0,movie,NA
+2094,Ely Bali Balak,2003,,6.5,,1,0,0,0,0,movie,NA
+2095,Dab6e,2015,,5.7,,1,0,0,0,0,movie,NA
+2096,Lovely Complex,2006,,6.3,,1,0,0,0,0,tv series,1
+2097,Humko Deewana Kar Gaye,2006,13+,5.2,,1,0,0,0,0,movie,NA
+2098,Pizza,2014,,6.2,,1,0,1,0,0,movie,2
+2099,Sethum Aayiram Pon,2020,,7.1,,1,0,0,0,0,movie,NA
+2100,Chris Brown: Welcome to My Life,2017,,5.7,,1,0,0,0,0,movie,NA
+2101,The Drowning,2016,,4.4,50%,1,0,0,0,0,tv mini series,NA
+2102,ReMastered: Massacre at the Stadium,2019,,7.3,,1,0,0,0,0,tv movie,NA
+2103,Heroine,2012,,5.1,50%,1,0,0,0,0,tv series,NA
+2104,All in My Family,2019,,6.7,,1,0,0,0,0,movie,NA
+2105,Wild Oats,2016,13+,5.7,,1,0,0,0,0,movie,NA
+2106,Welcome to Sajjanpur,2008,7+,6.9,,1,0,0,0,0,movie,NA
+2107,Bill Hicks: One Night Stand,1991,18+,8.2,,1,0,0,0,0,NA,NA
+2108,You Get Me,2017,18+,4.6,,1,0,0,0,0,movie,NA
+2109,"Oh, Ramona!",2019,18+,4.9,,1,0,0,0,0,movie,NA
+2110,Deuces,2017,18+,5.9,,1,0,0,0,0,movie,NA
+2111,Tom Papa: You're Doing Great!,2020,,7.1,,1,0,0,0,0,movie,NA
+2112,Gridlocked,2015,18+,5.8,,1,0,0,0,0,movie,NA
+2113,Rattlesnake,2019,,4.6,29%,1,0,0,0,0,movie,NA
+2114,Jo Koy: Live from Seattle,2017,,7.1,,1,0,0,0,0,movie,NA
+2115,NiNoKuni,2019,,6.1,,1,0,0,0,0,movie,NA
+2116,Whitney Cummings: Money Shot,2010,18+,6.3,,1,0,1,0,0,movie,NA
+2117,Alpha and Omega 2: A Howl-iday Adventure,2013,all,5.1,,1,0,0,0,0,video movie,NA
+2118,Mac & Devin Go to High School,2012,18+,4.4,,1,0,0,0,0,movie,NA
+2119,Husband Factor,2015,13+,6.2,,1,0,0,0,0,movie,NA
+2120,Ram Jaane,1995,13+,5.4,,1,0,0,0,0,movie,NA
+2121,Judy Moody and the Not Bummer Summer,2011,7+,4.2,20%,1,0,0,0,0,movie,NA
+2122,The Bare-Footed Kid,1993,18+,6.5,,1,0,1,0,0,movie,NA
+2123,Chelsea Handler: Uganda Be Kidding Me Live,2014,,5.8,,1,0,0,0,0,tv movie,NA
+2124,Jarhead: Law of Return,2019,18+,6.2,,1,0,0,0,0,video movie,NA
+2125,The Plane Tree,2011,13+,6.2,,1,0,0,0,0,movie,NA
+2126,Shonar Pahar,2018,,8.1,,1,0,0,0,0,movie,NA
+2127,"Dana Carvey: Straight White Male, 60",2016,,6.4,,1,0,0,0,0,movie,NA
+2128,Pulang,2018,,6.7,,1,0,0,0,0,movie,NA
+2129,Cities of Last Things,2018,,6.2,,1,0,0,0,0,movie,NA
+2130,Betty White: First Lady of Television,2018,,7.8,,1,0,0,0,0,tv movie,NA
+2131,Tim Minchin: So F**king Rock Live,2008,,8.1,,1,0,1,0,0,video movie,NA
+2132,Tinker',2018,7+,5.1,,1,0,0,0,0,movie,NA
+2133,Grandmaster,2012,,7.0,,1,0,0,0,0,movie,NA
+2134,The Brave,2019,,5.0,,1,0,0,0,0,movie,NA
+2135,Fitoor,2016,,5.4,15%,1,0,0,0,0,movie,1
+2136,Derren Brown: Miracles for Sale,2011,,7.8,,1,0,0,0,0,movie,NA
+2137,The Killer,2017,,6.0,,1,0,0,0,0,NA,NA
+2138,Making Unorthodox,2020,,,,1,0,0,0,0,movie,NA
+2139,White Chamber,2018,,4.4,43%,1,0,0,0,0,movie,NA
+2140,100 Days of Loneliness,2018,,6.6,,1,0,0,0,0,movie,NA
+2141,The Crew,2015,,6.3,,1,0,0,0,0,tv series,NA
+2142,Curtiz,2018,,6.0,50%,1,0,0,0,0,movie,NA
+2143,Dragonheart: Battle for the Heartfire,2017,13+,5.3,,1,0,0,0,0,movie,NA
+2144,Woody Woodpecker,2017,7+,4.1,13%,1,0,0,0,0,movie,NA
+2145,Caregiver,2008,,6.3,,1,0,0,0,0,movie,NA
+2146,Annabelle Hooper and the Ghosts of Nantucket,2016,all,5.6,,1,0,0,0,0,movie,NA
+2147,Ninjago: Masters of Spinjitzu - Day of the Departed,2016,,7.0,,1,0,0,0,0,tv movie,NA
+2148,Joy,2018,18+,6.6,,1,0,0,0,0,movie,NA
+2149,This Earth of Mankind,2019,,6.5,,1,0,0,0,0,movie,NA
+2150,6-5=2,2013,,6.0,,1,0,1,0,0,movie,1
+2151,Single,2015,,6.8,,1,0,0,0,0,movie,NA
+2152,ReMastered: The Two Killings of Sam Cooke,2019,,7.2,,1,0,0,0,0,tv movie,NA
+2153,Out Of The Clear Blue Sky,2019,,6.4,,1,0,0,0,0,movie,NA
+2154,Getaway Plan,2017,,5.6,,1,0,0,0,0,movie,NA
+2155,Sol Levante,2020,,4.8,,1,0,0,0,0,movie,NA
+2156,Heirs,2015,,5.7,67%,1,0,0,0,0,tv series,NA
+2157,Russell Howard: Recalibrate,2017,18+,7.4,,1,0,0,0,0,movie,NA
+2158,The Third Party,2016,,6.1,,1,0,0,0,0,movie,NA
+2159,Jack of all Trades,2018,7+,6.1,,1,0,0,0,0,movie,NA
+2160,The 3rd Eye,2017,,5.1,,1,0,0,0,0,movie,NA
+2161,Jen Kirkman: Just Keep Livin'?,2017,,6.7,,1,0,0,0,0,movie,NA
+2162,Revenge of the Green Dragons,2014,18+,5.3,15%,1,0,0,0,0,movie,NA
+2163,The Flying Guillotine,1975,18+,6.7,,1,0,1,0,0,movie,NA
+2164,Mostly Sunny,2017,,5.4,43%,1,0,0,0,0,movie,NA
+2165,Laddaland,2011,18+,6.3,,1,0,0,0,0,movie,NA
+2166,The Bomb,2015,7+,7.6,,1,0,0,0,0,movie,NA
+2167,Jessica Darling's It List,2016,,5.4,,1,0,0,0,0,movie,NA
+2168,The Heroes of Evil,2015,,6.2,,1,0,0,0,0,movie,NA
+2169,Motichoor Chaknachoor,2019,,5.8,,1,0,0,0,0,movie,NA
+2170,Finally Found Someone,2017,,5.7,,1,0,0,0,0,movie,NA
+2171,Carbon,2018,,6.9,,1,0,0,0,0,movie,NA
+2172,Fronteras,2020,18+,4.2,,1,0,0,0,0,movie,NA
+2173,Da Kath and Kim Code,2005,16+,7.4,,1,0,0,0,0,tv movie,NA
+2174,ATM: Er Rak Error,2012,,7.1,,1,0,0,0,0,movie,NA
+2175,Dedemin Fişi,2016,7+,5.6,,1,0,0,0,0,movie,NA
+2176,Liberated: The New Sexual Revolution,2017,,6.0,,1,0,0,0,0,movie,NA
+2177,The Insomnia Club,2018,13+,6.3,,1,0,0,0,0,movie,NA
+2178,"Love, Surreal and Odd",2017,,5.7,,1,0,0,0,0,movie,NA
+2179,You're My Boss,2015,7+,6.3,,1,0,0,0,0,movie,NA
+2180,Deep,2017,7+,4.1,33%,1,0,0,0,0,movie,NA
+2181,Christmas Wedding Planner,2017,7+,4.3,,1,0,0,0,0,tv movie,NA
+2182,Krystal,2018,18+,5.4,10%,1,0,0,0,0,movie,NA
+2183,My Stupid Boss 2,2019,,6.6,,1,0,0,0,0,movie,NA
+2184,Maacher Jhol,2017,13+,7.0,,1,0,0,0,0,movie,NA
+2185,Rangreza,2017,,5.4,,1,0,0,0,0,movie,NA
+2186,P,2005,,5.1,,1,0,0,0,0,movie,NA
+2187,Nibunan,2017,,6.6,,1,0,0,0,0,movie,NA
+2188,Tere Naal Love Ho Gaya,2012,7+,5.8,,1,0,0,0,0,movie,NA
+2189,Daughter of the Lake,2015,,7.2,,1,0,0,0,0,movie,NA
+2190,Jewel's Catch One,2018,,6.7,,1,0,0,0,0,movie,NA
+2191,We Are Moluccans,2014,,8.2,,1,0,0,0,0,movie,NA
+2192,Animas,2018,,4.8,67%,1,0,0,0,0,movie,NA
+2193,Spivak,2018,18+,5.5,,1,0,0,0,0,movie,NA
+2194,The Devil Inside,2012,18+,4.2,6%,1,0,0,0,0,movie,NA
+2195,Russell Peters: Almost Famous,2016,,6.5,,1,0,0,0,0,movie,NA
+2196,Hikaru Utada Laughter in the Dark Tour 2018,2019,all,8.6,,1,0,0,0,0,movie,NA
+2197,Kidnapping Stella,2019,18+,4.8,,1,0,0,0,0,movie,NA
+2198,Salam - The First ****** Nobel Laureate,2019,,7.9,,1,0,0,0,0,movie,NA
+2199,My Perfect Romance,2018,13+,4.6,,1,0,0,0,0,tv movie,NA
+2200,"Colin Quinn: Red State, Blue State",2019,,7.6,,1,0,0,0,0,tv movie,NA
+2201,Paris Is Us,2019,,4.6,43%,1,0,0,0,0,movie,NA
+2202,Nothing to Lose,2018,7+,5.5,,1,0,1,0,0,movie,NA
+2203,Birth Reborn,2013,,8.0,,1,0,0,0,0,movie,NA
+2204,Love for Sale 2,2019,,6.9,,1,0,0,0,0,movie,NA
+2205,Thunderbolt,1947,,6.6,,1,0,1,0,0,movie,NA
+2206,I'll Sleep When I'm Dead,2016,,6.6,,1,0,0,0,0,movie,NA
+2207,Mango Dreams,2017,,7.8,,1,0,0,0,0,movie,NA
+2208,Race 2,2013,,5.3,,1,0,0,0,0,movie,NA
+2209,Saving Zoë,2019,18+,5.2,,1,0,0,0,0,movie,NA
+2210,The Ryan White Story,1989,,7.3,,1,0,0,0,0,tv movie,NA
+2211,Beauty and the Bestie,2015,,4.7,,1,0,0,0,0,movie,NA
+2212,Todd Barry: Spicy Honey,2017,,6.7,,1,0,0,0,0,movie,NA
+2213,Christmas with a View,2018,7+,5.1,,1,0,0,0,0,tv movie,NA
+2214,Happy Family,2017,7+,4.8,10%,1,0,0,0,0,movie,NA
+2215,Reincarnated,2012,18+,6.2,29%,1,0,0,0,0,movie,NA
+2216,Tracy Morgan: Staying Alive,2017,,6.1,,1,0,0,0,0,movie,NA
+2217,The Mad Monk,1993,,6.2,,1,0,1,0,0,movie,NA
+2218,We Are Family,2016,,6.1,,1,0,0,0,0,movie,NA
+2219,Kaalia,1981,all,6.8,,1,0,1,0,0,movie,NA
+2220,Kath & Kimderella,2012,,5.3,26%,1,0,0,0,0,movie,NA
+2221,Dragons: Rescue Riders: Hunt for the Golden Dragon,2020,,6.1,,1,0,0,0,0,movie,NA
+2222,Tootsies & The Fake,2019,,5.9,,1,0,0,0,0,movie,NA
+2223,14 Cameras,2018,18+,4.5,22%,1,0,0,0,0,movie,NA
+2224,All The Freckles In The World,2019,,5.2,,1,0,0,0,0,movie,NA
+2225,Eyyvah Eyvah 3,2014,13+,6.0,,1,0,0,0,0,movie,NA
+2226,Material,2012,,7.4,,1,0,0,0,0,movie,NA
+2227,Roll with Me,2017,,8.5,,1,0,0,0,0,movie,NA
+2228,Line Walker,2016,,6.1,,1,0,1,0,0,movie,NA
+2229,"Lorena, Light-footed Woman",2019,,7.1,,1,0,0,0,0,movie,NA
+2230,Rock my Heart,2017,,6.5,,1,0,0,0,0,movie,NA
+2231,Journey To Greenland,2016,,6.3,,1,0,0,0,0,movie,NA
+2232,One Last Thing,2018,18+,6.1,,1,0,0,0,0,movie,NA
+2233,Shark Night 3D,2011,13+,4.0,19%,1,0,0,0,0,movie,NA
+2234,Öldür Beni Sevgilim,2019,,4.5,,1,0,0,0,0,movie,NA
+2235,Shimla Mirchi,2020,,4.7,,1,0,0,0,0,movie,NA
+2236,Expedition Happiness,2017,all,5.9,,1,0,0,0,0,movie,NA
+2237,Brij Mohan Amar Rahe!,2018,,6.9,,1,0,0,0,0,movie,NA
+2238,Generation Iron 2,2017,13+,6.1,,1,0,0,0,0,movie,NA
+2239,A Beautiful Life,2011,,6.7,,1,0,0,0,0,movie,1
+2240,The Runner,2015,18+,4.7,24%,1,0,0,0,0,movie,NA
+2241,Spanish Affair 2,2015,,5.3,40%,1,0,0,0,0,movie,NA
+2242,Fiza,2000,,6.1,,1,0,0,0,0,movie,NA
+2243,Cave,2016,13+,4.2,,1,0,0,0,0,movie,NA
+2244,Russell Brand: Re:Birth,2018,,6.5,,1,0,0,0,0,movie,NA
+2245,Kings,2017,18+,5.0,13%,1,0,0,0,0,tv series,NA
+2246,The Mansion,2017,13+,4.6,,1,0,0,0,0,movie,NA
+2247,"Pizza, Beer, and Cigarettes",1998,18+,7.1,,1,0,0,0,0,movie,NA
+2248,Forgive Us Our Debts,2018,18+,6.0,,1,0,0,0,0,movie,NA
+2249,The Gospel of Matthew,2014,,8.4,,1,0,0,0,0,movie,NA
+2250,Wild Tango,1993,18+,6.8,,1,0,0,0,0,movie,NA
+2251,Tiffany Haddish: Black Mitzvah,2019,,6.1,,1,0,0,0,0,movie,NA
+2252,Meghnadbodh Rohoshyo,2017,,6.3,,1,0,0,0,0,movie,NA
+2253,Rory Scovel Tries Stand-Up for the First Time,2017,18+,6.7,,1,0,0,0,0,movie,NA
+2254,Cedric the Entertainer: Live from the Ville,2016,,5.9,,1,0,0,0,0,movie,NA
+2255,Trailer Park Boys - Live in F**kin' Dublin,2014,,5.9,,1,0,0,0,0,tv movie,NA
+2256,Brahman Naman,2016,,5.6,75%,1,0,0,0,0,movie,NA
+2257,All the Devil's Men,2018,18+,5.1,23%,1,0,0,0,0,movie,NA
+2258,Suzzanna: Buried Alive,2018,,5.6,,1,0,0,0,0,movie,NA
+2259,Bomb Scared,2017,,5.6,,1,0,0,0,0,movie,NA
+2260,Liar's Dice,2014,,6.9,,1,0,0,0,0,movie,NA
+2261,All Light Will End,2018,18+,4.0,,1,0,0,0,0,movie,NA
+2262,Boss Wants a Happy Ending,2014,13+,6.1,,1,0,0,0,0,movie,NA
+2263,Judd Apatow: The Return,2017,,6.2,,1,0,0,0,0,movie,NA
+2264,#cats_the_mewvie,2020,16+,5.2,,1,0,0,0,0,movie,NA
+2265,Hantu Kak Limah,2018,,6.4,,1,0,0,0,0,movie,NA
+2266,Jo Koy: Comin’ In Hot,2019,,7.4,,1,0,0,0,0,movie,NA
+2267,The Holiday Calendar,2018,,5.7,,1,0,0,0,0,movie,NA
+2268,The Lost Brother,2017,,6.5,,1,0,0,0,0,movie,NA
+2269,ReMastered: Tricky Dick & The Man in Black,2018,,7.2,,1,0,0,0,0,tv movie,NA
+2270,Mauricio Meirelles: Generating Chaos,2020,,6.5,,1,0,0,0,0,movie,NA
+2271,Laerte-se,2017,,6.9,,1,0,0,0,0,movie,NA
+2272,Manhattan Romance,2015,16+,5.6,,1,0,0,0,0,movie,NA
+2273,Street Flow,2019,18+,6.3,,1,0,0,0,0,movie,NA
+2274,F.R.E.D.I.,2018,,5.0,,1,0,0,0,0,movie,NA
+2275,Bon Bini Holland,2015,,5.6,,1,0,0,0,0,movie,NA
+2276,City of God – 10 Years Later,2013,,6.4,,1,0,0,0,0,movie,NA
+2277,Shanghai Fortress,2019,,4.3,,1,0,0,0,0,movie,NA
+2278,Jo Pil-ho: The Dawning Rage,2019,,6.2,,1,0,0,0,0,movie,NA
+2279,La Pena Máxima,2001,,6.8,,1,0,0,0,0,movie,NA
+2280,Neevevaro,2018,,6.9,,1,0,0,0,0,movie,NA
+2281,Tiffany Haddish: She Ready! From the Hood to Hollywood!,2017,18+,6.6,,1,0,0,0,0,movie,NA
+2282,Coin Heist,2017,7+,4.8,,1,0,0,0,0,movie,NA
+2283,Headwinds,2011,,6.5,,1,0,0,0,0,movie,NA
+2284,BNK48: Girls Don't Cry,2018,,7.3,,1,0,0,0,0,movie,NA
+2285,The Surrounding Game,2017,,6.6,,1,0,0,0,0,movie,NA
+2286,Chalay Thay Saath,2017,,6.7,,1,0,0,0,0,movie,NA
+2287,The Dreamer,2009,,6.8,,1,0,0,0,0,movie,NA
+2288,Budapest,2018,,5.3,,1,0,0,0,0,movie,NA
+2289,Trailer Park Boys: Live at the North Pole,2014,,6.2,,1,0,0,0,0,tv movie,NA
+2290,Jatt James Bond,2014,7+,6.7,,1,0,0,0,0,movie,NA
+2291,The Mars Generation,2017,,6.4,,1,0,0,0,0,movie,NA
+2292,Our Shining Days,2017,,6.9,,1,0,0,0,0,movie,NA
+2293,People You May Know,2016,18+,5.6,,1,0,0,0,0,movie,NA
+2294,Kalakalappu,2012,all,6.9,,1,0,0,0,0,movie,NA
+2295,LEGO Marvel Super Heroes: Black Panther - Trouble in Wakanda,2018,,5.8,,1,0,0,0,0,tv movie,NA
+2296,Fanatyk,2017,,6.6,,1,0,0,0,0,movie,NA
+2297,The Recall,2017,18+,4.3,,1,0,1,0,0,movie,NA
+2298,Los ladrones viejos: Las leyendas del artegio,2007,,8.2,,1,0,0,0,0,movie,NA
+2299,The Maus,2017,,5.0,,1,0,0,0,0,movie,NA
+2300,Les Étoiles Vagabondes,2019,,7.1,,1,0,0,0,0,movie,NA
+2301,Tom Papa: Live in New York City,2011,,7.1,,1,0,0,0,0,movie,NA
+2302,Marlon Wayans: Woke-ish,2018,,6.5,,1,0,0,0,0,movie,NA
+2303,Yes or No: Come Back to Me,2012,,6.4,,1,0,0,0,0,movie,NA
+2304,Thi Mai,2018,16+,5.9,,1,0,0,0,0,movie,NA
+2305,Our Godfather,2019,,6.8,,1,0,0,0,0,movie,NA
+2306,Naan Sigappu Manithan,2014,,6.5,,1,0,1,0,0,movie,NA
+2307,"Ron White: If You Quit Listening, I'll Shut Up",2018,,6.5,,1,0,0,0,0,movie,NA
+2308,Deliha 2,2018,all,4.6,,1,0,0,0,0,movie,NA
+2309,Truth or Dare,2017,16+,5.0,,1,0,1,0,0,movie,NA
+2310,ReMastered: The Miami Showband Massacre,2019,,7.0,,1,0,0,0,0,tv movie,NA
+2311,Simon Amstell: Set Free,2019,,6.5,,1,0,0,0,0,movie,NA
+2312,Filosofi Kopi,2015,,7.1,,1,0,0,0,0,movie,NA
+2313,Moor,2015,,7.7,,1,0,0,0,0,movie,NA
+2314,Sofía Niño de Rivera: Exposed,2016,,7.4,,1,0,0,0,0,movie,NA
+2315,Darc,2018,18+,5.8,,1,0,0,0,0,movie,NA
+2316,Cinderella Pop,2019,,4.6,,1,0,0,0,0,movie,1
+2317,Monsters: Dark Continent,2014,18+,4.3,17%,1,0,0,0,0,movie,NA
+2318,Lens,2016,,6.9,,1,0,0,0,0,movie,NA
+2319,Aakhri Adaalat,1988,,5.3,,1,0,0,0,0,movie,NA
+2320,Belief: The Possession of Janet Moses,2015,,5.8,,1,0,0,0,0,movie,NA
+2321,Kurbaan,2009,18+,5.7,,1,0,0,0,0,movie,NA
+2322,Buddies,2013,,6.7,,1,0,0,0,0,tv series,NA
+2323,Colin Quinn: The New York Story,2016,,6.7,,1,0,0,0,0,movie,NA
+2324,The Devil and Father Amorth,2018,,4.6,44%,1,0,0,0,0,movie,NA
+2325,Lionheart,2018,,5.6,,1,0,1,0,0,movie,NA
+2326,Lifeline,1997,16+,6.6,,1,0,0,0,0,movie,NA
+2327,The Doll,2016,,5.3,,1,0,0,0,0,movie,NA
+2328,Beauties of the Night,2016,,7.3,,1,0,0,0,0,movie,NA
+2329,LeapFrog: The Letter Factory,2003,all,7.9,,1,0,0,0,0,video movie,NA
+2330,LEGO Marvel Super Heroes - Guardians of the Galaxy: The Thanos Threat,2017,,6.1,,1,0,0,0,0,tv movie,NA
+2331,Stunt School,2019,,4.4,,1,0,0,0,0,movie,NA
+2332,Craig Ferguson: Tickle Fight,2017,,6.6,,1,0,0,0,0,movie,NA
+2333,Malicious,2018,18+,5.0,,1,0,0,0,0,movie,NA
+2334,It's for Your Own Good,2017,,5.5,,1,0,0,0,0,movie,NA
+2335,My Own Man,2014,,6.4,,1,0,0,0,0,movie,NA
+2336,Leal,2018,,6.0,,1,0,0,0,0,movie,NA
+2337,The Next Skin,2016,18+,6.2,,1,0,0,0,0,movie,NA
+2338,Vodka Diaries,2018,,5.6,,1,0,1,0,0,movie,NA
+2339,The House of Flowers Presents: The Funeral,2019,,7.6,,1,0,0,0,0,NA,NA
+2340,Barbie: Star Light Adventure,2016,all,5.9,,1,0,0,0,0,movie,NA
+2341,Beyond All Boundaries,2013,,8.1,,1,0,0,0,0,movie,NA
+2342,Girls with Balls,2019,,3.8,38%,1,0,0,0,0,movie,NA
+2343,Sadie's Last Days on Earth,2016,,5.2,40%,1,0,0,0,0,movie,NA
+2344,Yellowbird,2014,7+,5.6,,1,0,0,0,0,movie,NA
+2345,Alelí,2019,,6.4,,1,0,0,0,0,movie,NA
+2346,Back to School,2019,18+,5.3,,1,0,0,0,0,movie,NA
+2347,A Glimpse Inside the Mind of Charles Swan III,2012,18+,4.8,16%,1,0,0,0,0,movie,NA
+2348,Escape from Mr. Lemoncello's Library,2017,all,5.3,,1,1,0,0,0,tv movie,NA
+2349,Romantik Komedi,2010,all,5.3,,1,0,0,0,0,movie,NA
+2350,Justine,2019,,6.9,,1,0,0,0,0,movie,NA
+2351,Kobiety mafii 2,2019,18+,3.8,,1,0,0,0,0,movie,NA
+2352,Ragini MMS,2011,13+,4.9,,1,0,0,0,0,movie,NA
+2353,The 100 Years Show,2015,,7.4,,1,0,0,0,0,movie,NA
+2354,Joan Rivers: Don't Start with Me,2012,18+,6.5,,1,0,0,0,0,movie,NA
+2355,Beak & Brain,2013,,8.1,,1,0,0,0,0,episode,NA
+2356,Little Singham aur Kaal ka Mahajaal,2018,,,,1,0,0,0,0,NA,NA
+2357,Made in China,2019,,5.7,,1,0,0,0,0,movie,NA
+2358,Holiday Rush,2019,7+,4.8,,1,0,0,0,0,movie,NA
+2359,Ascharya Fuck It,2018,,5.0,,1,0,0,0,0,episode,NA
+2360,Honey: Rise Up and Dance,2018,13+,5.1,,1,0,0,0,0,movie,NA
+2361,The Search for Life in Space,2016,,6.4,,1,0,0,0,0,movie,NA
+2362,Puss in Book: Trapped in an Epic Tale,2017,all,5.3,,1,0,0,0,0,movie,NA
+2363,Vaya,2017,,7.8,,1,0,0,0,0,movie,NA
+2364,Christina P: Mother Inferior,2017,,6.3,,1,0,0,0,0,movie,NA
+2365,Def Comedy Jam 25,2017,,6.6,,1,0,0,0,0,movie,NA
+2366,Crossroads: One Two Jaga,2018,,6.5,,1,0,0,0,0,movie,NA
+2367,Chameli,2003,,7.0,,1,0,0,0,0,movie,NA
+2368,Night Fare,2016,18+,5.5,,1,0,0,0,0,movie,NA
+2369,When Angels Sleep,2018,18+,5.4,,1,0,0,0,0,movie,NA
+2370,The Last Thing He Wanted,2020,18+,4.2,6%,1,0,0,0,0,movie,NA
+2371,Chaahat,1996,all,5.5,,1,0,0,0,0,movie,NA
+2372,Dance Flick,2009,13+,3.5,18%,1,0,1,0,0,movie,NA
+2373,Haani,2013,7+,7.1,,1,0,0,0,0,movie,NA
+2374,My Führer,2007,,5.5,,1,0,0,0,0,movie,NA
+2375,The (Silent) War,2019,18+,5.6,56%,1,0,0,0,0,movie,NA
+2376,The Trap,2019,,4.3,,1,0,1,0,0,movie,NA
+2377,Love and Shukla,2017,,7.3,,1,0,0,0,0,movie,NA
+2378,Godzilla: The Planet Eater,2018,13+,5.0,,1,0,0,0,0,movie,NA
+2379,The Meaning of Monty Python,2013,,7.7,,1,0,0,0,0,video movie,NA
+2380,Goli Soda 2,2018,,7.3,,1,0,0,0,0,movie,NA
+2381,The 3rd Eye 2,2019,,5.5,,1,0,0,0,0,movie,NA
+2382,The Reconquest,2016,,6.7,,1,0,0,0,0,movie,NA
+2383,Raising the Bar,2016,7+,5.6,,1,0,0,0,0,movie,NA
+2384,Much Ado About Nothing,2016,,6.5,,1,0,0,0,0,movie,NA
+2385,Maria Bamford: Old Baby,2017,18+,5.9,,1,0,0,0,0,movie,NA
+2386,Jacob's Ladder,2019,18+,3.4,5%,1,0,1,0,0,movie,NA
+2387,Airplane Mode,2019,18+,3.8,,1,0,0,0,0,movie,NA
+2388,Unchained: The Untold Story of Freestyle Motocross,2016,,7.9,,1,0,1,0,0,movie,NA
+2389,The Great Gambler,1979,all,6.5,,1,0,1,0,0,movie,NA
+2390,Who the Fuck is That Guy?: The Fabulous Journey of Michael Alago,2017,,6.1,,1,0,0,0,0,movie,NA
+2391,Maz Jobrani: Immigrant,2017,,6.6,,1,0,0,0,0,movie,NA
+2392,Heroes Wanted,2016,,4.6,,1,0,0,0,0,movie,1
+2393,Sisterakas,2012,,5.4,,1,0,0,0,0,movie,NA
+2394,Colin Quinn: Unconstitutional,2015,,7.1,,1,0,1,0,0,movie,NA
+2395,Adam Devine: Best Time of Our Lives,2019,13+,5.8,,1,0,0,0,0,movie,NA
+2396,ReMastered: The Lion's Share,2019,13+,6.9,,1,0,0,0,0,tv movie,NA
+2397,Hide and Seek,2016,,5.9,,1,0,1,0,0,movie,NA
+2398,Cabin Fever,2016,18+,3.7,,1,0,0,0,0,movie,NA
+2399,Bazaar,1982,18+,7.3,,1,0,0,0,0,movie,NA
+2400,LEGO Jurassic World: The Indominus Escape,2016,7+,5.7,,1,0,0,0,0,tv mini series,NA
+2401,Memory Games,2019,,6.7,,1,0,0,0,0,movie,NA
+2402,A Remarkable Tale,2019,7+,5.2,,1,0,0,0,0,movie,NA
+2403,Playing Hard,2018,,6.1,,1,0,0,0,0,movie,NA
+2404,"Berlin, I Love You",2019,18+,4.6,11%,1,0,0,0,0,movie,NA
+2405,Bhouri,2017,13+,6.7,,1,0,1,0,0,movie,NA
+2406,Compulsión,2019,,5.6,,1,0,0,0,0,movie,NA
+2407,Kathleen Madigan: Bothering Jesus,2016,18+,6.8,,1,0,0,0,0,video movie,NA
+2408,The Great Magician,2011,,5.9,,1,0,0,0,0,movie,NA
+2409,Manusangada,2018,,8.4,,1,0,0,0,0,movie,NA
+2410,Silent,2014,,6.4,,1,0,0,0,0,movie,NA
+2411,The Boss's Daughter,2016,,5.5,,1,0,0,0,0,movie,1
+2412,Road Trip: Beer Pong,2009,18+,4.9,,1,0,0,0,0,video movie,NA
+2413,Upstarts,2019,,6.6,,1,0,0,0,0,movie,NA
+2414,ReMastered: Who Shot the Sheriff,2018,,6.9,,1,0,0,0,0,tv movie,NA
+2415,"2,215",2018,,7.9,,1,0,0,0,0,movie,NA
+2416,Iron Man & Captain America: Heroes United,2014,7+,5.5,,1,0,0,0,0,video movie,NA
+2417,The Dancer,2011,,7.1,,1,0,0,0,0,movie,NA
+2418,Good Sam,2019,7+,5.6,,1,0,0,0,0,movie,NA
+2419,El Dealer,2010,,5.7,,1,0,0,0,0,tv mini series,NA
+2420,The George McKenna Story,1986,,6.1,,1,0,0,0,0,tv movie,NA
+2421,I'm Brent Morin,2015,,6.5,,1,0,0,0,0,movie,NA
+2422,The Gentleman Driver,2018,,6.3,,1,0,0,0,0,movie,NA
+2423,One 2 Ka 4,2001,7+,5.4,,1,0,0,0,0,movie,NA
+2424,Tahaan,2008,,7.1,,1,0,1,0,0,movie,NA
+2425,The Darkest Dawn,2016,,4.0,,1,0,0,0,0,movie,NA
+2426,Jail,2009,,6.2,,1,0,1,0,0,movie,NA
+2427,The Only Mother,2003,,6.5,,1,0,0,0,0,movie,NA
+2428,Tottaa Pataaka Item Maal,2018,,7.9,,1,0,0,0,0,movie,NA
+2429,Professor,1962,,7.0,,1,0,0,0,0,movie,NA
+2430,Rogue Warfare,2019,18+,2.6,,1,0,0,0,0,movie,NA
+2431,The Super Parental Guardians,2016,,4.4,,1,0,0,0,0,movie,NA
+2432,Barbie: Dolphin Magic,2017,all,5.6,,1,0,0,0,0,video movie,NA
+2433,Judwaa,1997,,6.0,,1,0,1,0,0,movie,NA
+2434,Chupan Chupai,2018,,5.8,,1,0,0,0,0,movie,NA
+2435,Kismat Konnection,2008,all,5.2,,1,0,0,0,0,movie,NA
+2436,Kyaa Kool Hai Hum,2005,,6.1,,1,0,0,0,0,movie,NA
+2437,Gun City,2018,,6.3,,1,0,0,0,0,movie,NA
+2438,Katt Williams: Kattpacalypse,2012,18+,5.5,,1,0,0,0,0,movie,NA
+2439,Dry Martina,2018,,5.9,50%,1,0,0,0,0,movie,NA
+2440,The Doll 2,2017,,5.4,,1,0,0,0,0,movie,NA
+2441,Malcriados,2016,,6.1,,1,0,0,0,0,movie,NA
+2442,Santa Girl,2019,,5.0,,1,0,1,0,0,movie,NA
+2443,The Breakup Playlist,2015,7+,6.5,,1,0,0,0,0,movie,NA
+2444,Full Count,2019,,5.5,,1,0,0,0,0,movie,NA
+2445,Welcome Mr. President!,2013,,6.2,,1,0,0,0,0,episode,NA
+2446,My Honor Was Loyalty,2015,13+,4.4,,1,0,0,0,0,movie,NA
+2447,Music Teacher,2018,,6.4,,1,0,0,0,0,movie,NA
+2448,Lucas Brothers: On Drugs,2017,,5.5,,1,0,0,0,0,movie,NA
+2449,All the Reasons to Forget,2018,,6.3,,1,0,0,0,0,movie,NA
+2450,Reggie Watts: Spatial,2016,,6.1,,1,0,0,0,0,movie,NA
+2451,Hunt to Kill,2010,18+,5.2,,1,0,0,0,0,movie,NA
+2452,I'm in Love with a Church Girl,2013,7+,4.4,6%,1,0,0,0,0,movie,NA
+2453,Michael Lost and Found,2017,,5.2,,1,0,0,0,0,movie,NA
+2454,3 Türken und ein Baby,2015,,5.5,,1,0,0,0,0,episode,NA
+2455,Metro,2016,,7.3,,1,0,0,0,0,movie,NA
+2456,Hayat Öpücüğü,2015,all,5.9,,1,0,0,0,0,movie,NA
+2457,Koi Aap Sa,2005,,5.4,,1,0,0,0,0,movie,NA
+2458,W. Kamau Bell: Private School Negro,2018,,6.3,,1,0,0,0,0,movie,NA
+2459,Offline: Are You Ready for the Next Level?,2016,,5.0,,1,0,0,0,0,movie,NA
+2460,Abzurdah,2015,13+,5.4,,1,0,0,0,0,movie,NA
+2461,Honeymoon Travels Pvt. Ltd.,2007,13+,6.1,,1,0,0,0,0,movie,2
+2462,Evvarikee Cheppoddu,2019,,7.3,,1,0,0,0,0,movie,NA
+2463,Awake,2019,,5.0,14%,1,0,0,0,0,movie,NA
+2464,Apache Warrior,2017,,6.8,,1,0,0,0,0,movie,NA
+2465,LEGO Ninjago: Day of the Departed,2017,,7.4,,1,0,0,0,0,tv movie,NA
+2466,Gad Gone Wild,2017,,6.8,,1,0,0,0,0,movie,NA
+2467,Sparring,2017,,6.2,,1,0,0,0,0,movie,NA
+2468,Mo Amer: The Vagabond,2018,,7.3,,1,0,0,0,0,movie,NA
+2469,Invisible,2017,,6.0,,1,0,0,0,0,tv series,2
+2470,Evening Shadows,2018,,7.1,,1,0,0,0,0,movie,NA
+2471,Zip & Zap and the Captain's Island,2016,,5.6,,1,0,0,0,0,movie,NA
+2472,Anjelah Johnson: Not Fancy,2015,,5.8,,1,0,0,0,0,movie,NA
+2473,Poster Boys,2017,13+,5.5,33%,1,0,0,0,0,movie,NA
+2474,A Flying Jatt,2016,,3.1,43%,1,0,0,0,0,movie,NA
+2475,Jeff Foxworthy & Larry the Cable Guy: We've Been Thinking,2016,,5.6,,1,0,0,0,0,movie,NA
+2476,Mallu Singh,2012,,5.1,,1,0,0,0,0,movie,NA
+2477,Temple,2017,18+,3.6,27%,1,0,1,0,0,tv mini series,NA
+2478,Whindersson Nunes: Adult,2019,,6.7,,1,0,0,0,0,movie,NA
+2479,Sextuplets,2019,16+,4.4,14%,1,0,0,0,0,movie,NA
+2480,Night on Earth: Shot in the Dark,2020,,,,1,0,0,0,0,movie,NA
+2481,Warrior Savitri,2016,,6.9,,1,0,0,0,0,movie,NA
+2482,Sardaarji 2,2016,,5.3,,1,0,0,0,0,movie,NA
+2483,My Birthday Song,2018,,5.5,,1,0,0,0,0,movie,NA
+2484,The Open House,2018,18+,3.2,23%,1,0,0,0,0,movie,NA
+2485,Christmas in the Smokies,2015,all,5.9,,1,0,0,0,0,movie,NA
+2486,Lavell Crawford: Can a Brother Get Some Love?,2011,18+,7.1,,1,0,0,0,0,movie,NA
+2487,Abominable Christmas,2012,,5.4,,1,0,0,0,0,tv short,NA
+2488,Theo Von: No Offense,2016,,5.6,,1,0,0,0,0,movie,NA
+2489,A Family Affair,2015,,7.1,,1,0,0,0,0,movie,NA
+2490,Animales sin collar,2018,13+,5.0,,1,0,1,0,0,movie,NA
+2491,Life Ki Toh Lag Gayi,2012,7+,5.4,,1,0,0,0,0,movie,NA
+2492,Forever the Moment,2008,,6.4,,1,0,0,0,0,movie,NA
+2493,Going for Gold,2018,all,4.7,,1,0,0,0,0,movie,NA
+2494,Danur,2017,,5.3,,1,0,0,0,0,movie,NA
+2495,Kardec,2019,,6.2,,1,0,0,0,0,movie,NA
+2496,The Gospel of Mark,2015,,8.1,,1,0,0,0,0,movie,NA
+2497,Lucky: No Time for Love,2005,all,4.7,,1,0,0,0,0,movie,NA
+2498,Numbered,2012,,7.3,,1,0,0,0,0,movie,NA
+2499,Arctic Heart,2016,16+,5.2,,1,0,0,0,0,movie,NA
+2500,Ayana,2017,,7.6,,1,0,0,0,0,movie,NA
+2501,The Negro Soldier,1944,,5.9,,1,0,1,0,0,movie,NA
+2502,A Tale of Two Kitchens,2019,,6.4,,1,0,0,0,0,movie,NA
+2503,Can Dostlar,2019,,5.5,,1,0,0,0,0,movie,NA
+2504,Birders,2019,,6.4,,1,0,0,0,0,movie,NA
+2505,Hükümet Kadın 2,2013,,6.1,,1,0,0,0,0,movie,NA
+2506,Behind the Curtain: Todrick Hall,2017,,6.7,,1,0,0,0,0,movie,NA
+2507,Gatao 2: Rise of the King,2018,,6.1,,1,0,0,0,0,movie,NA
+2508,"Trailer Park Boys: Drunk, High and Unemployed: Live In Austin",2015,,6.0,,1,0,0,0,0,NA,NA
+2509,Cristina,2016,,7.9,,1,0,0,0,0,movie,NA
+2510,Kaakan,2015,,8.3,,1,0,0,0,0,movie,NA
+2511,Paharganj,2019,,5.6,,1,0,0,0,0,movie,NA
+2512,Katt Williams: Live,2006,,7.0,,1,0,0,0,0,video movie,NA
+2513,XV Beyond the Tryline,2016,,6.5,,1,0,0,0,0,movie,NA
+2514,A Triumph of the Heart: The Ricky Bell Story,1991,,7.4,,1,0,0,0,0,tv movie,NA
+2515,My Way: The Rise and Fall of Silvio Berlusconi,2016,,6.3,,1,0,1,0,0,tv movie,NA
+2516,Change in the Air,2018,7+,5.4,11%,1,0,0,0,0,movie,NA
+2517,Aliens Ate My Homework,2018,7+,4.6,,1,0,0,0,0,video movie,NA
+2518,Amy Schumer: The Leather Special,2017,18+,2.9,,1,0,0,0,0,movie,NA
+2519,"To Each, Her Own",2018,,5.2,,1,0,0,0,0,movie,NA
+2520,Mad Ron's Prevues from Hell,1987,,6.1,,1,0,0,0,0,video movie,NA
+2521,Alibaba Aur 40 Chor,1979,,6.2,,1,0,0,0,0,movie,NA
+2522,Dhan Dhana Dhan Goal,2007,7+,4.9,,1,0,0,0,0,movie,NA
+2523,Disciples of the 36th Chamber,1985,18+,6.5,,1,0,1,0,0,movie,NA
+2524,D.L. Hughley: Contrarian,2018,,6.5,,1,0,0,0,0,movie,NA
+2525,Zubaan,2016,,6.1,83%,1,0,1,0,0,movie,NA
+2526,Nathicharami,2018,,7.1,,1,0,0,0,0,movie,NA
+2527,The Witch Files,2018,,4.4,,1,0,0,0,0,movie,NA
+2528,Children of God,1994,,6.3,,1,0,1,0,0,tv movie,NA
+2529,West Coast,2015,,5.8,,1,0,0,0,0,movie,NA
+2530,Letters from Prague,2016,,7.2,,1,0,0,0,0,movie,NA
+2531,Rebirth,2016,18+,5.0,,1,0,1,0,0,movie,NA
+2532,Soekarno,2013,,7.0,,1,0,0,0,0,movie,NA
+2533,Vettai,2012,,5.9,,1,0,0,0,0,movie,NA
+2534,Virsa,2010,,5.8,,1,0,0,0,0,movie,NA
+2535,Muran,2011,,6.4,,1,0,0,0,0,movie,NA
+2536,Darna Mana Hai,2003,,6.3,,1,0,1,0,0,movie,NA
+2537,The Gospel of Luke,2015,,6.8,,1,0,0,0,0,movie,NA
+2538,Go! Go! Cory Carson: The Chrissy,2020,all,7.3,,1,0,0,0,0,movie,NA
+2539,Maria Bamford: The Special Special Special!,2012,18+,6.9,,1,0,1,0,0,movie,NA
+2540,26 Years,2012,,6.3,,1,0,0,0,0,movie,NA
+2541,Forbidden Games: The Justin Fashanu Story,2017,13+,6.5,,1,0,0,0,0,movie,NA
+2542,The Tigers of Scotland,2017,,6.6,,1,0,1,0,0,movie,NA
+2543,Hero,1997,18+,6.3,,1,0,1,0,0,movie,NA
+2544,"I Love You, Stupid",2020,,5.8,,1,0,0,0,0,movie,NA
+2545,Secrets in the Hot Spring,2018,,6.1,,1,0,0,0,0,movie,NA
+2546,Slam,2008,,5.9,,1,0,0,0,0,movie,NA
+2547,Dark Light,2019,,4.2,,1,0,0,0,0,movie,NA
+2548,Ungli,2014,13+,5.7,,1,0,0,0,0,movie,NA
+2549,Seven in Heaven,2018,13+,5.3,,1,0,0,0,0,movie,NA
+2550,Revenge of the Pontianak,2019,,5.2,,1,0,0,0,0,movie,NA
+2551,The World We Make,2019,7+,5.1,,1,0,0,0,0,movie,NA
+2552,The Set Up,2019,,4.4,,1,0,1,0,0,movie,NA
+2553,What the F* Is Going On?,2019,,,,1,0,0,0,0,episode,NA
+2554,Emma',2016,,7.4,,1,0,0,0,0,movie,NA
+2555,Garfield Gets Real,2007,all,4.4,,1,0,0,0,0,video movie,NA
+2556,Compulsion,2016,18+,3.7,,1,0,1,0,0,movie,NA
+2557,Echcharikkai,2018,,6.5,,1,0,0,0,0,movie,1
+2558,Jagat,2015,,7.0,,1,0,0,0,0,movie,NA
+2559,Mercenary,2016,,6.5,,1,0,0,0,0,video movie,NA
+2560,Gun Runners,2016,,7.2,,1,0,0,0,0,movie,NA
+2561,Stretch Armstrong: The Breakout,2018,,6.4,,1,0,0,0,0,episode,NA
+2562,The Amazing Praybeyt Benjamin,2014,,4.1,,1,0,0,0,0,movie,NA
+2563,Satyagraha,2013,7+,5.9,,1,0,0,0,0,movie,NA
+2564,Players,2012,,4.1,,1,0,0,0,0,movie,NA
+2565,Chashme Baddoor,2013,,5.4,,1,0,0,0,0,movie,NA
+2566,My True Friend,2012,16+,6.5,,1,0,1,0,0,tv series,NA
+2567,All of You,2017,,5.3,,1,0,0,0,0,movie,NA
+2568,Opium and the Kung Fu Master,1984,,6.5,,1,0,0,0,0,movie,NA
+2569,Still Laugh-In: The Stars Celebrate,2019,,5.0,,1,0,0,0,0,movie,NA
+2570,Generation Iron 3,2018,,6.4,,1,0,0,0,0,movie,NA
+2571,Barbie Video Game Hero,2017,,5.0,,1,0,0,0,0,video movie,NA
+2572,Cristela Alonzo: Lower Classy,2017,18+,6.3,,1,0,0,0,0,movie,NA
+2573,Maine Pyaar Kyun Kiya?,2005,7+,5.6,,1,0,1,0,0,movie,NA
+2574,Bhangra Paa Le,2020,,6.1,,1,0,0,0,0,movie,NA
+2575,Elizabeth at 90: A Family Tribute,2016,all,7.8,,1,0,0,0,0,tv movie,NA
+2576,Spookley the Square Pumpkin,2004,all,5.0,,1,0,0,0,0,video movie,NA
+2577,Unspeakable Acts,1990,,6.2,,1,0,0,0,0,tv movie,NA
+2578,Adam: His Song Continues,1986,,7.2,,1,0,0,0,0,tv movie,NA
+2579,The Fourth Direction,2015,,6.4,63%,1,0,0,0,0,movie,NA
+2580,The Long Goodbye: The Kara Tippetts Story,2019,,8.1,,1,0,0,0,0,movie,NA
+2581,A Heavy Heart,2015,,7.1,,1,0,0,0,0,movie,NA
+2582,Bibi & Tina: Girls vs. Boys,2016,,5.4,,1,0,0,0,0,movie,NA
+2583,"River, el Más Grande Siempre",2019,,8.1,,1,0,0,0,0,movie,NA
+2584,Interview with a Serial Killer,2008,13+,5.9,,1,0,1,0,0,tv movie,NA
+2585,Numero Zero: The Roots of Italian Rap,2015,,7.5,,1,0,0,0,0,movie,NA
+2586,The Bittersweet,2017,,5.3,,1,0,0,0,0,movie,NA
+2587,Mere Pyare Prime Minister,2019,,6.8,,1,0,0,0,0,movie,NA
+2588,Saawan,2016,,7.0,,1,0,0,0,0,movie,NA
+2589,The Road to El Camino: Behind the Scenes of El Camino: A Breaking Bad Movie,2019,13+,7.1,,1,0,0,0,0,tv short,NA
+2590,Enter the Anime,2019,,2.5,,1,0,0,0,0,movie,NA
+2591,Monster Island,2017,7+,4.8,18%,1,0,1,0,0,tv movie,NA
+2592,13th: A Conversation with Oprah Winfrey & Ava DuVernay,2017,,6.9,,1,0,0,0,0,video movie,NA
+2593,Bibi & Tina: Bewildered and Bewitched,2014,,5.3,,1,0,0,0,0,movie,NA
+2594,A Family Reunion Christmas,2019,,5.5,,1,0,0,0,0,tv movie,NA
+2595,Power Rangers Samurai: Clash of the Red Rangers - The Movie,2011,7+,7.0,,1,0,0,0,0,video movie,NA
+2596,A Perfect Man,2013,18+,5.2,20%,1,0,0,0,0,movie,NA
+2597,Urvi,2017,,7.0,,1,0,0,0,0,movie,NA
+2598,Un + une,2015,,6.2,,1,0,0,0,0,movie,NA
+2599,Hitler's Olympics,2016,,6.6,,1,0,0,0,0,tv movie,NA
+2600,Çok Filim Hareketler Bunlar,2010,,4.3,,1,0,0,0,0,movie,NA
+2601,Calum Von Moger: Unbroken,2019,,6.2,,1,0,0,0,0,movie,NA
+2602,Heartthrob,2017,,5.5,,1,0,0,0,0,movie,NA
+2603,The Body,2019,,5.4,17%,1,0,0,0,0,movie,NA
+2604,Arrest Letter,2017,,4.5,,1,0,0,0,0,movie,NA
+2605,One Last Shot,1998,,6.9,,1,0,0,0,0,movie,NA
+2606,Undercover Grandpa,2017,13+,5.2,,1,0,0,0,0,movie,NA
+2607,Bibi & Tina: Perfect Pandemonium,2017,,4.2,,1,0,0,0,0,movie,NA
+2608,Scales: Mermaids Are Real,2017,7+,4.5,,1,0,0,0,0,movie,NA
+2609,Abhinetri No. 1,2016,,6.1,,1,0,0,0,0,movie,NA
+2610,Driven to Dance,2018,,4.1,,1,0,0,0,0,movie,NA
+2611,Theeya Velai Seiyyanum Kumaru,2013,,6.1,,1,0,0,0,0,movie,NA
+2612,The App,2019,,2.6,,1,0,0,0,0,movie,NA
+2613,The Last Hour,2017,,6.2,,1,0,0,0,0,movie,NA
+2614,Aashayein,2010,13+,7.1,,1,0,0,0,0,movie,NA
+2615,Brother,2019,,6.7,,1,0,0,0,0,movie,NA
+2616,Marvel Super Heroes Adventures: Frost Fight,2015,7+,5.1,,1,0,0,0,0,video movie,NA
+2617,Convict,2014,,5.3,,1,0,1,0,0,movie,NA
+2618,Nila,2016,,6.8,,1,0,0,0,0,movie,NA
+2619,Jatts in Golmaal,2013,7+,6.2,,1,0,0,0,0,movie,NA
+2620,A Billion Colour Story,2016,,7.8,,1,0,0,0,0,movie,14
+2621,A Mighty Team,2016,,5.5,,1,0,0,0,0,movie,NA
+2622,Nightmare in Columbia County,1991,,5.9,,1,0,1,0,0,tv movie,NA
+2623,"Ram Dass, Going Home",2017,13+,7.0,,1,0,0,0,0,movie,NA
+2624,15-Aug,2019,,5.8,,1,0,0,0,0,movie,NA
+2625,Niyazi Gul At A Gallop,2015,7+,4.5,,1,0,0,0,0,movie,NA
+2626,Day of the Dead: Bloodline,2017,18+,3.4,13%,1,0,0,0,0,movie,NA
+2627,Liefling The Movie,2010,,6.3,,1,0,0,0,0,movie,NA
+2628,Hitler's Steel Beast,2017,,6.3,,1,0,0,0,0,movie,NA
+2629,Pants on Fire,2014,,5.1,,1,0,0,0,0,tv series,NA
+2630,Kevin Hart's Guide to Black History,2019,,5.4,,1,0,0,0,0,tv movie,NA
+2631,Miranda Sings Live... Your Welcome.,2019,,5.5,,1,0,0,0,0,movie,NA
+2632,Jora 10 Numbaria,2017,,6.9,,1,0,0,0,0,movie,NA
+2633,Back to the 90s,2015,,6.5,,1,0,0,0,0,movie,NA
+2634,The Bros,2017,,6.1,,1,0,0,0,0,movie,NA
+2635,Party Monster: Scratching the Surface,2018,,7.0,,1,0,0,0,0,episode,NA
+2636,Boshkash,2008,,4.7,,1,0,0,0,0,movie,NA
+2637,D.L. Hughley: Clear,2014,,6.7,,1,0,1,0,0,movie,NA
+2638,I Love You - A Divorce Comedy,2016,,4.7,,1,0,0,0,0,movie,NA
+2639,The First Temptation of Christ,2019,,4.6,,1,0,0,0,0,movie,NA
+2640,Ankur Arora Murder Case,2013,13+,6.5,,1,0,1,0,0,movie,NA
+2641,Asees,2018,,7.4,,1,0,0,0,0,movie,NA
+2642,Water,2013,13+,6.8,,1,0,1,0,0,movie,NA
+2643,Backdraft 2,2019,18+,4.8,,1,0,0,0,0,video movie,NA
+2644,David Batra: Elephant in The Room,2020,,5.8,,1,0,0,0,0,NA,NA
+2645,The Man Who Would Be Polka King,2009,7+,6.2,,1,0,0,0,0,movie,NA
+2646,Surviving R. Kelly: The Impact,2019,7+,6.3,,1,0,0,0,0,tv movie,NA
+2647,Barah Aana,2009,18+,6.8,,1,0,1,0,0,movie,NA
+2648,Happy Go Lucky,2014,,6.5,,1,0,1,0,0,movie,NA
+2649,Food on the Go,2017,,6.3,,1,0,0,0,0,movie,1
+2650,El testigo: Caín y Abel,2018,,8.0,,1,0,0,0,0,movie,NA
